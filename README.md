@@ -10,10 +10,10 @@ To help curious people understand their growth we have develop the current repos
 
 # Batches & links
 ## 2022 Fall Batch
-- [Frontend Path](Path/batch_2022/blog/front.md) index
-- [Backend Path](Path/batch_2022/blog/back.md) index
-- [Search Path](Path/batch_2022/blog/search.md) index
-- [ECA Path](Path/batch_2022/blog/eca.md) index
+- [Frontend Path](Path/batch_fall2022/blog/front.md) index
+- [Backend Path](Path/batch_fall2022/blog/back.md) index
+- [Search Path](Path/batch_fall2022/blog/search.md) index
+- [ECA Path](Path/batch_fall2022/blog/eca.md) index
 
 1. [Learning Project](https://github.com/repolink) WIP
 2. [PoC Project](https://github.com/repolink) WIP
