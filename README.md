@@ -10,6 +10,7 @@ To help curious people understand their growth we have develop the current repos
 
 # Batches & links
 ## 2022 Fall Batch
+Get to meet the [Academy Fellows](Path/batch_fall2022/blog/fellows.md)\.
 - [Frontend Path](Path/batch_fall2022/blog/front.md) index
 - [Backend Path](Path/batch_fall2022/blog/back.md) index
 - [Search Path](Path/batch_fall2022/blog/search.md) index
