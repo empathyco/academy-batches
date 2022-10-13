@@ -32,19 +32,3 @@
 
  ![img_name](assets/img_name.jpg)  
 
-### [Exercise 2](link git repo)
-**Author** [name](link git user)
-- Development point 1
-- Development point 2
-
-  
- ![img_name](assets/img_name.jpg)
-  
-### [Exercise 3](link git repo)
-**Author** [name](link git user)
-- Development point 1
-- Development point 2
-
-  
- ![img_name](assets/img_name.jpg)  
-
