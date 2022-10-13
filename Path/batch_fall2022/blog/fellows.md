@@ -12,6 +12,7 @@ You can check their progress here: [frontend.md](frontend.md)<br>
 
 ### Backend Path
 The Path in the Back is formed by [Mario Lombas](https://github.com/mlombas), //TODO
+
 You can see all we do [here](back.md).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/empathyco/academy-batches/Path/batch_202x/Assets/picture.png" alt="Academy Fellows" width="300"/>
