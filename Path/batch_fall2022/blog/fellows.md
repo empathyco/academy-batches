@@ -16,7 +16,7 @@ The Path in the Back is formed by [Mario Lombas](https://github.com/mlombas), [L
 You can see all we do [here](back.md).
 
 ### Search Path
-This path is formed by [María Fernández](https://github.com/mariaffnandez), [Alejandro Rivera](https://github.com/iskelazz), [Sofía Abal](https://github.com/Sofia-AF)
+This path is formed by [María Fernández](https://github.com/mariaffnandez), [Alejandro Rivera](https://github.com/iskelazz), [Sofía Abal](https://github.com/Sofia-AF), [Manuel Gonzalez](https://github.com/gs-Manuel)
 
 You can check their progress [here](search.md)
 
