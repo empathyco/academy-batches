@@ -1,7 +1,7 @@
 # Backend week 1
 
 ## Session
-### Max five words description
+### Essential and Spring Boot
 
 *10-10-2022*
 
