@@ -11,7 +11,7 @@ The first path is formed by [Andrea Delgado](https://github.com/andreadlgdo), [L
 You can check their progress here: [front.md](front.md)<br>
 
 ### Backend Path
-The Path in the Back is formed by [Mario Lombas](https://github.com/mlombas), [Lucía Mayoral](https://github.com/luciamayo), [Álvaro Rodríguez](https://github.com/alvarorg14), [Anton Vazquez](https://github.com/AntonVazquez) //TODO
+The Path in the Back is formed by [Mario Lombas](https://github.com/mlombas), [Lucía Mayoral](https://github.com/luciamayo), [Álvaro Rodríguez](https://github.com/alvarorg14), [Anton Vazquez](https://github.com/AntonVazquez), [Óscar Pérez](https://github.com/uo265488)
 
 You can see all we do [here](back.md).
 
