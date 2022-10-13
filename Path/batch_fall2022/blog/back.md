@@ -1,6 +1,6 @@
 # Week 1
-< The first week we have been configuring all the tools that we are going to use during the training sessions.
-We have also done a small test exercise to get started with the Spring boot.>
+The first week we have been configuring all the tools that we are going to use during the training sessions.
+We have also done a small test exercise to get started with the Spring boot.
 
 ## Session
 ### Max five words description
