@@ -25,6 +25,7 @@ We have also done a small test exercise to get started with the Spring boot.
 <!-- Comment wheter if it is autonomous or group work -->
 <Statement>
 ### [Exercise 1](link git repo)
+ 
 **Author** [name](link git user)
 - Development point 1
 - Development point 2
