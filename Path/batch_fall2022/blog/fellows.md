@@ -15,5 +15,8 @@ The Path in the Back is formed by [Mario Lombas](https://github.com/mlombas), [L
 
 You can see all we do [here](back.md).
 
+### Search Path
+This path is formed by [María Fernández](https://github.com/mariaffnandez), ...
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/empathyco/academy-batches/Path/batch_202x/Assets/picture.png" alt="Academy Fellows" width="300"/>
 <br><br> 
