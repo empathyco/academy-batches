@@ -8,10 +8,10 @@ In case you don't know us yet, we are x students who are just taking off 🚀 ou
 
 ### Frontend path <br>
 The first path is formed by [Andrea Delgado](https://github.com/andreadlgdo), [Laura Martínez](https://github.com/lauramargar) and [Lucía López](https://github.com/zhuzilu).<br>
-You can check their progress here: [frontend.md](frontend.md)<br>
+You can check their progress here: [front.md](front.md)<br>
 
 ### Backend Path
-The Path in the Back is formed by [Mario Lombas](https://github.com/mlombas), [Lucía Mayoral](https://github.com/luciamayo) //TODO
+The Path in the Back is formed by [Mario Lombas](https://github.com/mlombas), [Lucía Mayoral](https://github.com/luciamayo), [Álvaro Rodríguez](https://github.com/alvarorg14), //TODO
 
 You can see all we do [here](back.md).
 
