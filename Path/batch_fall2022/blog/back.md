@@ -1,4 +1,4 @@
-# Week 1
+# Backend week 1
 The first week we have been configuring all the tools that we are going to use during the training sessions.
 We have also done a small test exercise to get started with the Spring boot.
 
@@ -10,7 +10,7 @@ We have also done a small test exercise to get started with the Spring boot.
 <!-- (Do not change the line below!!!) -->
 | **Path Owner** | **Content Deliverer** | 
 | --- | --- | 
-| [name of the path owner](github link) | [content deliverer](github link) | \ 
+| [Alberto Villamayor](https://github.com/avillamayordevega) | [Alberto Villamayor](https://github.com/avillamayordevega) | \ 
 
 \
 &nbsp; <!-- (Do not change this and above line PLEASE!!!) -->
