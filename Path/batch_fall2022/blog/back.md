@@ -5,7 +5,7 @@ We have also done a small test exercise to get started with the Spring boot.
 ## Session
 ### Max five words description
 
-*DD-MM-YYYY*
+*10-10-2022*
 
 <!-- (Do not change the line below!!!) -->
 | **Path Owner** | **Content Deliverer** | 
