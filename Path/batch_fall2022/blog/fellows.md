@@ -18,5 +18,7 @@ You can see all we do [here](back.md).
 ### Search Path
 This path is formed by [María Fernández](https://github.com/mariaffnandez), [Alejandro Rivera](https://github.com/iskelazz), [Sofía Abal](https://github.com/Sofia-AF)
 
+You can check their progress [here](search.md)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/empathyco/academy-batches/Path/batch_202x/Assets/picture.png" alt="Academy Fellows" width="300"/>
 <br><br> 
