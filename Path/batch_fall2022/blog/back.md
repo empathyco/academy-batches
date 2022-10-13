@@ -1,4 +1,4 @@
-# Title of the week
+# WEEK 1
 < Abstract of the week (small summary in max two lines).>
 
 ## Session
