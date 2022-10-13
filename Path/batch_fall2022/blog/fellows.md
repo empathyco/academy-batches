@@ -8,7 +8,11 @@ In case you don't know us yet, we are x students who are just taking off 🚀 ou
 
 ### Frontend path <br>
 The first path is formed by [Andrea Delgado](https://github.com/andreadlgdo), [Laura Martínez](https://github.com/lauramargar) and [Lucía López](https://github.com/zhuzilu).<br>
-You can check their progress here: [Path/batch_2022/frontend.md]<br>
+You can check their progress here: [frontend.md](frontend.md)<br>
+
+### Backend Path
+The Path in the Back is formed by [Mario Lombas](https://github.com/mlombas), //TODO
+You can see all we do [here](back.md).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/empathyco/academy-batches/Path/batch_202x/Assets/picture.png" alt="Academy Fellows" width="300"/>
 <br><br> 
