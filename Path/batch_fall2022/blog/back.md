@@ -24,6 +24,9 @@ The first week we have been configuring all the tools that we are going to use d
 We have also done a small test exercise to get started with the Spring boot. In this session we were working autonomously, not in a group.
 <!-- Comment wheter if it is autonomous or group work -->
 <Statement>
+ 
+\
+&nbsp; <!-- (Do not change this and above line PLEASE!!!) -->
 **Exercise 1**
  
 - Installing Homebrew
@@ -35,5 +38,5 @@ We have also done a small test exercise to get started with the Spring boot. In 
 - Downloading Docker
 - Running Elasticsearch
 
-
+****
 
