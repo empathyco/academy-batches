@@ -24,7 +24,8 @@ The first week we have been configuring all the tools that we are going to use d
 We have also done a small test exercise to get started with the Spring boot.
 <!-- Comment wheter if it is autonomous or group work -->
 <Statement>
-## [Exercise 1] GROUP
+### Exercise 1
+ ***AUTHOR*** GROUP
  
 - Installing Homebrew
 - Installing SDK man
