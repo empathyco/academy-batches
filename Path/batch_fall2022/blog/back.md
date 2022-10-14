@@ -24,10 +24,16 @@ The first week we have been configuring all the tools that we are going to use d
 We have also done a small test exercise to get started with the Spring boot.
 <!-- Comment wheter if it is autonomous or group work -->
 <Statement>
-### [Exercise 1](link git repo)
+### [Exercise 1] GROUP
  
-- Development point 1
-- Development point 2
+- Installing Homebrew
+- Installing SDK man
+- Installing Java
+- Installing Maven
+- Spring Boot Exercise
+- Downloading IntelliJ IDEA
+- Downloading Docker
+- Running Elasticsearch
 
 
 
