@@ -21,11 +21,10 @@
 
 ## Exercise
 The first week we have been configuring all the tools that we are going to use during the training sessions.
-We have also done a small test exercise to get started with the Spring boot.
+We have also done a small test exercise to get started with the Spring boot. In this session we were working autonomously, not in a group.
 <!-- Comment wheter if it is autonomous or group work -->
 <Statement>
 ### Exercise 1
- ***AUTHOR*** GROUP
  
 - Installing Homebrew
 - Installing SDK man
