@@ -1,7 +1,15 @@
-# Backend week 1
+# Content Table
+- [Content Table](#content-table)
+- [Week 1](#week-1)
+  - [Exercise: Essential and Spring Boot](#essential-and-spring-boot)
+- [Week 2](#week-2)
+  - [Exercise: Introduction to Spring](#introduction-to-spring)
 
-## Session
-### Essential and Spring Boot
+
+----------------------------------------------------------------
+# Week 1
+
+## Essential and Spring Boot
 
 *10-10-2022*
 
@@ -29,7 +37,7 @@ We have also done a small test exercise to get started with the Spring boot. In 
 &nbsp; <!-- (Do not change this and above line PLEASE!!!) -->
 **Exercise 1**
  
-- Installing Homebrew
+- Installing Homebrews
 - Installing SDK man
 - Installing Java
 - Installing Maven
@@ -38,5 +46,35 @@ We have also done a small test exercise to get started with the Spring boot. In 
 - Downloading Docker
 - Running Elasticsearch
 
+----------------------------------------------------------------
+# Week 2
+
+## Introduction to Spring
+
+*17-10-2022*
+
+<!-- (Do not change the line below!!!) -->
+| **Path Owner** | **Content Deliverer** | 
+| --- | --- | 
+| [Alberto Villamayor](https://github.com/avillamayordevega) | [Roberto Auro](https://github.com/robertoaz) | \
+
+\
+&nbsp; <!-- (Do not change this and above line PLEASE!!!) -->
+**Key learning points** <!-- (Do not change this line!!!) -->
+1. Introduction to Spring Framework
+2. Introduction to Spring Boot
+3. Dependency Injection
+4. Spring Framework modules
+
 ****
+
+## Exercise
+We had to improve the assignment done in week 1. Use Spring to handle the creation and wiring of the objects.
+Separe the code in diferrent components and inject the dependencies in the disered ones.
+Also we had to write a unit test for each of the classes.
+
+- ### [Exercise 2](linktoRepo) by [Name](lintToGitHub)
+
+
+
 
