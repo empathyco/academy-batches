@@ -73,7 +73,7 @@ We had to improve the assignment done in week 1. Use Spring to handle the creati
 Separe the code in diferrent components and inject the dependencies in the disered ones.
 Also we had to write a unit test for each of the classes.
 
-- ### [Exercise 2](linktoRepo) by [Name](lintToGitHub)
+- ### [Exercise 2](https://github.com/alvarorg14/W2_SpringBoot) by [Álvaro Rodríguez](https://github.com/alvarorg14)
 
 
 
