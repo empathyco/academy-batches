@@ -45,10 +45,10 @@ Our second week working was dedicated to "CSS Responsive" and we learned from [G
 2. CSS Frameworks (Bootstrap, Tailwind, PureCSS)
 3. CSS Layouts (Mobile First, Flexbox/Grid, Conditional Rendering)
   - [Layout examples](https://codepen.io/collection/kNGVpq?cursor=eyJjb2xsZWN0aW9uX2lkIjoia05HVnBxIiwiY29sbGVjdGlvbl90b2tlbiI6bnVsbCwibGltaXQiOjQsIm1heF9pdGVtcyI6NSwib2Zmc2V0IjowLCJwYWdlIjoxLCJzb3J0X2J5IjoicG9zaXRpb24iLCJzb3J0X29yZGVyIjoiQXNjIn0=)
-5. Responsive Web Design (Media Queries, units)
+4. Responsive Web Design (Media Queries, units)
 
 ## The games
 The games are to control the use of the layouts, specifically the flexbox layout and the grid layout.
 
-- ### [FlexBox Layaout](https://flexboxfroggy.com)
-- ### [Grid Layaout](https://cssgridgarden.com)
+- ### [FlexBox Layout](https://flexboxfroggy.com)
+- ### [Grid Layout](https://cssgridgarden.com)
