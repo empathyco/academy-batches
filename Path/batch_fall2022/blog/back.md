@@ -71,6 +71,7 @@ Separe the code in diferrent components and inject the dependencies in the diser
 Also we had to write a unit test for each of the classes.
 
 - ### [Exercise 2](https://github.com/alvarorg14/W2_SpringBoot) by [Álvaro Rodríguez](https://github.com/alvarorg14)
+- ### [Exercise 2](https://github.com/mlombas/SpringBootEmpathyAcademy/tree/c6f047e3b708a61a0f814ce4d217cc95cd465476) (And it corresponding [release](https://github.com/mlombas/SpringBootEmpathyAcademy/releases/tag/v2.0)) by [Mario Lombas](https://github.com/mlombas)
 
 
 
