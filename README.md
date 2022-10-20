@@ -9,6 +9,9 @@ It runs three times per year: Winter, Summer and Fall batches. During those batc
 To help curious people understand their growth we have develop the current repository. It links their work to a main source of truth.
 
 # Batches & links
+
+This same set of documents is also deployed to a [Webpage](https://empathyco.github.io/academy-batches/).
+
 ## 2022
 [<img src="https://github.com/alvarorg14/academy-batches/blob/main/assets/fall-batch.png?raw=true" alt="Fall Batch 22"/>](Path/batch_fall2022/blog/fellows.md)
 
