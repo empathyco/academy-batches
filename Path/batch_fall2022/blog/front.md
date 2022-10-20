@@ -12,7 +12,7 @@ Our first week working was dedicated to "HTML & CSS" and we learned from [Pedro 
 
 | **Path Owner** | **Content Deliverer** | 
 | --- | --- | 
-| [Beltrán García](https://github.com/tiborux) | [Pedro Ondiviela](https://github.com/PedroOndh)| \ 
+| [Beltrán García](https://github.com/tiborux) | [Pedro Ondiviela](https://github.com/PedroOndh)|
 
 \
 **Key learning points** <!-- (Do not change this line!!!) -->
@@ -37,7 +37,7 @@ Our second week working was dedicated to "CSS Responsive" and we learned from [G
 
 | **Path Owner** | **Content Deliverer** | 
 | --- | --- | 
-| [Beltrán García](https://github.com/tiborux) | [Guillermo Cacheda](https://github.com/CachedaCodes)| \ 
+| [Beltrán García](https://github.com/tiborux) | [Guillermo Cacheda](https://github.com/CachedaCodes)| 
 
 \
 **Key learning points** <!-- (Do not change this line!!!) -->

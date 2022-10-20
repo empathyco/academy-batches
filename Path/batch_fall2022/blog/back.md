@@ -13,10 +13,9 @@
 
 *10-10-2022*
 
-<!-- (Do not change the line below!!!) -->
 | **Path Owner** | **Content Deliverer** | 
 | --- | --- | 
-| [Alberto Villamayor](https://github.com/avillamayordevega) | [Alberto Villamayor](https://github.com/avillamayordevega) | \ 
+| [Alberto Villamayor](https://github.com/avillamayordevega) | [Alberto Villamayor](https://github.com/avillamayordevega)| 
 
 \
 &nbsp; <!-- (Do not change this and above line PLEASE!!!) -->
@@ -31,7 +30,6 @@
 The first week we have been configuring all the tools that we are going to use during the training sessions.
 We have also done a small test exercise to get started with the Spring boot. In this session we were working autonomously, not in a group.
 <!-- Comment wheter if it is autonomous or group work -->
-<Statement>
  
 \
 &nbsp; <!-- (Do not change this and above line PLEASE!!!) -->
@@ -53,10 +51,9 @@ We have also done a small test exercise to get started with the Spring boot. In 
 
 *17-10-2022*
 
-<!-- (Do not change the line below!!!) -->
 | **Path Owner** | **Content Deliverer** | 
 | --- | --- | 
-| [Alberto Villamayor](https://github.com/avillamayordevega) | [Roberto Auro](https://github.com/robertoaz) | \
+| [Alberto Villamayor](https://github.com/avillamayordevega) | [Roberto Auro](https://github.com/robertoaz)|
 
 \
 &nbsp; <!-- (Do not change this and above line PLEASE!!!) -->
