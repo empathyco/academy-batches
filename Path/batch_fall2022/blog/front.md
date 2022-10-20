@@ -4,6 +4,7 @@
   - [Exercise: Personal website](#personal-website)
 - [Week 2](#week-2)
   - [Exercise: Practice with games](#the-games)
+- [Week 3](#week-3)
 
 
 ----------------------------------------------------------------
@@ -12,7 +13,7 @@ Our first week working was dedicated to "HTML & CSS" and we learned from [Pedro 
 
 | **Path Owner** | **Content Deliverer** | 
 | --- | --- | 
-| [Beltrán García](https://github.com/tiborux) | [Pedro Ondiviela](https://github.com/PedroOndh)| \ 
+| [Beltrán García](https://github.com/tiborux) | [Pedro Ondiviela](https://github.com/PedroOndh)|
 
 \
 **Key learning points** <!-- (Do not change this line!!!) -->
@@ -37,7 +38,7 @@ Our second week working was dedicated to "CSS Responsive" and we learned from [G
 
 | **Path Owner** | **Content Deliverer** | 
 | --- | --- | 
-| [Beltrán García](https://github.com/tiborux) | [Guillermo Cacheda](https://github.com/CachedaCodes)| \ 
+| [Beltrán García](https://github.com/tiborux) | [Guillermo Cacheda](https://github.com/CachedaCodes)| 
 
 \
 **Key learning points** <!-- (Do not change this line!!!) -->
@@ -52,3 +53,24 @@ The games are to control the use of the layouts, specifically the flexbox layout
 
 - ### [FlexBox Layout](https://flexboxfroggy.com)
 - ### [Grid Layout](https://cssgridgarden.com)
+
+----------------------------------------------------------------
+
+# Week 3
+Our third week working was dedicated to "JavaScript & Basic TypeScript" and we learned from [Antonio Cuenca](https://github.com/antonioc-empathy).
+
+| **Path Owner** | **Content Deliverer** | 
+| --- | --- | 
+| [Beltrán García](https://github.com/tiborux) | [Antonio Cuenca](https://github.com/antonioc-empathy)| \ 
+
+\
+**Key learning points** <!-- (Do not change this line!!!) -->
+1. [Variables](https://searchbroker.atlassian.net/wiki/spaces/~515286385/pages/3753476188/01.+Variables)
+2. [Control Flow](https://searchbroker.atlassian.net/wiki/spaces/~515286385/pages/3753640038/02.+Control+Flow)
+3. [Objects](https://searchbroker.atlassian.net/wiki/spaces/~515286385/pages/3753181346/03.+Objects)
+4. [Functions](https://searchbroker.atlassian.net/wiki/spaces/~515286385/pages/3753181353/04.+Functions)
+5. [Arrays](https://searchbroker.atlassian.net/wiki/spaces/~515286385/pages/3752460411/05.+Arrays)
+6. [Functional Programming](https://searchbroker.atlassian.net/wiki/spaces/~515286385/pages/3753476195/06.+Functional+Programming)
+7. [Async/await](https://searchbroker.atlassian.net/wiki/spaces/~515286385/pages/3753246877/07.+Async+await)
+8. [Fetch](https://searchbroker.atlassian.net/wiki/spaces/~515286385/pages/3753148543/08.+Fetch)
+9. [Basic explanation of TypeScript](https://searchbroker.atlassian.net/wiki/spaces/~515286385/pages/3753148564/09.+Basic+explanation+of+TypeScript)
