@@ -16,7 +16,7 @@
 <!-- (Do not change the line below!!!) -->
 | **Path Owner** | **Content Deliverer** | 
 | --- | --- | 
-| [Alberto Villamayor](https://github.com/avillamayordevega) | [Alberto Villamayor](https://github.com/avillamayordevega) | \ 
+| [Alberto Villamayor](https://github.com/avillamayordevega) | [Alberto Villamayor](https://github.com/avillamayordevega)|
 
 \
 &nbsp; <!-- (Do not change this and above line PLEASE!!!) -->
@@ -31,7 +31,6 @@
 The first week we have been configuring all the tools that we are going to use during the training sessions.
 We have also done a small test exercise to get started with the Spring boot. In this session we were working autonomously, not in a group.
 <!-- Comment wheter if it is autonomous or group work -->
-<Statement>
  
 \
 &nbsp; <!-- (Do not change this and above line PLEASE!!!) -->
@@ -56,7 +55,7 @@ We have also done a small test exercise to get started with the Spring boot. In 
 <!-- (Do not change the line below!!!) -->
 | **Path Owner** | **Content Deliverer** | 
 | --- | --- | 
-| [Alberto Villamayor](https://github.com/avillamayordevega) | [Roberto Auro](https://github.com/robertoaz) | \
+| [Alberto Villamayor](https://github.com/avillamayordevega) | [Roberto Auro](https://github.com/robertoaz)|
 
 \
 &nbsp; <!-- (Do not change this and above line PLEASE!!!) -->
@@ -74,6 +73,7 @@ Separe the code in diferrent components and inject the dependencies in the diser
 Also we had to write a unit test for each of the classes.
 
 - ### [Exercise 2](https://github.com/alvarorg14/W2_SpringBoot) by [Álvaro Rodríguez](https://github.com/alvarorg14)
+- ### [Exercise 2](https://github.com/mlombas/SpringBootEmpathyAcademy/tree/c6f047e3b708a61a0f814ce4d217cc95cd465476) (And it corresponding [release](https://github.com/mlombas/SpringBootEmpathyAcademy/releases/tag/v2.0)) by [Mario Lombas](https://github.com/mlombas)
 
 
 
