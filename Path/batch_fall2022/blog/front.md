@@ -4,6 +4,7 @@
   - [Exercise: Personal website](#personal-website)
 - [Week 2](#week-2)
   - [Exercise: Practice with games](#the-games)
+- [Week 3](#week-3)
 
 
 ----------------------------------------------------------------
@@ -52,3 +53,46 @@ The games are to control the use of the layouts, specifically the flexbox layout
 
 - ### [FlexBox Layout](https://flexboxfroggy.com)
 - ### [Grid Layout](https://cssgridgarden.com)
+
+----------------------------------------------------------------
+
+# Week 3
+Our third week working was dedicated to "JavaScript & Basic TypeScript" and we learned from [Antonio Cuenca](https://github.com/antonioc-empathy).
+
+| **Path Owner** | **Content Deliverer** | 
+| --- | --- | 
+| [Beltrán García](https://github.com/tiborux) | [Antonio Cuenca](https://github.com/antonioc-empathy)| \ 
+
+\
+**Key learning points** <!-- (Do not change this line!!!) -->
+1. [Variables](https://searchbroker.atlassian.net/wiki/spaces/~515286385/pages/3753476188/01.+Variables)
+  - Declaring Variables
+  - Primitive data types
+  - Operators (Comparison, Arithmetic, Logical)
+  - Truthy and Falsy
+2. [Control Flow](https://searchbroker.atlassian.net/wiki/spaces/~515286385/pages/3753640038/02.+Control+Flow)
+  - If statement
+  - Switch statement
+  - Ternary operator
+  - Loops (while, do...while, for, for...in, for...of)
+3. [Objects](https://searchbroker.atlassian.net/wiki/spaces/~515286385/pages/3753181346/03.+Objects)
+  - Object Properties
+  - Comparing Objects
+4. [Functions](https://searchbroker.atlassian.net/wiki/spaces/~515286385/pages/3753181353/04.+Functions)
+  - Function declaration
+  - Function Expression
+  - Hoisting
+  - Arrow function
+5. [Arrays](https://searchbroker.atlassian.net/wiki/spaces/~515286385/pages/3752460411/05.+Arrays)
+  - Declaration and basic operations
+  - Comparing arrays
+6. [Functional Programming](https://searchbroker.atlassian.net/wiki/spaces/~515286385/pages/3753476195/06.+Functional+Programming)
+  - First class functions
+  - Declarative and Imperative
+  - Immutability
+  - Purity
+  - Higher-order functions
+  - Composition
+7. [Async/await](https://searchbroker.atlassian.net/wiki/spaces/~515286385/pages/3753246877/07.+Async+await)
+8. [Fetch](https://searchbroker.atlassian.net/wiki/spaces/~515286385/pages/3753148543/08.+Fetch)
+9. [Basic explanation of TypeScript](https://searchbroker.atlassian.net/wiki/spaces/~515286385/pages/3753148564/09.+Basic+explanation+of+TypeScript)
