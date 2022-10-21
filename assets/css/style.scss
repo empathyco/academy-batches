@@ -4,13 +4,22 @@
 @import "{{ site.theme }}";
 
 body{
-    margin: 4rem;
-    padding-left: 5rem;
-    padding-top: 2rem;
+    margin: 0rem;
+    padding: 0rem;
 }
+.wrapper{
+    margin: 4rem;
+    padding: 2rem;
+    width: 80%;
+}
+
 header {
+    padding: 3rem;
     float: none;
     position: relative;
+    text-align: left;
+    background-color: aliceblue;
+    width: 100%;
 }
 
 footer {
@@ -22,20 +31,52 @@ footer {
 section {
     float: none;
     width: 100%;
+    padding: 1rem;
 }
-h1{
-    font-family: sans-serif;
-    font-weight: lighter;
-}
-#academy-batches{
+
+#academy-batches, #frontend, #backend, #search{
     display: grid;
     font-size: 6rem;
     font-family: serif;
     justify-content: center;
     padding-bottom: 2rem;
+}
+#academy-fall--2022-batch-wiki{
+    display: grid;
+    font-size: 5rem;
+    font-family: serif;
+    justify-content: center;
+    padding-bottom: 4rem;
+    font-weight: normal;
+}
+#content-table{
+    display: grid;
+    font-size: 3rem;
+    font-family: serif;
 
 }
+#week-1, #week-2, #week-3 {
+    font-size: 2.5rem;
+    font-family: serif;
+
+}
+h3{
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+h4{
+    font-size: 1rem;
+}
+h1{
+    font-family: sans-serif;
+    font-weight: lighter;
+}
 #batches--links{
+    font-size: 2.5rem;
+    font-family: serif;
+}
+#meet-the-fellows{
     font-size: 2.5rem;
     font-family: serif;
 }

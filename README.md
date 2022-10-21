@@ -8,6 +8,8 @@ It runs three times per year: Winter, Summer and Fall batches. During those batc
 
 To help curious people understand their growth we have develop the current repository. It links their work to a main source of truth.
 
+<hr>
+
 # Batches & links
 
 This same set of documents is also deployed to a [Webpage](https://empathyco.github.io/academy-batches/).

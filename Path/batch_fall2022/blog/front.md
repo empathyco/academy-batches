@@ -1,4 +1,6 @@
-# Content Table
+# Frontend
+
+## Content Table
 - [Content Table](#content-table)
 - [Week 1](#week-1)
   - [Exercise: Personal website](#personal-website)
@@ -22,13 +24,13 @@ Our first week working was dedicated to "HTML & CSS" and we learned from [Pedro 
 3. CSS: selectors
 4. CSS: display properties (Grid, Flexbox)
 
-## Personal website
+### Personal website
 Creating your own personal website, it can have multiple sections.
 
 Try using semantic HTML elements, grid and flex in the process.
-- ### [Personal website](https://github.com/zhuzilu/personal-website/) by [Lucía López](https://github.com/zhuzilu) - [Demo](https://zhuzilu.github.io/personal-website/src/index.html)
-- ### [Exercise 1 - Website HTML and CSS](https://github.com/lauramargar/EJ1-HTML-CSS.git) by [Laura Martínez](https://github.com/lauramargar)
-- ### [Exercise 1 - My personal website (code)](https://github.com/andreadlgdo/andrea-HTMLCSS-week1) by [Andrea Delgado](https://github.com/andreadlgdo) 
+- #### [Personal website](https://github.com/zhuzilu/personal-website/) by [Lucía López](https://github.com/zhuzilu) - [Demo](https://zhuzilu.github.io/personal-website/src/index.html)
+- #### [Exercise 1 - Website HTML and CSS](https://github.com/lauramargar/EJ1-HTML-CSS.git) by [Laura Martínez](https://github.com/lauramargar)
+- #### [Exercise 1 - My personal website (code)](https://github.com/andreadlgdo/andrea-HTMLCSS-week1) by [Andrea Delgado](https://github.com/andreadlgdo) 
   [My personal website](https://andreadlgdo.github.io/andrea-HTMLCSS-week1/src/index.html) 
 
 ----------------------------------------------------------------
@@ -48,11 +50,11 @@ Our second week working was dedicated to "CSS Responsive" and we learned from [G
   - [Layout examples](https://codepen.io/collection/kNGVpq?cursor=eyJjb2xsZWN0aW9uX2lkIjoia05HVnBxIiwiY29sbGVjdGlvbl90b2tlbiI6bnVsbCwibGltaXQiOjQsIm1heF9pdGVtcyI6NSwib2Zmc2V0IjowLCJwYWdlIjoxLCJzb3J0X2J5IjoicG9zaXRpb24iLCJzb3J0X29yZGVyIjoiQXNjIn0=)
 4. Responsive Web Design (Media Queries, units)
 
-## The games
+### The games
 The games are to control the use of the layouts, specifically the flexbox layout and the grid layout.
 
-- ### [FlexBox Layout](https://flexboxfroggy.com)
-- ### [Grid Layout](https://cssgridgarden.com)
+- #### [FlexBox Layout](https://flexboxfroggy.com)
+- #### [Grid Layout](https://cssgridgarden.com)
 
 ----------------------------------------------------------------
 
