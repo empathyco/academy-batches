@@ -7,15 +7,15 @@ In case you don't know us yet, we are x students who are just taking off 🚀 ou
 
 ## Learning Paths & Participants
 
-| Frontend Path                                    | Backend Path                                      | Search Path                                     | ECA Path           |
-|--------------------------------------------------|---------------------------------------------------|-------------------------------------------------|--------------------|
-| [Andrea Delgado](https://github.com/andreadlgdo) | [Álvaro Rodríguez](https://github.com/alvarorg14) | [Sofía Abal](https://github.com/Sofia-AF)       | [Beatriz García](https://github.com/beatrizgarciad) |
-| [Lucía López](https://github.com/zhuzilu)        | [Mario Lombas](https://github.com/mlombas)        | [Alejandro Rivera](https://github.com/iskelazz) |                    |
-| [Laura Martínez](https://github.com/lauramargar) | [Óscar Pérez](https://github.com/uo265488)        | [María Fernández](https://github.com/mariaffnandez)   |                    |
- |                                                  | [Lucia Mayoral](https://github.com/luciamayo)     |                                                 | |
-|                                                  | [Anton Vazquez](https://github.com/AntonVazquez)     |                                                 | |
+| Frontend Path                                    | Backend Path                                      | Search Path                                         | ECA Path           |
+|--------------------------------------------------|---------------------------------------------------|-----------------------------------------------------|--------------------|
+| [Andrea Delgado](https://github.com/andreadlgdo) | [Álvaro Rodríguez](https://github.com/alvarorg14) | [Sofía Abal](https://github.com/Sofia-AF)           | [Beatriz García](https://github.com/beatrizgarciad) |
+| [Lucía López](https://github.com/zhuzilu)        | [Mario Lombas](https://github.com/mlombas)        | [Alejandro Rivera](https://github.com/iskelazz)     |                    |
+| [Laura Martínez](https://github.com/lauramargar) | [Óscar Pérez](https://github.com/uo265488)        | [María Fernández](https://github.com/mariaffnandez) |                    |
+ |                                                  | [Lucia Mayoral](https://github.com/luciamayo)     | [Manuel González](https://github.com/gs-Manuel)  | |
+|                                                  | [Anton Vazquez](https://github.com/AntonVazquez)     |                                                     | |
 
-
+<br>
 
 # Meet the fellows
 
