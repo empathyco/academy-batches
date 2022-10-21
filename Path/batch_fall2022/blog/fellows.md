@@ -23,20 +23,40 @@ In case you don't know us yet, we are x students who are just taking off 🚀 ou
 
 The first path is formed by [Andrea Delgado](https://github.com/andreadlgdo), [Laura Martínez](https://github.com/lauramargar) and [Lucía López](https://github.com/zhuzilu).<br>
 
+[<img class="image" src="https://github.com/empathyco/academy-batches/blob/main/assets/Andrea.png?raw=true" alt="Andrea"/>](https://github.com/andreadlgdo)
+[<img class="image" src="https://github.com/empathyco/academy-batches/blob/main/assets/Andrea.png?raw=true" alt="Lucia"/>](https://github.com/zhuzilu)
+[<img class="image" src="https://github.com/empathyco/academy-batches/blob/main/assets/Andrea.png?raw=true" alt="Laura"/>](https://github.com/lauramargar)
+
+
 You can check their progress here: [front.md](front.md)<br>
 
 ## Backend Path
 The Path in the Back is formed by [Mario Lombas](https://github.com/mlombas), [Lucía Mayoral](https://github.com/luciamayo), [Álvaro Rodríguez](https://github.com/alvarorg14), [Anton Vazquez](https://github.com/AntonVazquez) and [Óscar Pérez](https://github.com/uo265488)
+
+[<img class="image" src="https://github.com/empathyco/academy-batches/blob/main/assets/Manuel.png?raw=true" alt="Lucia"/>](https://github.com/zhuzilu)
+[<img class="image" src="https://github.com/empathyco/academy-batches/blob/main/assets/Manuel.png?raw=true" alt="Laura"/>](https://github.com/lauramargar)
+[<img class="image" src="https://github.com/empathyco/academy-batches/blob/main/assets/Manuel.png?raw=true" alt="Lucia"/>](https://github.com/zhuzilu)
+[<img class="image" src="https://github.com/empathyco/academy-batches/blob/main/assets/Manuel.png?raw=true" alt="Laura"/>](https://github.com/lauramargar)
+[<img class="image" src="https://github.com/empathyco/academy-batches/blob/main/assets/Manuel.png?raw=true" alt="Lucia"/>](https://github.com/zhuzilu)
+
 
 You can see all we do [here](back.md).
 
 ## Search Path
 This path is formed by [María Fernández](https://github.com/mariaffnandez), [Alejandro Rivera](https://github.com/iskelazz), [Sofía Abal](https://github.com/Sofia-AF), [Manuel Gonzalez](https://github.com/gs-Manuel)
 
+[<img class="image" src="https://github.com/empathyco/academy-batches/blob/main/assets/Manuel.png?raw=true" alt="Lucia"/>](https://github.com/zhuzilu)
+[<img class="image" src="https://github.com/empathyco/academy-batches/blob/main/assets/Manuel.png?raw=true" alt="Laura"/>](https://github.com/lauramargar)
+[<img class="image" src="https://github.com/empathyco/academy-batches/blob/main/assets/Manuel.png?raw=true" alt="Lucia"/>](https://github.com/zhuzilu)
+[<img class="image" src="https://github.com/empathyco/academy-batches/blob/main/assets/Manuel.png?raw=true" alt="Laura"/>](https://github.com/lauramargar)
+
+
 You can check their progress [here](search.md)
 
 ## ECA Path
 This path is formed by [Beatriz García](https://github.com/beatrizgarciad)
+
+[<img class="image" src="https://github.com/empathyco/academy-batches/blob/main/assets/Manuel.png?raw=true" alt="Lucia"/>](https://github.com/zhuzilu)
 
 You can check their progress [here](eca.md)
 
