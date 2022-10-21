@@ -27,10 +27,10 @@ Get to meet the [Academy Fellows](Path/batch_fall2022/blog/fellows.md)\.
 [<img class="icons_path" src="/assets/search.png?raw=true" alt="Search" width="150px"/>](Path/batch_fall2022/blog/search.md)
 [<img class="icons_path" src="/assets/eca.png?raw=true" alt="ECA" width="150px"/>](Path/batch_fall2022/blog/eca.md)
 
-[<img class="text_path" src="/assets/FrontEnd.png?raw=true" alt="frontend"/>](Path/batch_fall2022/blog/front.md)
-[<img class="text_path" src="/assets/Backend.png?raw=true" alt="backend"/>](Path/batch_fall2022/blog/back.md)
-[<img class="text_path" src="/assets/Search_text.png?raw=true" alt="search"/>](Path/batch_fall2022/blog/search.md)
-[<img class="text_path" src="/assets/ECA_text.png?raw=true" alt="ECA"/>](Path/batch_fall2022/blog/ECA.md)
+[<img class="text_path" src="/assets/FrontEnd.png?raw=true" alt="frontend" width="150px"/>](Path/batch_fall2022/blog/front.md)
+[<img class="text_path" src="/assets/Backend.png?raw=true" alt="backend" width="150px"/>](Path/batch_fall2022/blog/back.md)
+[<img class="text_path" src="/assets/Search_text.png?raw=true" alt="search" width="150px"/>](Path/batch_fall2022/blog/search.md)
+[<img class="text_path" src="/assets/ECA_text.png?raw=true" alt="ECA" width="150px"/>](Path/batch_fall2022/blog/ECA.md)
 
 
 1. [Learning Project](https://github.com/repolink) WIP
