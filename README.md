@@ -22,17 +22,16 @@ This same set of documents is also deployed to a [Webpage](https://empathyco.git
 
 Get to meet the [Academy Fellows](Path/batch_fall2022/blog/fellows.md)\.
 
-[<img class="icons_path" src="https://github.com/alvarorg14/academy-batches/blob/main/assets/front.png?raw=true" alt="Frontend" width="150px"/>](Path/batch_fall2022/blog/front.md)
-[<img class="icons_path" src="https://github.com/alvarorg14/academy-batches/blob/main/assets/back.png?raw=true" alt="Backend" width="150px"/>](Path/batch_fall2022/blog/back.md)
-[<img class="icons_path" src="https://github.com/alvarorg14/academy-batches/blob/main/assets/search.png?raw=true" alt="Search" width="150px"/>](Path/batch_fall2022/blog/search.md)
-[<img class="icons_path" src="https://github.com/alvarorg14/academy-batches/blob/main/assets/eca.png?raw=true" alt="ECA" width="150px"/>](Path/batch_fall2022/blog/eca.md)
+[<img class="icons_path" src="/assets/front.png?raw=true" alt="Frontend" width="150px"/>](Path/batch_fall2022/blog/front.md)
+[<img class="icons_path" src="/assets/back.png?raw=true" alt="Backend" width="150px"/>](Path/batch_fall2022/blog/back.md)
+[<img class="icons_path" src="/assets/search.png?raw=true" alt="Search" width="150px"/>](Path/batch_fall2022/blog/search.md)
+[<img class="icons_path" src="/assets/eca.png?raw=true" alt="ECA" width="150px"/>](Path/batch_fall2022/blog/eca.md)
 
-<div class="texts_path">
-    <p class="text_path">Frontend</p>
-    <p class="text_path">Backend</p>
-    <p class="text_path">Search</p>
-    <p class="text_path">ECA</p>
-</div>
+[<img class="text_path" src="/assets/Frontend.png?raw=true" alt="frontend"/>](Path/batch_fall2022/blog/front.md)
+[<img class="text_path" src="/assets/Backend.png?raw=true" alt="backend"/>](Path/batch_fall2022/blog/back.md)
+[<img class="text_path" src="/assets/Search_text.png?raw=true" alt="search"/>](Path/batch_fall2022/blog/search.md)
+[<img class="text_path" src="/assets/ECA_text.png?raw=true" alt="ECA"/>](Path/batch_fall2022/blog/ECA.md)
+
 
 1. [Learning Project](https://github.com/repolink) WIP
 2. [PoC Project](https://github.com/repolink) WIP
