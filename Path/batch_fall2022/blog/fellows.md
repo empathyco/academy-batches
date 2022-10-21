@@ -4,7 +4,18 @@ Welcome to the Academy Fall : 2022 Batch blog! <br><br>
 In this wiki, a description of all the Academy Path learining experiences will be posted in case you are interested in keeping up with us 😄 <br>
 In case you don't know us yet, we are x students who are just taking off 🚀 our professional careers.<br> Meet us and check our progress in the section below ⬇️ . You can also find us roaming the office 🏠 in Gijón from time to time so be welcome to come talk to us, we never reject a coffee ☕ invitation. <br>
 
-<hr>
+
+## Learning Paths & Participants
+
+| Frontend Path                                    | Backend Path                                      | Search Path                                     | ECA Path           |
+|--------------------------------------------------|---------------------------------------------------|-------------------------------------------------|--------------------|
+| [Andrea Delgado](https://github.com/andreadlgdo) | [Álvaro Rodríguez](https://github.com/alvarorg14) | [Sofía Abal](https://github.com/Sofia-AF)       | [Beatriz García](https://github.com/beatrizgarciad) |
+| [Lucía López](https://github.com/zhuzilu)        | [Mario Lombas](https://github.com/mlombas)        | [Alejandro Rivera](https://github.com/iskelazz) |                    |
+| [Laura Martínez](https://github.com/lauramargar) | [Óscar Pérez](https://github.com/uo265488)        | [María Fernández](https://github.com/mariaffnandez)   |                    |
+ |                                                  | [Lucia Mayoral](https://github.com/luciamayo)     |                                                 | |
+|                                                  | [Anton Vazquez](https://github.com/AntonVazquez)     |                                                 | |
+
+
 
 # Meet the fellows
 
