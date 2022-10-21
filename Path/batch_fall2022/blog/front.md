@@ -7,6 +7,7 @@
 - [Week 2](#week-2)
   - [Exercise: Practice with games](#the-games)
 - [Week 3](#week-3)
+  - [Exercise: Practice with DevTools](#practice-exercise)
 
 
 ----------------------------------------------------------------
@@ -59,11 +60,13 @@ The games are to control the use of the layouts, specifically the flexbox layout
 ----------------------------------------------------------------
 
 # Week 3
-Our third week working was dedicated to "JavaScript & Basic TypeScript" and we learned from [Antonio Cuenca](https://github.com/antonioc-empathy).
+On our third week working we had two sessions:
+
+One was dedicated to "JavaScript & Basic TypeScript" and we learned from [Antonio Cuenca](https://github.com/antonioc-empathy).
 
 | **Path Owner** | **Content Deliverer** | 
 | --- | --- | 
-| [Beltrán García](https://github.com/tiborux) | [Antonio Cuenca](https://github.com/antonioc-empathy)| \ 
+| [Beltrán García](https://github.com/tiborux) | [Antonio Cuenca](https://github.com/antonioc-empathy)| 
 
 \
 **Key learning points** <!-- (Do not change this line!!!) -->
@@ -76,3 +79,22 @@ Our third week working was dedicated to "JavaScript & Basic TypeScript" and we l
 7. [Async/await](https://searchbroker.atlassian.net/wiki/spaces/~515286385/pages/3753246877/07.+Async+await)
 8. [Fetch](https://searchbroker.atlassian.net/wiki/spaces/~515286385/pages/3753148543/08.+Fetch)
 9. [Basic explanation of TypeScript](https://searchbroker.atlassian.net/wiki/spaces/~515286385/pages/3753148564/09.+Basic+explanation+of+TypeScript)
+
+
+The second session was dedicated to "JavaScript DOM & DevTools" and we learned from [Guillermo Cacheda](https://github.com/CachedaCodes).
+
+| **Path Owner** | **Content Deliverer** | 
+| --- | --- | 
+| [Beltrán García](https://github.com/tiborux) | [Guillermo Cacheda](https://github.com/CachedaCodes)| \ 
+
+
+**Key learning points** <!-- (Do not change this line!!!) -->
+1. DOM (Document Object Model)
+2. DOM elements
+3. DOM events
+4. Observers
+5. DevTools: console, debugging, breakpoints, network, etc.
+
+### Practice exercise
+Debug this [web app](https://codepen.io/CachedaCodes/pen/yLjmJEK?editors=0010) using the DevTools.
+
