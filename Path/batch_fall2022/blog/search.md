@@ -77,7 +77,8 @@ Also we had to write a unit test for each of the classes.
 
 
 - #### [Exercise 2](https://github.com/Sofia-AF/assigment) (Not finished)  by [Sofía Abal](https://github.com/Sofia-AF)
+
 - #### [Exercise 2](https://github.com/iskelazz/springBootExample) by [Alejandro Rivera](https://github.com/iskelazz)
 
-
+- #### [Exercise 2](https://github.com/gs-Manuel/gs_Manuel-searchAcademy-assigment) by [Manuel González](https://github.com/gs-Manuel)
 
