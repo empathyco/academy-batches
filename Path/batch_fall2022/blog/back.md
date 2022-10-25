@@ -78,7 +78,26 @@ Also we had to write a unit test for each of the classes.
 - #### [Exercise 2](https://github.com/mlombas/SpringBootEmpathyAcademy/tree/c6f047e3b708a61a0f814ce4d217cc95cd465476) (And it corresponding [release](https://github.com/mlombas/SpringBootEmpathyAcademy/releases/tag/v2.0)) by [Mario Lombas](https://github.com/mlombas)
 - #### [Exercise 2](https://github.com/uo265488/SpringDataElastic_Getting_Started) * by [Óscar Pérez](https://github.com/uo265488)
 
+----------------------------------------------------------------
+# Week 3
 
+### Introduction to ElasticSearch
+
+*24-10-2022*
+
+| **Path Owner** | **Content Deliverer** | 
+| --- | --- | 
+| [Alberto Villamayor](https://github.com/avillamayordevega) | [Miriam Ábalo](https://github.com/MiriamLynx)|
+
+
+&nbsp; <!-- (Do not change this and above line PLEASE!!!) -->
+**Key learning points** <!-- (Do not change this line!!!) -->
+1. Introduction to ElasticSearch
+2. Analyzers, Tokenizers and Filters
+3. Field Data Types
+4. Query DSL
+
+****
 
 
 
