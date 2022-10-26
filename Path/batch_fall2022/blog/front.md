@@ -80,7 +80,14 @@ One was dedicated to "JavaScript & Basic TypeScript" and we learned from [Antoni
 8. [Fetch](https://searchbroker.atlassian.net/wiki/spaces/~515286385/pages/3753148543/08.+Fetch)
 9. [Basic explanation of TypeScript](https://searchbroker.atlassian.net/wiki/spaces/~515286385/pages/3753148564/09.+Basic+explanation+of+TypeScript)
 
+### API Rick & Morty
+Create a website using the rick and morty API
 
+- #### [Exercise 2]() by [Lucía López](https://github.com/zhuzilu) - [Demo]()
+- #### [Exercise 2]() by [Laura Martínez](https://github.com/lauramargar)
+- #### [Exercise 2 - Rick & Morty (code)](https://github.com/andreadlgdo/andrea-js-week3) by [Andrea Delgado](https://github.com/andreadlgdo) 
+  [Demo - Rick & Morty website](https://andreadlgdo.github.io/andrea-HTMLCSS-week1/src/index.html) 
+  
 The second session was dedicated to "JavaScript DOM & DevTools" and we learned from [Guillermo Cacheda](https://github.com/CachedaCodes).
 
 | **Path Owner** | **Content Deliverer** | 
