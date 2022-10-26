@@ -7,6 +7,7 @@
 - [Week 2](#week-2)
   - [Exercise: Practice with games](#the-games)
 - [Week 3](#week-3)
+  - [Exercise: API Rick & Morty](#api-rick-and-morty)
   - [Exercise: Practice with DevTools](#practice-exercise)
 
 
@@ -80,10 +81,10 @@ One was dedicated to "JavaScript & Basic TypeScript" and we learned from [Antoni
 8. [Fetch](https://searchbroker.atlassian.net/wiki/spaces/~515286385/pages/3753148543/08.+Fetch)
 9. [Basic explanation of TypeScript](https://searchbroker.atlassian.net/wiki/spaces/~515286385/pages/3753148564/09.+Basic+explanation+of+TypeScript)
 
-### API Rick & Morty
+### API Rick and Morty
 Create a website using the rick and morty API
 
-- #### [Exercise 2]() by [Lucía López](https://github.com/zhuzilu) - [Demo]()
+- #### [Rick & Morty API (not finished)](https://github.com/zhuzilu/rick-morty-api) by [Lucía López](https://github.com/zhuzilu) - [Demo](https://jocular-beijinho-80e89a.netlify.app/)
 - #### [Exercise 2]() by [Laura Martínez](https://github.com/lauramargar)
 - #### [Exercise 2 - Rick & Morty (code)](https://github.com/andreadlgdo/andrea-js-week3) by [Andrea Delgado](https://github.com/andreadlgdo) 
   [Demo - Rick & Morty website (It's not finished yet)](https://andreadlgdo.github.io/andrea-js-week3/src/index.html) 
