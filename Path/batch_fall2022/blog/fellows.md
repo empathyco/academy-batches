@@ -19,7 +19,7 @@ In case you don't know us yet, we are x students who are just taking off 🚀 ou
 
 # Meet the fellows
 
-## Frontend path 
+## Frontend Path 
 
 The first path is formed by [Andrea Delgado](https://github.com/andreadlgdo), [Laura Martínez](https://github.com/lauramargar) and [Lucía López](https://github.com/zhuzilu).<br>
 
