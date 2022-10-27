@@ -91,7 +91,7 @@ Also we had to write a unit test for each of the classes.
 
 | **Content Deliverer** | 
 | --- | 
-| [Miriam Ábalo](https://github.com/MiriamLynx)|
+| [Miriam Abalo](https://github.com/MiriamLynx)|
 
 
 &nbsp; <!-- (Do not change this and above line PLEASE!!!) -->
