@@ -37,7 +37,6 @@ We have also done a small test exercise to get started with the Spring boot. In 
  
 \
 &nbsp; <!-- (Do not change this and above line PLEASE!!!) -->
-**Exercise 1**
  
 - Installing Homebrews
 - Installing SDK man
