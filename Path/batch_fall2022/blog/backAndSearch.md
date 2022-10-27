@@ -1,4 +1,4 @@
-# Backend
+# Backend & Search
 
 ## Content Table
 - [Content Table](#content-table)
@@ -17,9 +17,9 @@
 
 *10-10-2022*
 
-| **Path Owner** | **Content Deliverer** | 
-| ----- | ----- | 
-| [Alberto Villamayor](https://github.com/avillamayordevega) | [Alberto Villamayor](https://github.com/avillamayordevega) |
+| **Content Deliverer** | 
+| ----- | 
+| [Alberto Villamayor](https://github.com/avillamayordevega) |
 
 \
 &nbsp; <!-- (Do not change this and above line PLEASE!!!) -->
@@ -55,9 +55,9 @@ We have also done a small test exercise to get started with the Spring boot. In 
 
 *17-10-2022*
 
-| **Path Owner** | **Content Deliverer** | 
-| --- | --- | 
-| [Alberto Villamayor](https://github.com/avillamayordevega) | [Roberto Auro](https://github.com/robertoaz) |
+| **Content Deliverer** | 
+| --- | 
+| [Roberto Auro](https://github.com/robertoaz) |
 
 \
 &nbsp; <!-- (Do not change this and above line PLEASE!!!) -->
@@ -77,6 +77,10 @@ Also we had to write a unit test for each of the classes.
 - #### [Exercise 2](https://github.com/alvarorg14/Academy_Project) by [Álvaro Rodríguez](https://github.com/alvarorg14)
 - #### [Exercise 2](https://github.com/mlombas/SpringBootEmpathyAcademy/tree/c6f047e3b708a61a0f814ce4d217cc95cd465476) (And it corresponding [release](https://github.com/mlombas/SpringBootEmpathyAcademy/releases/tag/v2.0)) by [Mario Lombas](https://github.com/mlombas)
 - #### [Exercise 2](https://github.com/uo265488/SpringDataElastic_Getting_Started) * by [Óscar Pérez](https://github.com/uo265488)
+- #### [Exercise 2](https://github.com/Sofia-AF/assigment) (Not finished)  by [Sofía Abal](https://github.com/Sofia-AF)
+- #### [Exercise 2](https://github.com/iskelazz/springBootExample) by [Alejandro Rivera](https://github.com/iskelazz)
+- #### [Exercise 2](https://github.com/gs-Manuel/gs_Manuel-searchAcademy-assigment) by [Manuel González](https://github.com/gs-Manuel)
+- #### [Exercise 2](https://github.com/mariaffnandez/search.git) (Not finished)  by [María Fernández](https://github.com/mariaffnandez)
 
 ----------------------------------------------------------------
 # Week 3
@@ -85,9 +89,9 @@ Also we had to write a unit test for each of the classes.
 
 *24-10-2022*
 
-| **Path Owner** | **Content Deliverer** | 
-| --- | --- | 
-| [Alberto Villamayor](https://github.com/avillamayordevega) | [Miriam Ábalo](https://github.com/MiriamLynx)|
+| **Content Deliverer** | 
+| --- | 
+| [Miriam Ábalo](https://github.com/MiriamLynx)|
 
 
 &nbsp; <!-- (Do not change this and above line PLEASE!!!) -->
