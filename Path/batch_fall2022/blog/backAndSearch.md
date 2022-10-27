@@ -28,16 +28,12 @@
 2. Introduction to Maven
 3. Introduction to Spring Boot
 
-****
 
 ### Exercise
 The first week we have been configuring all the tools that we are going to use during the training sessions.
 We have also done a small test exercise to get started with the Spring boot. In this session we were working autonomously, not in a group.
 <!-- Comment wheter if it is autonomous or group work -->
- 
-\
-&nbsp; <!-- (Do not change this and above line PLEASE!!!) -->
- 
+
 - Installing Homebrews
 - Installing SDK man
 - Installing Java
@@ -65,8 +61,6 @@ We have also done a small test exercise to get started with the Spring boot. In 
 2. Introduction to Spring Boot
 3. Dependency Injection
 4. Spring Framework modules
-
-****
 
 ### Exercise
 We had to improve the assignment done in week 1. Use Spring to handle the creation and wiring of the objects.
@@ -100,8 +94,6 @@ Also we had to write a unit test for each of the classes.
 3. Field Data Types
 4. Query DSL
 
-****
-
-
+### Exercise
 
 
