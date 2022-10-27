@@ -3,16 +3,115 @@
 
 @import "{{ site.theme }}";
 
-header {
-    float: none;
-    position: relative;
+body{
+    margin: 0rem;
+    padding: 0rem;
+}
+.wrapper{
+    margin-left: 4rem;
+    margin-right: 4rem;
+
+    padding: 2rem;
+    width: 80%;
 }
 
+header {
+    padding: 1.2rem;
+    float: none;
+    position: relative;
+    text-align: left;
+    background-color: aliceblue;
+    width: 100%;
+}
+.header{
+    padding-top: 1.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
 footer {
     float: none;
     position: relative;
+    padding-top: 3rem;
 }
-
+.image{
+    border-radius:50%;
+    height: 9rem;
+    width: 9rem;
+    margin: 2rem;
+}
 section {
     float: none;
+    width: 100%;
+    padding: 1rem;
+}
+
+#academy-batches, #frontend, #backend, #search{
+    display: grid;
+    font-size: 6rem;
+    font-family: serif;
+    justify-content: center;
+    padding-bottom: 2rem;
+}
+#academy-fall--2022-batch-wiki{
+    display: grid;
+    font-size: 5rem;
+    font-family: serif;
+    justify-content: center;
+    padding-bottom: 4rem;
+    font-weight: normal;
+}
+#content-table{
+    display: grid;
+    font-size: 3rem;
+    font-family: serif;
+
+}
+#week-1, #week-2, #week-3 {
+    font-size: 2.5rem;
+    font-family: serif;
+
+}
+h3{
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+h4{
+    font-size: 1rem;
+}
+h1{
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+#batches--links{
+    font-size: 2.5rem;
+    font-family: serif;
+}
+#meet-the-fellows{
+    font-size: 2.5rem;
+    font-family: serif;
+}
+h2{
+    font-family: serif;
+    font-size: 2rem;
+}
+.batch{
+    height: 6rem;
+    width: 25rem;
+}
+.icons_path{
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-top: 1.5rem;
+    height: 9rem;
+    width: 9rem;
+}
+.text_path{
+    margin-right: 1.5rem;
+    margin-left: 1.5rem;
+    height: 2rem;
+    width: 9rem;
 }

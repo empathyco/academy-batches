@@ -8,29 +8,44 @@ It runs three times per year: Winter, Summer and Fall batches. During those batc
 
 To help curious people understand their growth we have develop the current repository. It links their work to a main source of truth.
 
+<hr>
+
 # Batches & links
+
+This same set of documents is also deployed to a [Webpage](https://empathyco.github.io/academy-batches/).
+
+
+<hr>
+
+
 ## 2022
-[<img src="https://github.com/alvarorg14/academy-batches/blob/main/assets/fall-batch.png?raw=true" alt="Fall Batch 22"/>](Path/batch_fall2022/blog/fellows.md)
+[<img class="batch" src="https://github.com/empathyco/academy-batches/blob/main/assets/fall-batch.png?raw=true" alt="Fall Batch 22"/>](Path/batch_fall2022/blog/fellows.md)
 
 
 Get to meet the [Academy Fellows](Path/batch_fall2022/blog/fellows.md)\.
 
-[<img src="https://github.com/alvarorg14/academy-batches/blob/main/assets/front.png?raw=true" alt="Frontend" width="150px"/>](Path/batch_fall2022/blog/front.md)
-[<img src="https://github.com/alvarorg14/academy-batches/blob/main/assets/back.png?raw=true" alt="Backend" width="150px"/>](Path/batch_fall2022/blog/back.md)
-[<img src="https://github.com/alvarorg14/academy-batches/blob/main/assets/search.png?raw=true" alt="Search" width="150px"/>](Path/batch_fall2022/blog/search.md)
-[<img src="https://github.com/alvarorg14/academy-batches/blob/main/assets/eca.png?raw=true" alt="ECA" width="150px"/>](Path/batch_fall2022/blog/eca.md)
+[<img class="icons_path" src="https://github.com/empathyco/academy-batches/blob/main/assets/front.png?raw=true" alt="Frontend" width="150px"/>](Path/batch_fall2022/blog/front.md)
+[<img class="icons_path" src="https://github.com/empathyco/academy-batches/blob/main/assets/back.png?raw=true" alt="Backend" width="150px"/>](Path/batch_fall2022/blog/backAndSearch.md)
+[<img class="icons_path" src="https://github.com/empathyco/academy-batches/blob/main/assets/search.png?raw=true" alt="Search" width="150px"/>](Path/batch_fall2022/blog/backAndSearch.md)
+[<img class="icons_path" src="https://github.com/empathyco/academy-batches/blob/main/assets/eca.png?raw=true" alt="ECA" width="150px"/>](Path/batch_fall2022/blog/eca.md)
+
+[<img class="text_path" src="https://github.com/empathyco/academy-batches/blob/main/assets/FrontEnd.png?raw=true" alt="frontend" width="150px"/>](Path/batch_fall2022/blog/front.md)
+[<img class="text_path" src="https://github.com/empathyco/academy-batches/blob/main/assets/Backend.png?raw=true" alt="backend" width="150px"/>](Path/batch_fall2022/blog/backAndSearch.md)
+[<img class="text_path" src="https://github.com/empathyco/academy-batches/blob/main/assets/Search_text.png?raw=true" alt="search" width="150px"/>](Path/batch_fall2022/blog/backAndSearch.md)
+[<img class="text_path" src="https://github.com/empathyco/academy-batches/blob/main/assets/ECA_text.png?raw=true" alt="ECA" width="150px"/>](Path/batch_fall2022/blog/ECA.md)
+
 
 1. [Learning Project](https://github.com/repolink) WIP
 2. [PoC Project](https://github.com/repolink) WIP
 
 
+<hr>
+
 ## 2023
 
-<a href="Path/batch_fall2022/blog/fellows.md">![Uploading image.png…]()</a>
+[<img class="batch" alt="image" src="https://github.com/alvarorg14/academy-batches/blob/main/assets/winter-batch.png?raw=true">](Path/batch_fall2022/blog/fellows.md)
 
-[<img alt="image" src="https://github.com/alvarorg14/academy-batches/blob/main/assets/winter-batch.png?raw=true">](Path/batch_fall2022/blog/fellows.md)
+[<img class="batch" src="https://github.com/alvarorg14/academy-batches/blob/main/assets/summer-batch.png?raw=true" alt="Summer Batch 23"/>](Path/batch_fall2022/blog/fellows.md)
 
-[<img src="https://github.com/alvarorg14/academy-batches/blob/main/assets/summer-batch.png?raw=true" alt="Summer Batch 23"/>](Path/batch_fall2022/blog/fellows.md)
-
-[<img src="https://github.com/alvarorg14/academy-batches/blob/main/assets/fall-batch.png?raw=true" alt="Fall Batch 23"/>](Path/batch_fall2022/blog/fellows.md)
+[<img class="batch" src="https://github.com/alvarorg14/academy-batches/blob/main/assets/fall-batch.png?raw=true" alt="Fall Batch 23"/>](Path/batch_fall2022/blog/fellows.md)
 
