@@ -30,8 +30,8 @@ Get to meet the [Academy Fellows](Path/batch_fall2022/blog/fellows.md)\.
 [<img class="icons_path" src="https://github.com/empathyco/academy-batches/blob/main/assets/eca.png?raw=true" alt="ECA" width="150px"/>](Path/batch_fall2022/blog/eca.md)
 
 [<img class="text_path" src="https://github.com/empathyco/academy-batches/blob/main/assets/FrontEnd.png?raw=true" alt="frontend" width="150px"/>](Path/batch_fall2022/blog/front.md)
-[<img class="text_path" src="https://github.com/empathyco/academy-batches/blob/main/assets/Backend.png?raw=true" alt="backend" width="150px"/>](Path/batch_fall2022/blog/back.md)
-[<img class="text_path" src="https://github.com/empathyco/academy-batches/blob/main/assets/Search_text.png?raw=true" alt="search" width="150px"/>](Path/batch_fall2022/blog/search.md)
+[<img class="text_path" src="https://github.com/empathyco/academy-batches/blob/main/assets/Backend.png?raw=true" alt="backend" width="150px"/>](Path/batch_fall2022/blog/backAndSearch.md)
+[<img class="text_path" src="https://github.com/empathyco/academy-batches/blob/main/assets/Search_text.png?raw=true" alt="search" width="150px"/>](Path/batch_fall2022/blog/backAndSearch.md)
 [<img class="text_path" src="https://github.com/empathyco/academy-batches/blob/main/assets/ECA_text.png?raw=true" alt="ECA" width="150px"/>](Path/batch_fall2022/blog/ECA.md)
 
 
