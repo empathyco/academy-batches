@@ -21,17 +21,17 @@ In case you don't know us yet, we are x students who are just taking off 🚀 ou
 
 ## Frontend Path 
 
-The first path is formed by [Andrea Delgado](https://github.com/andreadlgdo), [Laura Martínez](https://github.com/lauramargar) and [Lucía López](https://github.com/zhuzilu).<br>
+The first path is formed by [Andrea Delgado](https://github.com/andreadlgdo), [Laura Martínez](https://github.com/lauramargar) and [Lucía López](https://github.com/zhuzilu).
 
-You can check their progress here: [front.md](front.md)<br>
+You can check their progress [here](front.md)
 
 ## Backend & Search Path
-The Path in the Back is formed by [Mario Lombas](https://github.com/mlombas), [Lucía Mayoral](https://github.com/luciamayo), [Álvaro Rodríguez](https://github.com/alvarorg14), [Anton Vazquez](https://github.com/AntonVazquez), [Óscar Pérez](https://github.com/uo265488), [María Fernández](https://github.com/mariaffnandez), [Alejandro Rivera](https://github.com/iskelazz), [Sofía Abal](https://github.com/Sofia-AF), [Manuel Gonzalez](https://github.com/gs-Manuel)
+The Path in the Back is formed by [Mario Lombas](https://github.com/mlombas), [Lucía Mayoral](https://github.com/luciamayo), [Álvaro Rodríguez](https://github.com/alvarorg14), [Anton Vazquez](https://github.com/AntonVazquez), [Óscar Pérez](https://github.com/uo265488), [María Fernández](https://github.com/mariaffnandez), [Alejandro Rivera](https://github.com/iskelazz), [Sofía Abal](https://github.com/Sofia-AF), [Manuel Gonzalez](https://github.com/gs-Manuel).
 
 You can check their progress [here](backAndSearch.md)
 
 ## ECA Path
-This path is formed by [Beatriz García](https://github.com/beatrizgarciad)
+This path is formed by [Beatriz García](https://github.com/beatrizgarciad).
 
 You can check their progress [here](eca.md)
 
