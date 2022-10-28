@@ -103,6 +103,6 @@ some API calls to rest.
 
 - #### [Exercise 3](https://github.com/alvarorg14/Academy_Project) by [Álvaro Rodríguez](https://github.com/alvarorg14)
 - #### [Exercise 3](https://github.com/mlombas/SpringBootEmpathyAcademy/tree/v3.0) by [Mario Lombas](https://github.com/mlombas)
-- #### [Exercise 3](https://github.com/uo265488/SpringDataElastic_Getting_Started) * by [Óscar Pérez](https://github.com/uo265488)
+- #### [Exercise 3](https://github.com/uo265488/SpringDataElastic_Getting_Started) * by [Óscar Pérez](https://github.com/uo265488) (unfinished)
 
 
