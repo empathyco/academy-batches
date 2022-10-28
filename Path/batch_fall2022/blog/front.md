@@ -89,7 +89,7 @@ Create a website using the rick and morty API
 - #### [Rick & Morty API (not finished)](https://github.com/zhuzilu/rick-morty-api) by [Lucía López](https://github.com/zhuzilu) - [Demo](https://zhuzilu.github.io/rick-morty-api/www/)
 - #### [Exercise 2 - Rick & Morty API](https://github.com/lauramargar/RickyMorty) by [Laura Martínez](https://github.com/lauramargar) - [Demo (not finished)](https://lauramargar.github.io/RickyMorty/www/index.html)
 - #### [Exercise 2 - Rick & Morty (code)](https://github.com/andreadlgdo/andrea-js-week3) by [Andrea Delgado](https://github.com/andreadlgdo) 
-  [Demo - Rick & Morty website (It's not finished yet)](https://andreadlgdo.github.io/andrea-js-week3/src/index.html) 
+  [Demo - Rick & Morty website](https://andreadlgdo.github.io/andrea-js-week3/src/index.html) 
   
 The second session was dedicated to "JavaScript DOM & DevTools" and we learned from [Guillermo Cacheda](https://github.com/CachedaCodes).
 
