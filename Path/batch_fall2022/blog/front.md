@@ -9,11 +9,13 @@
 - [Week 3](#week-3)
   - [Exercise: API Rick & Morty](#api-rick-and-morty)
   - [Exercise: Practice with DevTools](#practice-exercise)
+- [Week 4](#week-4)
+
 
 
 ----------------------------------------------------------------
 # Week 1
-Our first week working was dedicated to "HTML & CSS" and we learned from [Pedro Ondiviela](https://github.com/PedroOndh).
+Our first week working on the frontend path was dedicated to "HTML & CSS" and we learned from [Pedro Ondiviela](https://github.com/PedroOndh).
 
 | **Path Owner** | **Content Deliverer** | 
 | --- | --- | 
@@ -38,7 +40,7 @@ Try using semantic HTML elements, grid and flex in the process.
 ----------------------------------------------------------------
 
 # Week 2
-Our second week working was dedicated to "CSS Responsive" and we learned from [Guillermo Cacheda](https://github.com/CachedaCodes).
+Our second week working on the frontend path was dedicated to "CSS Responsive" and we learned from [Guillermo Cacheda](https://github.com/CachedaCodes).
 
 | **Path Owner** | **Content Deliverer** | 
 | --- | --- | 
@@ -61,7 +63,7 @@ The games are to control the use of the layouts, specifically the flexbox layout
 ----------------------------------------------------------------
 
 # Week 3
-On our third week working we had two sessions:
+On our third week  working on the frontend path we had two sessions:
 
 One was dedicated to "JavaScript & Basic TypeScript" and we learned from [Antonio Cuenca](https://github.com/antonioc-empathy).
 
@@ -106,3 +108,35 @@ The second session was dedicated to "JavaScript DOM & DevTools" and we learned f
 ### Practice exercise
 Debug this [web app](https://codepen.io/CachedaCodes/pen/yLjmJEK?editors=0010) using the DevTools.
 
+----------------------------------------------------------------
+
+# Week 4
+On our fourth week working on the frontend path we had two sessions:
+
+One was dedicated to "Vue CLI" and we learned from [Pablo Alonso García](https://github.com/alonsogarciapablo).
+
+| **Path Owner** | **Content Deliverer** | 
+| --- | --- | 
+| [Beltrán García](https://github.com/tiborux) | [Pablo Alonso García](https://github.com/alonsogarciapablo)| 
+
+\
+**Key learning points** <!-- (Do not change this line!!!) -->
+1. Vue: ecosystem, benefits, set up.
+2. Vue CLI file structure.
+3. Components: components communication, properties, props, events.
+4. Styles: scoped styles, v-bind classes, v-bind styles.
+5. Lifecycle
+6. Advanced features: transitions, slots, provide/inject, watchers, 
+
+  
+The second session was dedicated to "Vuex" and we learned from [Beltrán García](https://github.com/tiborux) .
+
+| **Path Owner** | **Content Deliverer** | 
+| --- | --- | 
+| [Beltrán García](https://github.com/tiborux) | [[Beltrán García](https://github.com/tiborux)|  \ 
+
+
+**Key learning points** <!-- (Do not change this line!!!) -->
+1. Vuex: differences Vue vs Vuex
+2. Store: states, getters, actions, mutations
+3. Modules: composing modules, namespacing, binding helpers.
