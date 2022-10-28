@@ -6,6 +6,8 @@
   - [Exercise: Essential and Spring Boot](#essential-and-spring-boot)
 - [Week 2](#week-2)
   - [Exercise: Introduction to Spring](#introduction-to-spring)
+- [Week 3](#week-3)
+  - [Exercise: Introduction to Elasticsearch](#introduction-to-elasticsearch)
 
 
 ----------------------------------------------------------------
@@ -95,5 +97,7 @@ Also we had to write a unit test for each of the classes.
 4. Query DSL
 
 ### Exercise
+
+- #### [Exercise 3](https://github.com/alvarorg14/Academy_Project) by [Álvaro Rodríguez](https://github.com/alvarorg14)
 
 
