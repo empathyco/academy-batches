@@ -43,9 +43,9 @@ Get to meet the [Academy Fellows](Path/batch_fall2022/blog/fellows.md)\.
 
 ## 2023
 
-[<img class="batch" alt="image" src="https://github.com/alvarorg14/academy-batches/blob/main/assets/img/winter-batch.png?raw=true">](Path/batch_fall2022/blog/fellows.md)
+[<img class="batch" alt="image" src="https://github.com/empathyco/academy-batches/blob/main/assets/img/winter-batch.png?raw=true">](Path/batch_fall2022/blog/fellows.md)
 
-[<img class="batch" src="https://github.com/alvarorg14/academy-batches/blob/main/assets/img/summer-batch.png?raw=true" alt="Summer Batch 23"/>](Path/batch_fall2022/blog/fellows.md)
+[<img class="batch" src="https://github.com/empathyco/academy-batches/blob/main/assets/img/summer-batch.png?raw=true" alt="Summer Batch 23"/>](Path/batch_fall2022/blog/fellows.md)
 
-[<img class="batch" src="https://github.com/alvarorg14/academy-batches/blob/main/assets/img/fall-batch.png?raw=true" alt="Fall Batch 23"/>](Path/batch_fall2022/blog/fellows.md)
+[<img class="batch" src="https://github.com/empathyco/academy-batches/blob/main/assets/img/fall-batch.png?raw=true" alt="Fall Batch 23"/>](Path/batch_fall2022/blog/fellows.md)
 
