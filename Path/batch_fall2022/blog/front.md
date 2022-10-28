@@ -95,7 +95,7 @@ The second session was dedicated to "JavaScript DOM & DevTools" and we learned f
 
 | **Path Owner** | **Content Deliverer** | 
 | --- | --- | 
-| [Beltrán García](https://github.com/tiborux) | [Guillermo Cacheda](https://github.com/CachedaCodes)| \ 
+| [Beltrán García](https://github.com/tiborux) | [Guillermo Cacheda](https://github.com/CachedaCodes)| 
 
 
 **Key learning points** <!-- (Do not change this line!!!) -->
@@ -133,7 +133,7 @@ The second session was dedicated to "Vuex" and we learned from [Beltrán García
 
 | **Path Owner** | **Content Deliverer** | 
 | --- | --- | 
-| [Beltrán García](https://github.com/tiborux) | [Beltrán García](https://github.com/tiborux)|  \ 
+| [Beltrán García](https://github.com/tiborux) | [Beltrán García](https://github.com/tiborux)|  
 
 
 **Key learning points** <!-- (Do not change this line!!!) -->
