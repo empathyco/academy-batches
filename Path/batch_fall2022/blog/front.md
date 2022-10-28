@@ -133,7 +133,7 @@ The second session was dedicated to "Vuex" and we learned from [Beltrán García
 
 | **Path Owner** | **Content Deliverer** | 
 | --- | --- | 
-| [Beltrán García](https://github.com/tiborux) | [[Beltrán García](https://github.com/tiborux)|  \ 
+| [Beltrán García](https://github.com/tiborux) | [Beltrán García](https://github.com/tiborux)|  \ 
 
 
 **Key learning points** <!-- (Do not change this line!!!) -->
