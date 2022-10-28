@@ -84,7 +84,7 @@ One was dedicated to "JavaScript & Basic TypeScript" and we learned from [Antoni
 ### API Rick and Morty
 Create a website using the rick and morty API
 
-- #### [Rick & Morty API (not finished)](https://github.com/zhuzilu/rick-morty-api) by [Lucía López](https://github.com/zhuzilu) - [Demo](https://jocular-beijinho-80e89a.netlify.app/)
+- #### [Rick & Morty API (not finished)](https://github.com/zhuzilu/rick-morty-api) by [Lucía López](https://github.com/zhuzilu) - [Demo](https://zhuzilu.github.io/rick-morty-api/www/)
 - #### [Exercise 2 - Rick & Morty API](https://github.com/lauramargar/RickyMorty) by [Laura Martínez](https://github.com/lauramargar) - [Demo (not finished)](https://lauramargar.github.io/RickyMorty/www/index.html)
 - #### [Exercise 2 - Rick & Morty (code)](https://github.com/andreadlgdo/andrea-js-week3) by [Andrea Delgado](https://github.com/andreadlgdo) 
   [Demo - Rick & Morty website (It's not finished yet)](https://andreadlgdo.github.io/andrea-js-week3/src/index.html) 
