@@ -10,6 +10,7 @@
   - [Exercise: API Rick & Morty](#api-rick-and-morty)
   - [Exercise: Practice with DevTools](#practice-exercise)
 - [Week 4](#week-4)
+  - [Exercise: Practice with Vue](#example-vue)
 
 
 
@@ -87,7 +88,7 @@ One was dedicated to "JavaScript & Basic TypeScript" and we learned from [Antoni
 Create a website using the rick and morty API
 
 - #### [Rick & Morty API (not finished)](https://github.com/zhuzilu/rick-morty-api) by [Lucía López](https://github.com/zhuzilu) - [Demo](https://zhuzilu.github.io/rick-morty-api/www/)
-- #### [Exercise 2 - Rick & Morty API](https://github.com/lauramargar/RickyMorty) by [Laura Martínez](https://github.com/lauramargar) - [Demo (not finished)](https://lauramargar.github.io/RickyMorty/www/index.html)
+- #### [Exercise 2 - Rick & Morty API](https://github.com/lauramargar/RickyMorty) by [Laura Martínez](https://github.com/lauramargar) - [Demo](https://lauramargar.github.io/RickyMorty/www/index.html)
 - #### [Exercise 2 - Rick & Morty (code)](https://github.com/andreadlgdo/andrea-js-week3) by [Andrea Delgado](https://github.com/andreadlgdo) 
   [Demo - Rick & Morty website](https://andreadlgdo.github.io/andrea-js-week3/src/index.html) 
   
@@ -113,11 +114,11 @@ Debug this [web app](https://codepen.io/CachedaCodes/pen/yLjmJEK?editors=0010) u
 # Week 4
 On our fourth week working on the frontend path we had two sessions:
 
-One was dedicated to "Vue CLI" and we learned from [Pablo Alonso García](https://github.com/alonsogarciapablo).
+One was dedicated to "Vue CLI" and we learned from [Alonso García](https://github.com/alonsogb).
 
 | **Path Owner** | **Content Deliverer** | 
 | --- | --- | 
-| [Beltrán García](https://github.com/tiborux) | [Pablo Alonso García](https://github.com/alonsogarciapablo)| 
+| [Beltrán García](https://github.com/tiborux) | [Alonso García](https://github.com/alonsogb)| 
 
 \
 **Key learning points** <!-- (Do not change this line!!!) -->
@@ -128,7 +129,9 @@ One was dedicated to "Vue CLI" and we learned from [Pablo Alonso García](https:
 5. Lifecycle
 6. Advanced features: transitions, slots, provide/inject, watchers, 
 
-  
+### Example vue
+Practice using the example provided by Alonso.
+
 The second session was dedicated to "Vuex" and we learned from [Beltrán García](https://github.com/tiborux) .
 
 | **Path Owner** | **Content Deliverer** | 
