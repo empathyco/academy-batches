@@ -23,7 +23,7 @@ In case you don't know us yet, we are x students who are just taking off 🚀 ou
 
 The first path is formed by [Andrea Delgado](https://github.com/andreadlgdo), [Laura Martínez](https://github.com/lauramargar) and [Lucía López](https://github.com/zhuzilu).
 
-<img class="icons_path" src="https://github.com/empathyco/academy-batches/blob/main/assets/img/andrea.png?raw=true" alt="Andrea" width="150px"/>
+<img class="icons_path" src="https://github.com/empathyco/academy-batches/blob/main/assets/img/Andrea.png?raw=true" alt="Andrea" width="150px"/>
 <img class="icons_path" src="https://github.com/empathyco/academy-batches/blob/main/assets/img/laura.png?raw=true" alt="Laura" width="150px"/>
 <img class="icons_path" src="https://github.com/empathyco/academy-batches/blob/main/assets/img/lucia.png?raw=true" alt="Lucia" width="150px"/>
 
