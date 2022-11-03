@@ -72,7 +72,7 @@ Also we had to write a unit test for each of the classes.
 - #### [Exercise 2](https://github.com/alvarorg14/Academy_Project) by [Álvaro Rodríguez](https://github.com/alvarorg14)
 - #### [Exercise 2](https://github.com/mlombas/SpringBootEmpathyAcademy/tree/v2.0) (And its corresponding [release](https://github.com/mlombas/SpringBootEmpathyAcademy/releases/tag/v2.0)) by [Mario Lombas](https://github.com/mlombas)
 - #### [Exercise 2](https://github.com/uo265488/SpringDataElastic_Getting_Started) * by [Óscar Pérez](https://github.com/uo265488)
-- #### [Exercise 2](https://github.com/Sofia-AF/assigment) (Not finished)  by [Sofía Abal](https://github.com/Sofia-AF)
+- #### [Exercise 2](https://github.com/Sofia-AF/assigment/tree/Week2) by [Sofía Abal](https://github.com/Sofia-AF)
 - #### [Exercise 2](https://github.com/iskelazz/springBootExample) by [Alejandro Rivera](https://github.com/iskelazz)
 - #### [Exercise 2](https://github.com/gs-Manuel/gs_Manuel-searchAcademy-assigment) by [Manuel González](https://github.com/gs-Manuel)
 - #### [Exercise 2](https://github.com/mariaffnandez/search.git) (Not finished)  by [María Fernández](https://github.com/mariaffnandez)
@@ -106,5 +106,5 @@ some API calls to rest.
 - #### [Exercise 3](https://github.com/alvarorg14/Academy_Project) by [Álvaro Rodríguez](https://github.com/alvarorg14)
 - #### [Exercise 3](https://github.com/mlombas/SpringBootEmpathyAcademy/tree/v3.1) (javadoc halfway finished) by [Mario Lombas](https://github.com/mlombas)
 - #### [Exercise 3](https://github.com/uo265488/SpringDataElastic_Getting_Started) * by [Óscar Pérez](https://github.com/uo265488) (unfinished)
-
+- #### [Exercise 3](https://github.com/Sofia-AF/assigment/tree/week3) * by [Sofía Abal](https://github.com/Sofia-AF)
 
