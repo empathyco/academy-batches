@@ -10,7 +10,7 @@
   - [Exercise: API Rick & Morty](#api-rick-and-morty)
   - [Exercise: Practice with DevTools](#practice-exercise)
 - [Week 4](#week-4)
-  - [Exercise: Practice with Vue](#example-vue)
+  - [Exercise: Practice with Vue (Shopping List)](#example-vue---shopping-list)
 
 
 
