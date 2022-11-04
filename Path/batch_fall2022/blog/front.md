@@ -131,10 +131,9 @@ One was dedicated to "Vue CLI" and we learned from [Alonso García](https://gith
 
 ### Example vue - Shopping List
 Practice using the example provided by Alonso.
-- #### [Vue Shopping List]([https://github.com/zhuzilu/rick-morty-api](https://github.com/zhuzilu/vue-shopping-list-week4)) by [Lucía López](https://github.com/zhuzilu) - [Demo](https://vue-shopping-list-week4-2s8ujr7q8-zhuzilu.vercel.app/))
+- #### [Vue Shopping List](https://github.com/zhuzilu/vue-shopping-list-week4) by [Lucía López](https://github.com/zhuzilu) - [Demo](https://vue-shopping-list-week4-2s8ujr7q8-zhuzilu.vercel.app/)
 - #### [Vue Shopping List](https://github.com/lauramargar/) by [Laura Martínez](https://github.com/lauramargar) - [Demo]()
-- #### [Vue Shopping List](https://github.com/andreadlgdo/) by [Andrea Delgado](https://github.com/andreadlgdo) 
-  [Demo]() 
+- #### [Vue Shopping List](https://github.com/andreadlgdo/) by [Andrea Delgado](https://github.com/andreadlgdo)- [Demo]() 
 
 
 The second session was dedicated to "Vuex" and we learned from [Beltrán García](https://github.com/tiborux) .
