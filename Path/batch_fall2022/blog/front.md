@@ -11,6 +11,10 @@
   - [Exercise: Practice with DevTools](#practice-exercise)
 - [Week 4](#week-4)
   - [Exercise: Practice with Vue (Shopping List)](#example-vue---shopping-list)
+- [Week 5](#week-5)
+  - [Exercise: ](#)
+- [Week 6](#week-6)
+  - [Exercise: TypeScript Challenges](#typescript-challenges)
 
 
 
@@ -147,3 +151,35 @@ The second session was dedicated to "Vuex" and we learned from [Beltrán García
 1. Vuex: differences Vue vs Vuex
 2. Store: states, getters, actions, mutations
 3. Modules: composing modules, namespacing, binding helpers.
+
+----------------------------------------------------------------
+
+# Week 5
+
+### Project IMDB: User Story
+
+During the fifth week, we started planning and researching for the project that we would do with the Back and Search path. The project consists on fetching the data provided on the Back & Search API based on the IMDB (Internet Movie Database) to provide results so the user can discover new movies. Each frontend project would have their own special features. This week we started creating the repositories and their own Github Project. We also drafted the user stories for the project, where we went into detail about the features that we would like to develop for the web app.  
+
+- #### [Academy Project IMDB](https://github.com/zhuzilu/academy-project-imdb) by [Lucía López](https://github.com/zhuzilu)
+- #### [Academy Project IMDB](https://github.com/lauramargar/academy-project-imdb) by [Laura Martínez](https://github.com/lauramargar)
+- #### [Academy Project IMDB](https://github.com/andreadlgdo/academy-project-Imdb) by [Andrea Delgado](https://github.com/andreadlgdo) 
+
+
+----------------------------------------------------------------
+
+# Week 6
+On our sixth week working on the frontend path we had one session dedicated to "TypeScript" and we learned from [Manuel Navarro](https://github.com/mnavarroespinosa).
+
+| **Path Owner** | **Content Deliverer** | 
+| --- | --- | 
+| [Beltrán García](https://github.com/tiborux) | [Manuel Navarro](https://github.com/mnavarroespinosa)| 
+
+\
+**Key learning points** <!-- (Do not change this line!!!) -->
+1. TypeScript: configuration.
+2. Basic types: type simple variables, interfaces, type aliases, type functions, literal types, tuples, built-in types.
+3. Advanced types: any, unknown, generics, union types, intersection types, template literals, mapped types, conditional types.
+
+### TypeScript Challenges
+Manuel Navarro provided us this website with [TypeScript Challenges](https://github.com/type-challenges/type-challenges) to practice.
+
