@@ -181,5 +181,5 @@ On our sixth week working on the frontend path we had one session dedicated to "
 3. Advanced types: any, unknown, generics, union types, intersection types, template literals, mapped types, conditional types.
 
 ### TypeScript Challenges
-Manuel Navarro provided us this website with [TypeScript Challenges](https://github.com/type-challenges/type-challenges) to practice.
+Manuel Navarro provided us with this website [TypeScript Challenges](https://github.com/type-challenges/type-challenges) to practice.
 
