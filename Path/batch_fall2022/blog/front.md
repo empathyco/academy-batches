@@ -12,7 +12,7 @@
 - [Week 4](#week-4)
   - [Exercise: Practice with Vue (Shopping List)](#example-vue---shopping-list)
 - [Week 5](#week-5)
-  - [Exercise: ](#project-imdb-user-story)
+  - [Exercise: Academy Project IMDB](#project-imdb-user-story)
 - [Week 6](#week-6)
   - [Exercise: TypeScript Challenges](#typescript-challenges)
 
