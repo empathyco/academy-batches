@@ -109,3 +109,25 @@ some API calls to rest.
 - #### [Exercise 3](https://github.com/Sofia-AF/assigment/tree/week3) * by [Sofía Abal](https://github.com/Sofia-AF)
 - #### [Exercise 3](https://github.com/mariaffnandez/IMDBproject) * by [María Fernández](https://github.com/mariaffnandez)
 
+# Week 4
+
+### Introduction to Indexing
+
+*2-11-2022*
+
+| **Content Deliverer** | 
+| --- | 
+| [Alberto Villamayor](https://github.com/avillamayordevega) |
+
+
+&nbsp; <!-- (Do not change this and above line PLEASE!!!) -->
+**Key learning points** <!-- (Do not change this line!!!) -->
+1. Indexing
+2. Tokenizers
+3. Character and Token filters
+
+### Exercise
+In this week's assignment, we were asked to make changes to our project such that it accepts files and index them. 
+We were supossed to start indexing one or more documents into elastic, from the IMDb TSV files ([https://datasets.imdbws.com/](https://datasets.imdbws.com/))
+
+- #### [Exercise 4](https://github.com/mlombas/SpringBootEmpathyAcademy/tree/v4.0) by [Mario Lombas](https://github.com/mlombas)
