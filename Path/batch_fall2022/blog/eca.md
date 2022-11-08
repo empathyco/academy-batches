@@ -71,3 +71,14 @@ Starting the week with an overview of what my tasks for the week would be.
 - 
 
 ----------------------------------------------------------------
+# Week 5
+*07/11/2022*
+
+
+| **Path Owner** | **Content Deliverer** | 
+| --- | --- | 
+| Nina Müller | Pieter Vegt, Nina Müller|
+
+
+**Key learning points** <!-- (Do not change this line!!!) -->
+1. 
