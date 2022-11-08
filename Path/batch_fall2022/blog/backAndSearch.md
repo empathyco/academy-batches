@@ -105,7 +105,7 @@ some API calls to rest.
 
 - #### [Exercise 3](https://github.com/alvarorg14/Academy_Project) by [Álvaro Rodríguez](https://github.com/alvarorg14)
 - #### [Exercise 3](https://github.com/mlombas/SpringBootEmpathyAcademy/tree/v3.2) by [Mario Lombas](https://github.com/mlombas)
-- #### [Exercise 3](https://github.com/uo265488/SpringDataElastic_Getting_Started) * by [Óscar Pérez](https://github.com/uo265488) (unfinished)
+- #### [Exercise 3](https://github.com/uo265488/SpringDataElastic_Getting_Started) * by [Óscar Pérez](https://github.com/uo265488) 
 - #### [Exercise 3](https://github.com/Sofia-AF/assigment/tree/week3) * by [Sofía Abal](https://github.com/Sofia-AF)
 - #### [Exercise 3](https://github.com/mariaffnandez/IMDBproject) * by [María Fernández](https://github.com/mariaffnandez)
 - #### [Exercise 3](https://github.com/AntonVazquez/Springboot_ElasticSeach.git) by [Anton Vazquez](https://github.com/AntonVazquez)
