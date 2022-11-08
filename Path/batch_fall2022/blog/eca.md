@@ -50,7 +50,6 @@ Starting the week with an overview of what my tasks for the week would be.
 2. Newsletter ideas. 
 3. Contacting places for [Ethics in the park](https://searchbroker.atlassian.net/wiki/spaces/EBAMP/pages/3964862582/Ethics+in+the+park)
 4. Creation of Confluence pages about the above topics 
-- 
 
 ----------------------------------------------------------------
 # Week 4
@@ -68,7 +67,6 @@ Starting the week with an overview of what my tasks for the week would be.
 3. Overview of ECA's webpage.
 4. Podcast review and LinkedIn post for my personal page.
 5. Meetup email invitation for ECA members.
-- 
 
 ----------------------------------------------------------------
 # Week 5
