@@ -123,11 +123,13 @@ some API calls to rest.
 &nbsp; <!-- (Do not change this and above line PLEASE!!!) -->
 **Key learning points** <!-- (Do not change this line!!!) -->
 1. Indexing
-2. Tokenizers
-3. Character and Token filters
+2. Mapping and Analyzers
+3. Tokenizers
+4. Character and Token filters
 
 ### Exercise
 In this week's assignment, we were asked to make changes to our project such that it accepts files and index them. 
 We were supossed to start indexing one or more documents into elastic, from the IMDb TSV files ([https://datasets.imdbws.com/](https://datasets.imdbws.com/))
 
 - #### [Exercise 4](https://github.com/mlombas/SpringBootEmpathyAcademy/tree/v4.0) by [Mario Lombas](https://github.com/mlombas)
+- #### [Exercise 4](https://github.com/alvarorg14/Academy_Project) by [Álvaro Rodríguez](https://github.com/alvarorg14)
