@@ -140,3 +140,25 @@ We were supossed to start indexing one or more documents into elastic, from the 
 - #### [Exercise 4](https://github.com/Sofia-AF/assigment) by [Sofía Abal](https://github.com/Sofia-AF)
 - #### [Exercise 4](https://github.com/AntonVazquez/Springboot_ElasticSeach.git) by [Anton Vazquez](https://github.com/AntonVazquez)(unfinished)
 - #### [Exercise 4](https://github.com/iskelazz/springBootExample) by [Alejandro Rivera](https://github.com/iskelazz) (unfinished)
+
+# Week 5
+
+### Introduction to Aggregations and Filters
+
+*2-11-2022*
+
+| **Content Deliverer** | 
+| --- | 
+| [Miriam Abalo](https://github.com/MiriamLynx) |
+
+
+&nbsp; <!-- (Do not change this and above line PLEASE!!!) -->
+**Key learning points** <!-- (Do not change this line!!!) -->
+1. Aggregations
+2. Filters
+
+### Exercise
+We saw how Aggregations and Filters work, very quickly. We were not given assignment however
+
+- #### [Week 5 work](https://github.com/mlombas/SpringBootEmpathyAcademy/tree/v5.0) (Filter system implemented and such) by [Mario Lombas](https://github.com/mlombas)
+
