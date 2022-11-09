@@ -160,5 +160,6 @@ We were supossed to start indexing one or more documents into elastic, from the 
 ### Exercise
 We saw how Aggregations and Filters work, very quickly. We were not given assignment however
 
-- #### [Week 5 work](https://github.com/mlombas/SpringBootEmpathyAcademy/tree/v5.0) (Filter system implemented and such) by [Mario Lombas](https://github.com/mlombas)
-
+- #### [Mario Lombas](https://github.com/mlombas)
+  - [Query filters](https://github.com/mlombas/SpringBootEmpathyAcademy/tree/v5.0)
+  - [Multi file indexing](https://github.com/mlombas/SpringBootEmpathyAcademy/tree/78747911224930ad05b48001bab1b20e1b98fd4f)
