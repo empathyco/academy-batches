@@ -173,3 +173,8 @@ We saw how Aggregations and Filters work, very quickly. We were not given assign
   - [Indexing directors](https://github.com/alvarorg14/Academy_Project/pull/4)
   - [Query filters and basic search functionality](https://github.com/alvarorg14/Academy_Project/pull/5)
   - [Dockerized](https://github.com/alvarorg14/Academy_Project/pull/6)
+
+
+- #### [Sofía Abal](https://github.com/Sofia-AF)
+  - [Catch up from last week's exercise](https://github.com/Sofia-AF/assigment/tree/index)
+  - [Current work on this week's assigment (not finished)](https://github.com/Sofia-AF/assigment/tree/week5)
