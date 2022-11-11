@@ -166,3 +166,10 @@ We saw how Aggregations and Filters work, very quickly. We were not given assign
   - [Multi file indexing, generalized for any number of files](https://github.com/mlombas/SpringBootEmpathyAcademy/tree/v5.1)
   - [Basic search functionality, RETURN TYPE FORMAT NOT FINAL](https://github.com/mlombas/SpringBootEmpathyAcademy/tree/63bba4fa21320cad5f087b2a4b171bd8658dc5b3)
   - [Dockerized](https://github.com/mlombas/SpringBootEmpathyAcademy/tree/v5.2)
+
+- #### [Álvaro Rodríguez](https://github.com/alvarorg14)
+  - [Full project](https://github.com/alvarorg14/Academy_Project)
+  - [Indexing rating and akas](https://github.com/alvarorg14/Academy_Project/pull/3)
+  - [Indexing directors](https://github.com/alvarorg14/Academy_Project/pull/4)
+  - [Query filters and basic search functionality](https://github.com/alvarorg14/Academy_Project/pull/5)
+  - [Dockerized](https://github.com/alvarorg14/Academy_Project/pull/6)
