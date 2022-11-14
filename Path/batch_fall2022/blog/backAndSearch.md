@@ -180,3 +180,8 @@ We saw how Aggregations and Filters work, very quickly. We were not given assign
 - #### [Sofía Abal](https://github.com/Sofia-AF)
   - [Catch up from last week's exercise](https://github.com/Sofia-AF/assigment/tree/index)
   - [Current work on this week's assigment (not finished)](https://github.com/Sofia-AF/assigment/tree/week5)
+
+- #### [Óscar Pérez](https://github.com/uo265488)
+  - [Indexing finished and working perfectly (basics, ratings, akas, starring and directors)](https://github.com/uo265488/SpringDataElastic_Getting_Started/pull/4)
+  - [Improving search and making API more RESTful](https://github.com/uo265488) (to be updated)
+
