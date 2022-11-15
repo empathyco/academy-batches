@@ -190,3 +190,5 @@ We saw how Aggregations and Filters work, very quickly. We were not given assign
 - #### [María Fernández](https://github.com/mariaffnandez)
   - [Query filters](https://github.com/mariaffnandez/IMDBproject/tree/FiltersAndAgregations)
 
+- #### [Alejandro Rivera](https://github.com/iskelazz)
+  - [Filters and orderBy Aggregation (unfinished)](https://github.com/iskelazz/springBootExample/tree/aggregate)
