@@ -185,7 +185,7 @@ We saw how Aggregations and Filters work, very quickly. We were not given assign
 
 - #### [Óscar Pérez](https://github.com/uo265488)
   - [Indexing finished and working perfectly (basics, ratings, akas, starring and directors)](https://github.com/uo265488/SpringDataElastic_Getting_Started/pull/4)
-  - [Improving search and making API more RESTful]([https://github.com/uo265488](https://github.com/uo265488/SpringDataElastic_Getting_Started/pull/5))
+  - [Improving search and making API more RESTful]([https://github.com/uo265488/SpringDataElastic_Getting_Started/pull/5)])
   
 - #### [María Fernández](https://github.com/mariaffnandez)
   - [Query filters](https://github.com/mariaffnandez/IMDBproject/tree/FiltersAndAgregations)
