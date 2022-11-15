@@ -140,7 +140,7 @@ We were supossed to start indexing one or more documents into elastic, from the 
 - #### [Exercise 4](https://github.com/mariaffnandez/IMDBproject)  by [María Fernández](https://github.com/mariaffnandez)
 - #### [Exercise 4](https://github.com/Sofia-AF/assigment) by [Sofía Abal](https://github.com/Sofia-AF)
 - #### [Exercise 4](https://github.com/AntonVazquez/Springboot_ElasticSeach.git) by [Anton Vazquez](https://github.com/AntonVazquez)(unfinished)
-- #### [Exercise 4](https://github.com/iskelazz/springBootExample) by [Alejandro Rivera](https://github.com/iskelazz) (unfinished)
+- #### [Exercise 4](https://github.com/iskelazz/springBootExample) by [Alejandro Rivera](https://github.com/iskelazz)
 - #### [Exercise 4](https://github.com/gs-Manuel/gs_Manuel-searchAcademy-assigment) by [Manuel González](https://github.com/gs-Manuel)(unfinished)
 
 # Week 5
