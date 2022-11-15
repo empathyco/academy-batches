@@ -79,4 +79,7 @@ Starting the week with an overview of what my tasks for the week would be.
 
 
 **Key learning points** <!-- (Do not change this line!!!) -->
-1. 
+1. [Events and conferences' research.](https://searchbroker.atlassian.net/wiki/spaces/EBAMP/pages/4019847202/Privacy+data+and+ethics-related+events+research)
+2. Newsletter tools' comparison (Sendinblue and Cleverreach demos)
+3. [PrivacyTip](https://twitter.com/ethicalallies/status/1591001460795445249) post on ECA's Twitter account.
+4. ECA Workshop ideas, organization, members...
