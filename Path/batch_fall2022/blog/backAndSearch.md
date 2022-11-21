@@ -112,6 +112,9 @@ some API calls to rest.
 - #### [Exercise 3](https://github.com/iskelazz/springBootExample) by [Alejandro Rivera](https://github.com/iskelazz)
 - #### [Exercise 3](https://github.com/gs-Manuel/gs_Manuel-searchAcademy-assigment) by [Manuel González](https://github.com/gs-Manuel)
 - #### [Exercise 3](https://github.com/luciamayo/IMDB) by [Lucía Mayoral](https://github.com/luciamayo)
+
+----------------------------------------------------------------
+
 # Week 4
 
 ### Introduction to Indexing
@@ -143,6 +146,8 @@ We were supossed to start indexing one or more documents into elastic, from the 
 - #### [Exercise 4](https://github.com/iskelazz/springBootExample) by [Alejandro Rivera](https://github.com/iskelazz)
 - #### [Exercise 4](https://github.com/gs-Manuel/gs_Manuel-searchAcademy-assigment) by [Manuel González](https://github.com/gs-Manuel)(unfinished)
 - #### [Exercise 4](https://github.com/luciamayo/IMDB) by [Lucía Mayoral](https://github.com/luciamayo) (unfinished)
+
+----------------------------------------------------------------
 
 # Week 5
 
@@ -177,7 +182,6 @@ We saw how Aggregations and Filters work, very quickly. We were not given assign
   - [Indexing rating and akas](https://github.com/alvarorg14/Academy_Project/pull/3)
   - [Indexing directors](https://github.com/alvarorg14/Academy_Project/pull/4)
   - [Query filters and basic search functionality](https://github.com/alvarorg14/Academy_Project/pull/5)
-  - [Dockerized](https://github.com/alvarorg14/Academy_Project/pull/6)
 
 
 - #### [Sofía Abal](https://github.com/Sofia-AF)
@@ -193,3 +197,30 @@ We saw how Aggregations and Filters work, very quickly. We were not given assign
 
 - #### [Alejandro Rivera](https://github.com/iskelazz)
   - [Filters and orderBy Aggregation (unfinished)](https://github.com/iskelazz/springBootExample/tree/aggregate)
+
+
+----------------------------------------------------------------
+
+# Week 6
+
+### Introduction to Docker
+
+*14-11-2022*
+
+| **Content Deliverer** | 
+| --- | 
+| [Oscar Menéndez](https://github.com/oscarmenendezgarcia) |
+
+&nbsp; <!-- (Do not change this and above line PLEASE!!!) -->
+**Key learning points** <!-- (Do not change this line!!!) -->
+1. How Docker works.
+2. Most used commands.
+3. Docker Hub
+4. Docker compose files
+
+### Exercise
+
+- #### [Álvaro Rodríguez](https://github.com/alvarorg14)
+  - [Dockerized](https://github.com/alvarorg14/Academy_Project/pull/6)
+  - [Docker Compose](https://github.com/alvarorg14/Academy_Project/commit/3eb89a37c81ae14acaedb8d61c5e2c76baaaae45)
+  - [CORS](https://github.com/alvarorg14/Academy_Project/pull/8)
