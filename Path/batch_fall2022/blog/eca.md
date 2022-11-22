@@ -83,3 +83,18 @@ Starting the week with an overview of what my tasks for the week would be.
 2. Newsletter tools' comparison (Sendinblue and Cleverreach demos)
 3. [PrivacyTip](https://twitter.com/ethicalallies/status/1591001460795445249) post on ECA's Twitter account.
 4. ECA Workshop ideas, organization, members...
+
+----------------------------------------------------------------
+# Week 6
+*14/11/2022*
+
+
+| **Path Owner** | **Content Deliverer** | 
+| --- | --- | 
+| Nina Müller | Pieter Vegt, Nina Müller|
+
+
+**Key learning points** <!-- (Do not change this line!!!) -->
+1. Newsletter demo preparation: Cleverreach, Sendinblue, Sendstack and Mailcoach comparison.
+2. Event's and conferences' research.
+3. Motive's search for potential customers.
