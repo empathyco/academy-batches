@@ -229,5 +229,5 @@ We saw how Aggregations and Filters work, very quickly. We were not given assign
   - [Indexing completely complete](https://github.com/mlombas/SpringBootEmpathyAcademy/tree/v6.0)
 
 - #### [Óscar Pérez](https://github.com/uo265488)
-  - [Indexing finished and working perfectly (basics, ratings, akas, starring and directors)](https://github.com/uo265488/SpringDataElastic_Getting_Started/pull/6)
-  - [Improving search and making API more RESTful] https://github.com/uo265488/SpringDataElastic_Getting_Started/pull/7
+  - [Facets](https://github.com/uo265488/SpringDataElastic_Getting_Started/pull/6)
+  - [Improving search and making API more RESTful](https://github.com/uo265488/SpringDataElastic_Getting_Started/pull/7)
