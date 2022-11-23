@@ -8,6 +8,12 @@
   - [Exercise: Introduction to Spring](#introduction-to-spring)
 - [Week 3](#week-3)
   - [Exercise: Introduction to Elasticsearch](#introduction-to-elasticsearch)
+- [Week 4](#week-4)
+  - [Exercise: Introduction to Indexing](#introduction-to-indexing) 
+- [Week 5](#week-5)
+  - [Exercise: Introduction to Aggregations and Filters](#introduction-to-aggregations-and-filters) 
+- [Week 6](#week-6)
+  - [Exercise: Introduction to Docker](#introduction-to-docker)
 
 
 ----------------------------------------------------------------
@@ -190,7 +196,7 @@ We saw how Aggregations and Filters work, very quickly. We were not given assign
   - [Improving search and making API more RESTful](https://github.com/uo265488/SpringDataElastic_Getting_Started/pull/5)
   
 - #### [María Fernández](https://github.com/mariaffnandez)
-  - [Query filters](https://github.com/mariaffnandez/IMDBproject/tree/FiltersAndAgregations)
+  - [Query filters and aggregations](https://github.com/mariaffnandez/IMDBproject/tree/FiltersAndAgregations)
 
 - #### [Alejandro Rivera](https://github.com/iskelazz)
   - [Filters and orderBy Aggregation](https://github.com/iskelazz/springBootExample/tree/aggregate)
@@ -234,3 +240,7 @@ We saw how Aggregations and Filters work, very quickly. We were not given assign
 
 - #### [Alejandro Rivera](https://github.com/iskelazz)
   - [Indexing finished](https://github.com/iskelazz/springBootExample/tree/multi-indexing)
+  
+- #### [María Fernández](https://github.com/mariaffnandez)
+  - [Indexing done](https://github.com/mariaffnandez/IMDBproject/tree/FixIndex)
+  - [Dockerized](https://github.com/mariaffnandez/IMDBproject/tree/New_features)
