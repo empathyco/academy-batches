@@ -193,7 +193,7 @@ We saw how Aggregations and Filters work, very quickly. We were not given assign
   - [Query filters](https://github.com/mariaffnandez/IMDBproject/tree/FiltersAndAgregations)
 
 - #### [Alejandro Rivera](https://github.com/iskelazz)
-  - [Filters and orderBy Aggregation (unfinished)](https://github.com/iskelazz/springBootExample/tree/aggregate)
+  - [Filters and orderBy Aggregation](https://github.com/iskelazz/springBootExample/tree/aggregate)
 
 
 ----------------------------------------------------------------
@@ -231,3 +231,6 @@ We saw how Aggregations and Filters work, very quickly. We were not given assign
 - #### [Óscar Pérez](https://github.com/uo265488)
   - [Facets](https://github.com/uo265488/SpringDataElastic_Getting_Started/pull/6)
   - [Improving search and making API more RESTful](https://github.com/uo265488/SpringDataElastic_Getting_Started/pull/7)
+
+- #### [Alejandro Rivera](https://github.com/iskelazz)
+  - [Indexing finished](https://github.com/iskelazz/springBootExample/tree/multi-indexing)
