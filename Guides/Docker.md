@@ -106,7 +106,7 @@ And there you have it! Two fresh docker containers that will carry our project w
 Of course, this all would be for naught if we didn’t know how to run it. Luckily we do! There are three important commands:
 
 ```bask
-$ docker compose up –build -d
+$ docker compose up –-build -d
 $ docker compose up -d
 $ docker compose down
 ```
