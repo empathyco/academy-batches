@@ -233,6 +233,7 @@ We saw how Aggregations and Filters work, very quickly. We were not given assign
   - [Documentation up to date](https://github.com/mlombas/SpringBootEmpathyAcademy/tree/fb3faf10eb9f84a4a6b1d5fcc4adedf4374a576d)
   - [Now with pre-indexed docker image](https://github.com/mlombas/SpringBootEmpathyAcademy/tree/v5.3)
   - [Indexing completely complete](https://github.com/mlombas/SpringBootEmpathyAcademy/tree/v6.0)
+  - [Facets](https://github.com/mlombas/SpringBootEmpathyAcademy/tree/v6.1)
 
 - #### [Óscar Pérez](https://github.com/uo265488)
   - [Facets](https://github.com/uo265488/SpringDataElastic_Getting_Started/pull/6)
