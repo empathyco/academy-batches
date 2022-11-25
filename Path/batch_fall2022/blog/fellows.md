@@ -1,4 +1,4 @@
-# Academy Fall : 2022 Batch Wiki
+# Academy Fall: 2022 Batch Wiki
 
 Welcome to the Academy Fall : 2022 Batch blog! <br><br>
 In this wiki, a description of all the Academy Path learining experiences will be posted in case you are interested in keeping up with us 😄 <br>
