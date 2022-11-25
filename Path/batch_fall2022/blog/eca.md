@@ -98,3 +98,20 @@ Starting the week with an overview of what my tasks for the week would be.
 1. Newsletter demo preparation: Cleverreach, Sendinblue, Sendstack and Mailcoach comparison.
 2. Event's and conferences' research.
 3. Motive's search for potential customers.
+
+----------------------------------------------------------------
+# Week 7
+*21/11/2022*
+
+
+| **Path Owner** | **Content Deliverer** | 
+| --- | --- | 
+| Nina Müller | Pieter Vegt, Nina Müller|
+
+
+**Key learning points** <!-- (Do not change this line!!!) -->
+1. Newsletter research.
+2. [Privacy Tip](https://twitter.com/ethicalallies/status/1595825620444921858) posted November 24th.
+3. Motive's search for potential customers.
+4. ECA Pilot Community Meetup.
+
