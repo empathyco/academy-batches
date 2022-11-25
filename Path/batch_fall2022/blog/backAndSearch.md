@@ -227,6 +227,8 @@ We saw how Aggregations and Filters work, very quickly. We were not given assign
   - [Dockerized](https://github.com/alvarorg14/Academy_Project/pull/6)
   - [Docker Compose](https://github.com/alvarorg14/Academy_Project/commit/3eb89a37c81ae14acaedb8d61c5e2c76baaaae45)
   - [CORS](https://github.com/alvarorg14/Academy_Project/pull/8)
+  - [Sorting and Tests](https://github.com/alvarorg14/Academy_Project/pull/10)
+  - [Indexing complete](https://github.com/alvarorg14/Academy_Project/pull/11)
 
 - #### [Mario Lombas](https://github.com/mlombas)
   - [Dockerized](https://github.com/mlombas/SpringBootEmpathyAcademy/tree/v5.2)
