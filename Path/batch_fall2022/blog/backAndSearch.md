@@ -249,3 +249,15 @@ We saw how Aggregations and Filters work, very quickly. We were not given assign
 - #### [María Fernández](https://github.com/mariaffnandez)
   - [Indexing done](https://github.com/mariaffnandez/IMDBproject/tree/FixIndex)
   - [Dockerized](https://github.com/mariaffnandez/IMDBproject/tree/New_features)
+
+----------------------------------------------------------------
+
+# Week 7
+
+*25-11-2022*
+
+### Exercise
+
+- #### [Óscar Pérez](https://github.com/uo265488)
+  - [Facets](https://github.com/uo265488/SpringDataElastic_Getting_Started/pull/9)
+  - [Documentation](https://github.com/uo265488/SpringDataElastic_Getting_Started/pull/10)
