@@ -259,5 +259,5 @@ We saw how Aggregations and Filters work, very quickly. We were not given assign
 ### Exercise
 
 - #### [Óscar Pérez](https://github.com/uo265488)
-  - [Facets](https://github.com/uo265488/SpringDataElastic_Getting_Started/pull/9)
+  - [Improving mapping to Alberto's approach](https://github.com/uo265488/SpringDataElastic_Getting_Started/pull/9)
   - [Documentation](https://github.com/uo265488/SpringDataElastic_Getting_Started/pull/10)
