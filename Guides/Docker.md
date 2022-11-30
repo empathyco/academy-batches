@@ -1,5 +1,5 @@
-The _**Quick** and **Splendid**_ guide to **_Docker_**
-Today, @mariol and I spent a couple hours fighting with docker. As we wish this fate to noone, we have teamed up to make this quick guide that will get your project going. Note that this is a very basic skeleton, so feel free to tinker with it! (please, please, please do not use this in serious production)
+# The _**Quick** and **Splendid**_ guide to **_Docker_**
+@mariol & @alvarorg spent a couple hours fighting with docker. As we wish this fate to noone, we have teamed up to make this quick guide that will get your project going. Note that this is a very basic skeleton, so feel free to tinker with it! (please, please, please do not use this in serious production)
 
 The first thing we are going to need is a Dockerfile. This is basically a bunch of boilerplate that will package our application into a docker container. To have it up and running, it is as simple as creating in the project root a file “Dockerfile” and then pasting the following inside:
 
@@ -112,4 +112,98 @@ $ docker compose down
 ```
 
 The first and second will get your project running. The main difference is that the first one rebuilds your project and the last one takes your project down. The first time do always the docker-compose up --build -d to ensure everything is build correctly. Note that you must close any other containers you may have running on ports 9200 and 8080, otherwise this won't work.
+
+## Dockerization with front
+The previous steps were done for the front team to test the application locally with the dockerized backend.
+But for the final deployment of the project we want to dockerize all the application, so we have to make some changes.
+
+### Backend steps
+In the backend we only have to make some small changes, we have to push the REST API image to Docker Hub to have access to the whole project without cloning the back repository, so we should follow this steps:
+
+1. Go to the root folder of our project
+```
+cd <Project Location>
+```
+2. Build the API image from the Dockerfile
+```
+docker build .
+```
+3. Tag the image, we should push this image to a different Docker Hub repo different from the elasticsearch image.
+```
+docker tag <IMAGE_ID> <Hub Username>/<Hub Repo>:<tag> #By default, the tag is latest
+```
+4. Push the image to the Docker Hub repo.
+```
+docker push <Hub Username>/<Hub Repo>:<tag>
+```
+
+### Frontend steps
+To dockerize the frontend application we are going to follow a similar way to the one done for the backend.
+
+The first thing we are going to need is a Dockerfile. It is as simple as creating in the project root a file “Dockerfile” and then pasting the following inside:
+
+```docker
+FROM node:16.13.1
+COPY . /app
+WORKDIR /app
+
+#Install the dependencies
+RUN npm install
+
+ARG API_URI="http://searchapi:8080"
+ENV SEARCH_API_URI=$API_URI
+
+CMD [ "npm", "run", "serve"]
+```
+
+Now, we must create a docker-compose file, that deploys three containers, the front, the REST Api and the elasctisearch.
+
+```yaml
+version: '2.1'
+services:
+  elasticsearch:
+    image: "<Hub Username>/<ES Image Repo>:<tag>"
+    hostname: "elasticsearch"
+    container_name: elasticsearch-docker
+    environment:
+      - "discovery.type=single-node"
+    ports:
+      - "9200:9200"
+    healthcheck:
+      test: [ "CMD", "curl", "-u", "elastic:searchPathRules", "-f", "localhost:9200" ]
+      interval: 30s
+      retries: 10
+
+  searchapi:
+    image: "<Hub Username>/<API Image Repo>:<tag>"
+    container_name: searchApi
+    hostname: "searchapi"
+    ports:
+      - "8080:8080"
+    depends_on:
+      elasticsearch:
+        condition: service_healthy
+    links:
+      - elasticsearch
+
+  imdbapp:
+    container_name: front_app
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8081:8080"
+    depends_on:
+      - searchapi
+```
+
+And there you have it! All the application is dockerized and ready for deployment in any computer.
+
+Of course, this all would be for naught if we didn’t know how to run it. Luckily we do! There are three important commands to execute in the root folder of the project:
+
+```bask
+$ docker compose up –-build -d
+$ docker compose up -d
+$ docker compose down
+```
 
