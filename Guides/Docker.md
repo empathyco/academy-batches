@@ -1,4 +1,4 @@
-# The _**Quick** and **Splendid**_ guide to **_Docker_**
+# ✨ The _**Quick** and **Splendid**_ guide to **_Docker_** ✨ 
 @mariol & @alvarorg spent a couple hours fighting with docker. As we wish this fate to noone, we have teamed up to make this quick guide that will get your project going. Note that this is a very basic skeleton, so feel free to tinker with it! (please, please, please do not use this in serious production)
 
 The first thing we are going to need is a Dockerfile. This is basically a bunch of boilerplate that will package our application into a docker container. To have it up and running, it is as simple as creating in the project root a file “Dockerfile” and then pasting the following inside:
