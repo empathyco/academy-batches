@@ -261,3 +261,6 @@ We saw how Aggregations and Filters work, very quickly. We were not given assign
 - #### [Óscar Pérez](https://github.com/uo265488)
   - [Improving mapping to Alberto's approach](https://github.com/uo265488/SpringDataElastic_Getting_Started/pull/9)
   - [Documentation](https://github.com/uo265488/SpringDataElastic_Getting_Started/pull/10)
+
+- #### [Mario Lombas](https://github.com/mlombas)
+  - [Documentation](https://github.com/mlombas/SpringBootEmpathyAcademy/tree/v7.0)
