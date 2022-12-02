@@ -265,5 +265,5 @@ We saw how Aggregations and Filters work, very quickly. We were not given assign
 - #### [Mario Lombas](https://github.com/mlombas)
   - [Documentation](https://github.com/mlombas/SpringBootEmpathyAcademy/tree/v7.0)
 
-- #### [Alejandro Rivera](https://github.com/iskelazz))
+- #### [Alejandro Rivera](https://github.com/iskelazz)
   - [API Documentation](https://github.com/iskelazz/springBootExample/tree/documentationAPI)
