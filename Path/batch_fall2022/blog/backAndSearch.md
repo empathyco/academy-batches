@@ -277,3 +277,13 @@ We saw how Aggregations and Filters work, very quickly. We were not given assign
 
 - #### [Anton Vazuqez](https://github.com/AntonVazquez)
   - [Documentation](https://github.com/AntonVazquez/Springboot_ElasticSeach) (unfinished)
+
+# Week 7
+
+*05-12-2022*
+
+### Exercise
+
+
+- #### [Mario Lombas](https://github.com/mlombas)
+  - [RESTFul API](https://github.com/mlombas/SpringBootEmpathyAcademy/tree/v8.0)
