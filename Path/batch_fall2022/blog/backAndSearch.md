@@ -200,6 +200,10 @@ We saw how Aggregations and Filters work, very quickly. We were not given assign
 
 - #### [Alejandro Rivera](https://github.com/iskelazz)
   - [Filters and orderBy Aggregation](https://github.com/iskelazz/springBootExample/tree/aggregate)
+  
+- #### [Anton Vazuqez](https://github.com/AntonVazquez)
+  - [full index](https://github.com/AntonVazquez/Springboot_ElasticSeach/commit/46f5ea7bf9485611f3bc00eabc1848eb4de8fbfa)
+  - [Filters](https://github.com/AntonVazquez/Springboot_ElasticSeach/commit/5f43057cab7de58303cbbb1ccc4bc08e9e525f36)
 
 
 ----------------------------------------------------------------
@@ -249,6 +253,9 @@ We saw how Aggregations and Filters work, very quickly. We were not given assign
 - #### [María Fernández](https://github.com/mariaffnandez)
   - [Indexing done](https://github.com/mariaffnandez/IMDBproject/tree/FixIndex)
   - [Dockerized](https://github.com/mariaffnandez/IMDBproject/tree/New_features)
+ 
+- #### [Anton Vazuqez](https://github.com/AntonVazquez)
+  - [Dockerized](https://github.com/AntonVazquez/Springboot_ElasticSeach/commit/05650d4c3ccb766c646402e44b941422cdc514d4)
 
 ----------------------------------------------------------------
 
@@ -267,3 +274,6 @@ We saw how Aggregations and Filters work, very quickly. We were not given assign
 
 - #### [Alejandro Rivera](https://github.com/iskelazz)
   - [API Documentation](https://github.com/iskelazz/springBootExample/tree/documentationAPI)
+
+- #### [Anton Vazuqez](https://github.com/AntonVazquez)
+  - [Documentation](https://github.com/AntonVazquez/Springboot_ElasticSeach) (unfinished)
