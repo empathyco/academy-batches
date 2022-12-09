@@ -130,3 +130,18 @@ Starting the week with an overview of what my tasks for the week would be.
 2. ECA Network Database.
 3. [Newsletter page on Confluence](https://searchbroker.atlassian.net/wiki/spaces/EBAMP/pages/3999891511/Newsletter) (final decision).
 4. Marketing Meetup!
+
+----------------------------------------------------------------
+# Week 9
+*05/12/2022*
+
+
+| **Path Owner** | **Content Deliverer** | 
+| --- | --- | 
+| Nina Müller | Pieter Vegt, Nina Müller|
+
+
+**Key learning points** <!-- (Do not change this line!!!) -->
+1. Academy's LinkedIn live preparation and rehearsal.
+2. ECA Network Database.
+3. ECA's second meetup invitation.
