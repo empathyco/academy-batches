@@ -162,3 +162,20 @@ Starting the week with an overview of what my tasks for the week would be.
 3. [Workshop](https://searchbroker.atlassian.net/wiki/spaces/EBAMP/pages/3936485451/Data+Ethics+for+Engineers): Ethics for Engineers
 4. Overview and research about Mastodon for a possible ECA account.
 5. GoodHabitz GDPR course.
+
+----------------------------------------------------------------
+# Week 11
+*19/12/2022*
+
+
+| **Path Owner** | **Content Deliverer** | 
+| --- | --- | 
+| Nina Müller | Pieter Vegt, Nina Müller|
+
+
+**Key learning points** <!-- (Do not change this line!!!) -->
+1. Building LinkedIn network for ECA (contacting leads and groups we can join)
+2. Content research for newsletter and meet-up.
+3. ECA LinkedIn strategy meeting.
+4. Overview and research about Mastodon for a possible ECA account.
+5. GoodHabitz GDPR course.
