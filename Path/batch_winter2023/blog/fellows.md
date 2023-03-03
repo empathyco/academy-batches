@@ -42,4 +42,67 @@ You can check their progress [here](front.md)
 
 ---
 
+## Search Path
+
+//TODO
+
+<div class="img_academy_2023">
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Manuel_Manga.png" alt="Manuel Manga" width="150px"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Marcos_Arce.png" alt="Marcos Arce" width="150px"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Christian_Gonzalez.png" alt="Christian González" width="150px"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Tania_Bajo.png" alt="Tania Bajo" width="150px"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Guillermo_De-Leiva.png" alt="Guillermo De Leiva" width="150px"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Jose_Perez.png" alt="José Pérez" width="150px"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Lais_Garcia.png" alt="Laís García" width="150px"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Laura_Pernia.png" alt="Laura Pernia" width="150px"/>
+</div>
+
+You can check their progress [here](search.md)
+
+---
+
+## Data Path
+
+//TODO
+
+<div class="img_academy_2023">
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Oscar_Lopez.png" alt="Óscar López" width="150px"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Raul_Alvarez.png" alt="Raúl Álvarez" width="150px"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Angel_Iglesias.png" alt="Ángel Iglesias" width="150px"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Juan-Manuel_Manga.png" alt="Juan Manuel Manga" width="150px"/>
+</div>
+
+You can check their progress [here](data.md)
+
+---
+
+## Business Path
+
+//TODO
+
+<div class="img_academy_2023">
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Manuela_Cuadros.png" alt="Manuela Cuadros" width="150px"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Maria_Suarez.png" alt="María Suárez" width="150px"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Lucas_Abad.png" alt="Lucas Abad" width="150px"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Alejandro_Herrero.png" alt="Alejandro Herrero" width="150px"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Celia_Sors.png" alt="Celia Sors" width="150px"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Julia_Fernandez.png" alt="Julia Fernández" width="150px"/>
+</div>
+
+You can check their progress [here](business.md)
+
+---
+
+## HR Path
+
+//TODO
+
+<div class="img_academy_2023">
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Elena_Lopez.png" alt="Elena López" width="150px"/>
+</div>
+
+You can check their progress [here](hr.md)
+
+---
+
 
