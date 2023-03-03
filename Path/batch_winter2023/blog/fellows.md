@@ -10,12 +10,12 @@
 | [Luis Miguel Alonso](https://github.com/lumialfe)   | [Manuel Manga]()       | [Óscar López]()       | [Manuela Cuadros]()   | [Elena López]() |
 | [Mario Rey](https://github.com/mariorey)            | [Marcos Arce]()        | [Raúl Álvarez]()      | [María Suárez]()      | []()            |
 | [Miguel Juncal](https://github.com/migueljuncalpz)  | [Christian González]() | [Ángel Iglesias]()    | [Lucas Abad]()        | []()            |
-| [Pablo Benítez](https://github.com/Bamtop)          | [Tania Bajo]()         | [Juan Manuel Manga]() | [Alejandro Herrero]() | []()            |
-| [Raúl Arca](https://github.com/RaulArca)            | [Guillermo de Leiva]() | []()                  | [Celia Sors]()        | []()            |
-| [Alberto Monedero](https://github.com/albertjcuac/) | [José Pérez]()         | []()                  | [Julia Fernández]()   | []()            |
-| [Andreu Montagut](https://github.com/andmonosu)     | [Laís García]()        | []()                  | []()                  | []()            |
-| [Hugo García](https://github.com/xHugo21)           | [Laura Pernía]()       | []()                  | []()                  | []()            |
-| [Jorge López](https://github.com/jorge16lp)         | []()                   | []()                  | []()                  | []()            |
+| [Pablo Benítez](https://github.com/Bamtop)          | [Noelia Iglesias]()    | [Juan Manuel Manga]() | [Alejandro Herrero]() | []()            |
+| [Raúl Arca](https://github.com/RaulArca)            | [Tania Bajo]()         | [Jesús Alonso]()      | [Celia Sors]()        | []()            |
+| [Alberto Monedero](https://github.com/albertjcuac/) | [Guillermo de Leiva]() | []()                  | [Julia Fernández]()   | []()            |
+| [Andreu Montagut](https://github.com/andmonosu)     | [José Pérez]()         | []()                  | []()                  | []()            |
+| [Hugo García](https://github.com/xHugo21)           | [Laís García]()        | []()                  | []()                  | []()            |
+| [Jorge López](https://github.com/jorge16lp)         | [Laura Pernía]()       | []()                  | []()                  | []()            |
 
 //TODO
 
@@ -50,6 +50,7 @@ You can check their progress [here](front.md)
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Manuel_Manga.png" alt="Manuel Manga" width="150px"/>
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Marcos_Arce.png" alt="Marcos Arce" width="150px"/>
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Christian_Gonzalez.png" alt="Christian González" width="150px"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Noelia_Iglesias.png" alt="Noelia Iglesias" width="150px"/>
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Tania_Bajo.png" alt="Tania Bajo" width="150px"/>
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Guillermo_De-Leiva.png" alt="Guillermo De Leiva" width="150px"/>
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Jose_Perez.png" alt="José Pérez" width="150px"/>
@@ -70,6 +71,7 @@ You can check their progress [here]()
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Raul_Alvarez.png" alt="Raúl Álvarez" width="150px"/>
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Angel_Iglesias.png" alt="Ángel Iglesias" width="150px"/>
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Juan-Manuel_Manga.png" alt="Juan Manuel Manga" width="150px"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Jesus_Alonso.png" alt="Jesús Alonso" width="150px"/>
 </div>
 
 You can check their progress [here]()
