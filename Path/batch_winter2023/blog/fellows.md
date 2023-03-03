@@ -5,17 +5,17 @@
 
 ## Learning Paths & Its Fellows
 
-| Frontend Path                                       | Backend Path                                      | Search Path                                         | Business Path | HR Path |
-|-----------------------------------------------------|---------------------------------------------------|-----------------------------------------------------|---------------|---------|
-| [Luis Miguel Alonso](https://github.com/lumialfe)   |
-| [Mario Rey](https://github.com/mariorey)            |
-| [Miguel Juncal](https://github.com/migueljuncalpz)        |
-| [Pablo Benítez](https://github.com/Bamtop)          |
-| [Raúl Arca](https://github.com/RaulArca)            |
-| [Alberto Monedero](https://github.com/albertjcuac/) |
-| [Andreu Montagut](https://github.com/andmonosu)     |
-| [Hugo García](https://github.com/xHugo21)           |
-| [Jorge López](https://github.com/jorge16lp)         |
+| Frontend Path                                       | Search Path            | Data Path             | Business Path         | HR Path         |
+|-----------------------------------------------------|------------------------|-----------------------|-----------------------|-----------------|
+| [Luis Miguel Alonso](https://github.com/lumialfe)   | [Manuel Manga]()       | [Óscar López]()       | [Manuela Cuadros]()   | [Elena López]() |
+| [Mario Rey](https://github.com/mariorey)            | [Marcos Arce]()        | [Raúl Álvarez]()      | [María Suárez]()      | []()            |
+| [Miguel Juncal](https://github.com/migueljuncalpz)  | [Christian González]() | [Ángel Iglesias]()    | [Lucas Abad]()        | []()            |
+| [Pablo Benítez](https://github.com/Bamtop)          | [Tania Bajo]()         | [Juan Manuel Manga]() | [Alejandro Herrero]() | []()            |
+| [Raúl Arca](https://github.com/RaulArca)            | [Guillermo de Leiva]() | []()                  | [Celia Sors]()        | []()            |
+| [Alberto Monedero](https://github.com/albertjcuac/) | [José Pérez]()         | []()                  | [Julia Fernández]()   | []()            |
+| [Andreu Montagut](https://github.com/andmonosu)     | [Laís García]()        | []()                  | []()                  | []()            |
+| [Hugo García](https://github.com/xHugo21)           | [Laura Pernía]()       | []()                  | []()                  | []()            |
+| [Jorge López](https://github.com/jorge16lp)         | []()                   | []()                  | []()                  | []()            |
 
 //TODO
 
@@ -57,7 +57,7 @@ You can check their progress [here](front.md)
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Laura_Pernia.png" alt="Laura Pernia" width="150px"/>
 </div>
 
-You can check their progress [here](search.md)
+You can check their progress [here]()
 
 ---
 
@@ -72,7 +72,7 @@ You can check their progress [here](search.md)
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Juan-Manuel_Manga.png" alt="Juan Manuel Manga" width="150px"/>
 </div>
 
-You can check their progress [here](data.md)
+You can check their progress [here]()
 
 ---
 
@@ -89,7 +89,7 @@ You can check their progress [here](data.md)
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Julia_Fernandez.png" alt="Julia Fernández" width="150px"/>
 </div>
 
-You can check their progress [here](business.md)
+You can check their progress [here]()
 
 ---
 
@@ -101,7 +101,7 @@ You can check their progress [here](business.md)
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Elena_Lopez.png" alt="Elena López" width="150px"/>
 </div>
 
-You can check their progress [here](hr.md)
+You can check their progress [here]()
 
 ---
 
