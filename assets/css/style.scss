@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+//@import "{{ site.theme }}";
 
 body{
     margin: 0rem;
@@ -121,6 +121,18 @@ h2{
     margin: 1rem;
 }
 .img_academy{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+.img_path_2023{
+    height: 15rem;
+    width: 11.5rem;
+    margin: 1rem;
+}
+.img_academy_2023{
     display: flex;
     flex-wrap: wrap;
 }
