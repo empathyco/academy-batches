@@ -1,4 +1,4 @@
-# Frontend
+# Frontend Path - Winter 2023
 
 ## Content Table
 - [Content Table](#content-table)
@@ -7,11 +7,15 @@
 
 ----------------------------------------------------------------
 # Week 1
-Our first week working on the frontend path was dedicated to "HTML & CSS" and we learned from [Pedro Ondiviela](https://github.com/PedroOndh).
+First week on the Frontend path of the Academy program at Empathy.co was focused on HTML, CSS & JS. We received several
+classes regarding these topics, as well as some more in depth ones, like responsive CSS or JSDOM. The following were the
+people in charge of delivering said classes.
 
-| **Path Owner** | **Content Deliverer** | 
-| --- | --- | 
-| [Beltrán García](https://github.com/tiborux) | [Pedro Ondiviela](https://github.com/PedroOndh)|
+| **Path Owner**                               | **Content Deliverers**                         | 
+|----------------------------------------------|------------------------------------------------| 
+| [Beltrán García](https://github.com/tiborux) | [Pedro Ondiviela](https://github.com/PedroOndh) |
+|                                              | Antonio Cuenca                                 |
+|                                              | Guillermo Cancheda                             |
 
 \
 **Key learning points** <!-- (Do not change this line!!!) -->
@@ -26,9 +30,8 @@ The idea behind these classes was mostly to learn about useful CSS properties li
 The task to be done was a Web Browser that would make calls to a Rick&Morty API, displaying it's characters in a responsive 
 fashion.
 
-These are some of the examples made by the Academy Fellows:
-- #### [Personal website](https://github.com/zhuzilu/personal-website/) by [Lucía López](https://github.com/zhuzilu) - [Demo](https://zhuzilu.github.io/personal-website/src/index.html)
-- #### [Exercise 1 - Website HTML and CSS](https://github.com/lauramargar/EJ1-HTML-CSS) by [Laura Martínez](https://github.com/lauramargar) - [Demo](https://lauramargar.github.io/EJ1-HTML-CSS/www/index.html)
-- #### [Exercise 1 - My personal website (code)](https://github.com/andreadlgdo/andrea-HTMLCSS-week1) by [Andrea Delgado](https://github.com/andreadlgdo) 
+![winter2023_frontend_week1.png](media%2Fwinter2023_frontend_week1.png)
 
+These are some of the examples made by the Academy Fellows:
+- #### [Rick & Morty Repository](https://github.com/lumialfe/Rick-Morty_EmpathyAcademy) by [LuisMi Alonso](https://github.com/lumialfe) - [Watch the Website Here](https://lumialfe.github.io/Rick-Morty_EmpathyAcademy/)
 ----------------------------------------------------------------
