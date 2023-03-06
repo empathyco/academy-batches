@@ -30,7 +30,7 @@ The idea behind these classes was mostly to learn about useful CSS properties li
 The task to be done was a Web Browser that would make calls to a Rick&Morty API, displaying it's characters in a responsive 
 fashion.
 
-![winter2023_frontend_week1.png](media%2Fwinter2023_frontend_week1.png)
+![winter2023_frontend_week1.png](./media/winter2023_frontend_week1.png)
 
 These are some of the examples made by the Academy Fellows:
 - #### [Rick & Morty Repository](https://github.com/lumialfe/Rick-Morty_EmpathyAcademy) by [LuisMi Alonso](https://github.com/lumialfe) - [Watch the Website Here](https://lumialfe.github.io/Rick-Morty_EmpathyAcademy/)
