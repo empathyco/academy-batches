@@ -1,18 +1,19 @@
 ---
 ---
 
-//@import "{{ site.theme }}";
+@import "{{ site.theme }}";
 
-body{
+/*body{
     margin: 0;
     padding: 0;
 
-    font-family: Verdana, sans-serif;
+    width: 80%;
+    margin: auto;
 }
 
 header {
-    width: 100vw;
-    background-color: #2B86B2;
+    border-bottom: 3px solid black;
+    margin: auto;
 }
 .header{
     display: flex;
@@ -61,14 +62,12 @@ section {
 #academy-batches, #frontend, #backend, #search{
     display: grid;
     font-size: 6rem;
-    font-family: serif;
     justify-content: center;
     padding-bottom: 2rem;
 }
 #academy-fall--2022-batch-wiki{
     display: grid;
     font-size: 5rem;
-    font-family: serif;
     justify-content: center;
     padding-bottom: 4rem;
     font-weight: normal;
@@ -76,126 +75,128 @@ section {
 #content-table{
     display: grid;
     font-size: 3rem;
-    font-family: serif;
-
 }
 #week-1, #week-2, #week-3 {
     font-size: 2.5rem;
-    font-family: serif;
-
 }
 
 #batches--links{
     font-size: 2.5rem;
-    font-family: serif;
 }
 #meet-the-fellows{
     font-size: 2.5rem;
-    font-family: serif;
 }
 .batch{
     width: 30%;
 }
-.icons_path{
+*/
+body {
+    padding: 2vh 2vw;
+}
+
+header, .wrapper, section, footer {
+    float: none;
+    position: relative;
+}
+
+h1, h2, h3, h4, h5 {
+    font-weight: normal !important;
+}
+
+header {
+    width: 70%;
+    margin: auto auto 5vh;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border-bottom: 2px solid black;
+}
+
+.wrapper {
+    width: 70%;
+}
+
+section {
+    min-width: 100%;
+}
+
+table {
+    margin: auto auto 3vh;
+}
+
+.batch {
+    width: 40%;
+}
+
+.icons_path {
     padding-left: 1.5rem;
     padding-right: 1.5rem;
     padding-top: 1.5rem;
     height: 9rem;
     width: 9rem;
 }
-.text_path{
+.text_path {
     margin-right: 1.5rem;
     margin-left: 1.5rem;
     height: 2rem;
     width: 9rem;
 }
+
 .img_path{
-    height: 15rem;
-    width: 11.5rem;
-    margin: 1rem;
+    width: 15%;
+    margin: 2vh 1vw;
 }
-.img_academy{
+
+.img_academy {
     display: flex;
     flex-wrap: wrap;
 }
 
-.img_path_2023{
+.img_path_2023 {
     border-radius: 15px;
     width: available;
     max-width: 90%;
 }
-.img_academy_2023{
+.img_academy_2023 {
     display: grid;
     grid-template-columns: repeat(5, minmax(50px, 1fr));
     grid-template-rows: auto;
     grid-row-gap: 3vh;
     grid-column-gap: 1vw;
+
+    margin-bottom: 3vh;
 }
 
 @media only screen and (max-width: 640px) {
-    .img_academy_2023 {
+    header {
+        width: 100%;
+        font-size: 80%;
+    }
+
+    header h1 a {
+        font-size: 80%;
+    }
+
+    .img_academy_2023, .img_academy {
         grid-template-columns: repeat(2, minmax(50px, 1fr));
         grid-column-gap: 2vw;
         grid-row-gap: 1vh;
     }
 
+    .img_path {
+        width: 40%;
+        margin: 1% 2%;
+    }
+
     .batch {
-        width: 90%;
+        width: 100%;
     }
 
     table {
-        width: 90%;
-        font-size: 80%;
+        max-width: 90%;
+        font-size: 85%;
     }
-
-    header {
-        font-size: 80%;
-    }
-
-    h1 {
-        font-size: 200% !important;
-    }
-}
-
-h1, h2, h3, h4, h5 {
-    font-family:  Verdana, sans-serif !important;
-    font-weight: lighter;
-}
-
-h1 {
-    color: #2B86B2;
-    font-size: 2rem;
-}
-
-table {
-    margin: auto;
-    min-width: 60vw;
-    background-color: #e8e8e8;
-    padding: 2vh 1vw;
-    border-radius: 25px;
-    border-collapse: collapse;
-}
-
-th {
-    text-align: center;
-    color: black;
-    border: 2px solid white;
-    padding: 1vh 1vw;
-}
-
-td {
-    padding: 1vh 1vw;
-    border: 2px solid white;
-}
-
-td a {
-    color: #002436;
-}
-
-td a:hover {
-    opacity: 80%;
-}
-
-.img_2023_example {
-    width: 90%;
 }

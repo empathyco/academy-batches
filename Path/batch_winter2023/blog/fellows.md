@@ -50,7 +50,7 @@ This is us, and this is our work:
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Jorge_Lopez.png" alt="Jorge López" width=""/>
 </div>
 
-### Check our work [here](front.md)!
+#### Check our work [here](front.md)!
 
 ---
 
