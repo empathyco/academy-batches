@@ -16,7 +16,7 @@ GitHub pages. Enjoy!
 | [Mario Rey](https://github.com/mariorey)            | [Marcos Arce]()        | [Raúl Álvarez]()      | [María Suárez]()      | []()            |
 | [Miguel Juncal](https://github.com/migueljuncalpz)  | [Christian González]() | [Ángel Iglesias]()    | [Lucas Abad]()        | []()            |
 | [Pablo Benítez](https://github.com/Bamtop)          | [Noelia Iglesias]()    | [Juan Manuel Manga]() | [Alejandro Herrero]() | []()            |
-| [Raúl Arca](https://github.com/RaulArca)            | [Tania Bajo]()         | [Jesús Alonso]()      | [Celia Sors]()        | []()            |
+| [Raúl Arca](https://github.com/RaulArca)            | [Tania Bajo]()         | [Jesús Alonso](https://github.com/gsusag00)      | [Celia Sors]()        | []()            |
 | [Alberto Monedero](https://github.com/albertjcuac/) | [Guillermo de Leiva]() | []()                  | [Julia Fernández]()   | []()            |
 | [Andreu Montagut](https://github.com/andmonosu)     | [José Pérez]()         | []()                  | []()                  | []()            |
 | [Hugo García](https://github.com/xHugo21)           | [Laís García]()        | []()                  | []()                  | []()            |
