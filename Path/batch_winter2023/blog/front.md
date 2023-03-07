@@ -3,7 +3,7 @@
 ## Content Table
 - [Content Table](#content-table)
 - [Week 1](#week-1)
-  - [Exercise: Rick&Morty Search Page (JavaScript)](#rickmorty--js-)
+  - [Exercise: Rick&Morty Search Page (JavaScript)](#rickmorty-javascript)
 
 ----------------------------------------------------------------
 ## Week 1
@@ -24,7 +24,7 @@ people in charge of delivering said classes.
 3. JavaScript & Basic TypeScript
 4. JSDOM & DevTool
 
-### Rick&Morty (JS)
+### Rick&Morty JavaScript
 Week one was a warmup for what it is to come. We came back to basics going over HTML, CSS & JS properties and main functionalities.
 The idea behind these classes was mostly to learn about useful CSS properties like Grid or Flex.
 The task to be done was a Web Browser that would make calls to a Rick&Morty API, displaying its characters in a responsive 
