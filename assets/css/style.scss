@@ -4,33 +4,43 @@
 //@import "{{ site.theme }}";
 
 body{
-    margin: 0rem;
-    padding: 0rem;
-}
-.wrapper{
-    margin-left: 4rem;
-    margin-right: 4rem;
+    margin: 0;
+    padding: 0;
 
-    padding: 2rem;
-    width: 80%;
+    font-family: Verdana, sans-serif;
 }
 
 header {
-    padding: 1.2rem;
-    float: none;
-    position: relative;
-    text-align: left;
-    background-color: aliceblue;
-    width: 100%;
+    width: 100vw;
+    background-color: #2B86B2;
 }
 .header{
-    padding-top: 1.5rem;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-evenly;
     align-items: center;
     text-align: center;
 }
+
+.header a {
+    color: white;
+    text-decoration: none;
+}
+
+.header a:hover {
+    opacity: 80%;
+}
+
+.header a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+.wrapper{
+    padding: 5vh 2.5vw;
+    width: 80%;
+}
+
 footer {
     float: none;
     position: relative;
@@ -74,18 +84,7 @@ section {
     font-family: serif;
 
 }
-h3{
-    font-size: 1.5rem;
-    font-family: sans-serif;
-    font-weight: lighter;
-}
-h4{
-    font-size: 1rem;
-}
-h1{
-    font-family: sans-serif;
-    font-weight: lighter;
-}
+
 #batches--links{
     font-size: 2.5rem;
     font-family: serif;
@@ -94,13 +93,8 @@ h1{
     font-size: 2.5rem;
     font-family: serif;
 }
-h2{
-    font-family: serif;
-    font-size: 2rem;
-}
 .batch{
-    height: 6rem;
-    width: 25rem;
+    width: 30%;
 }
 .icons_path{
     padding-left: 1.5rem;
@@ -125,14 +119,83 @@ h2{
     flex-wrap: wrap;
 }
 
-
-
 .img_path_2023{
-    height: 15rem;
-    width: 11.5rem;
-    margin: 1rem;
+    border-radius: 15px;
+    width: available;
+    max-width: 90%;
 }
 .img_academy_2023{
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(5, minmax(50px, 1fr));
+    grid-template-rows: auto;
+    grid-row-gap: 3vh;
+    grid-column-gap: 1vw;
+}
+
+@media only screen and (max-width: 640px) {
+    .img_academy_2023 {
+        grid-template-columns: repeat(2, minmax(50px, 1fr));
+        grid-column-gap: 2vw;
+        grid-row-gap: 1vh;
+    }
+
+    .batch {
+        width: 90%;
+    }
+
+    table {
+        width: 90%;
+        font-size: 80%;
+    }
+
+    header {
+        font-size: 80%;
+    }
+
+    h1 {
+        font-size: 200% !important;
+    }
+}
+
+h1, h2, h3, h4, h5 {
+    font-family:  Verdana, sans-serif !important;
+    font-weight: lighter;
+}
+
+h1 {
+    color: #2B86B2;
+    font-size: 2rem;
+}
+
+table {
+    margin: auto;
+    min-width: 60vw;
+    background-color: #e8e8e8;
+    padding: 2vh 1vw;
+    border-radius: 25px;
+    border-collapse: collapse;
+}
+
+th {
+    text-align: center;
+    color: black;
+    border: 2px solid white;
+    padding: 1vh 1vw;
+}
+
+td {
+    padding: 1vh 1vw;
+    border: 2px solid white;
+}
+
+td a {
+    color: #002436;
+}
+
+td a:hover {
+    opacity: 80%;
+}
+
+.img_2023_example {
+    width: 90%;
 }
