@@ -70,7 +70,7 @@ This is us, and this is our work:
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Laura_Pernia.png" alt="Laura Pernia" width=""/>
 </div>
 
-You can check their progress [here]()
+You can check their progress [here](search.md)
 
 ---
 
@@ -86,7 +86,7 @@ You can check their progress [here]()
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Jesus_Alonso.png" alt="Jesús Alonso" width=""/>
 </div>
 
-You can check their progress [here]()
+You can check their progress [here](data.md)
 
 ---
 
@@ -103,7 +103,7 @@ You can check their progress [here]()
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Julia_Fernandez.png" alt="Julia Fernández" width=""/>
 </div>
 
-You can check their progress [here]()
+You can check their progress [here](business.md)
 
 ---
 
@@ -115,7 +115,7 @@ You can check their progress [here]()
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Elena_Lopez.png" alt="Elena López" width=""/>
 </div>
 
-You can check their progress [here]()
+You can check their progress [here](hr.md)
 
 ---
 
