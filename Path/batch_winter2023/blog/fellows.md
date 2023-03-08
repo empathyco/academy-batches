@@ -12,15 +12,16 @@ GitHub pages. Enjoy!
 
 | Frontend Path                                       | Search Path            | Data Path             | Business Path         | HR Path         |
 |-----------------------------------------------------|------------------------|-----------------------|-----------------------|-----------------|
-| [Luis Miguel Alonso](https://github.com/lumialfe)   | [Manuel Manga]()       | [Óscar López]()       | [Manuela Cuadros]()   | [Elena López]() |
-| [Mario Rey](https://github.com/mariorey)            | [Marcos Arce]()        | [Raúl Álvarez]()      | [María Suárez]()      | []()            |
-| [Miguel Juncal](https://github.com/migueljuncalpz)  | [Christian González]() | [Ángel Iglesias]()    | [Lucas Abad]()        | []()            |
-| [Pablo Benítez](https://github.com/Bamtop)          | [Noelia Iglesias]()    | [Juan Manuel Manga]() | [Alejandro Herrero]() | []()            |
-| [Raúl Arca](https://github.com/RaulArca)            | [Tania Bajo]()         | [Jesús Alonso](https://github.com/gsusag00)      | [Celia Sors]()        | []()            |
+| [Luis Miguel Alonso](https://github.com/lumialfe)   | [Juan Manuel Manga]()       | [Óscar López]()       | [Manuela Cuadros]()   | [Elena López]() |
+| [Mario Rey](https://github.com/mariorey)            | [Marcos Arce]()        | [Ángel Iglesias]()     | [María Suárez]()      | []()            |
+| [Miguel Juncal](https://github.com/migueljuncalpz)  | [Christian González]() | [Manuel Manga]()  | [Lucas Abad]()        | []()            |
+| [Pablo Benítez](https://github.com/Bamtop)          | [Noelia Iglesias]()    | [Jesús Alonso](https://github.com/gsusag00) | [Alejandro Herrero]() | []()            |
+| [Raúl Arca](https://github.com/RaulArca)            | [Tania Bajo]()         | []()      | [Celia Sors]()        | []()            |
 | [Alberto Monedero](https://github.com/albertjcuac/) | [Guillermo de Leiva]() | []()                  | [Julia Fernández]()   | []()            |
 | [Andreu Montagut](https://github.com/andmonosu)     | [José Pérez]()         | []()                  | []()                  | []()            |
 | [Hugo García](https://github.com/xHugo21)           | [Laís García]()        | []()                  | []()                  | []()            |
 | [Jorge López](https://github.com/jorge16lp)         | [Laura Pernía]()       | []()                  | []()                  | []()            |
+| []()                                                | [Raúl Álvarez]()  | []()                  | []()                  | []()             |
 
 
 ## Meet the Fellows
@@ -54,12 +55,12 @@ This is us, and this is our work:
 
 ---
 
-### Search Path
+### Search/Back Path
 
 //TODO
 
 <div class="img_academy_2023">
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Manuel_Manga.png" alt="Manuel Manga" width=""/>
+  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Juan-Manuel_Manga.png" alt="Juan Manuel Manga" width=""/>
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Marcos_Arce.png" alt="Marcos Arce" width=""/>
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Christian_Gonzalez.png" alt="Christian González" width=""/>
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Noelia_Iglesias.png" alt="Noelia Iglesias" width=""/>
@@ -68,6 +69,7 @@ This is us, and this is our work:
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Jose_Perez.png" alt="José Pérez" width=""/>
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Lais_Garcia.png" alt="Laís García" width=""/>
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Laura_Pernia.png" alt="Laura Pernia" width=""/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Raul_Alvarez.png" alt="Raúl Álvarez" width=""/>
 </div>
 
 You can check their progress [here](search.md)
@@ -80,10 +82,9 @@ You can check their progress [here](search.md)
 
 <div class="img_academy_2023">
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Oscar_Lopez.png" alt="Óscar López" width=""/>
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Raul_Alvarez.png" alt="Raúl Álvarez" width=""/>
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Angel_Iglesias.png" alt="Ángel Iglesias" width=""/>
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Juan-Manuel_Manga.png" alt="Juan Manuel Manga" width=""/>
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Jesus_Alonso.png" alt="Jesús Alonso" width=""/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Manuel_Manga.png" alt="Manuel Manga" width=""/>
 </div>
 
 You can check their progress [here](data.md)
