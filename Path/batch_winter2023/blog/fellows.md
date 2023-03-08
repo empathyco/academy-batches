@@ -12,9 +12,9 @@ GitHub pages. Enjoy!
 
 | Frontend Path                                       | Search Path            | Data Path             | Business Path         | HR Path         |
 |-----------------------------------------------------|------------------------|-----------------------|-----------------------|-----------------|
-| [Luis Miguel Alonso](https://github.com/lumialfe)   | [Juan Manuel Manga]()       | [Óscar López]()       | [Manuela Cuadros]()   | [Elena López]() |
-| [Mario Rey](https://github.com/mariorey)            | [Marcos Arce]()        | [Ángel Iglesias]()     | [María Suárez]()      | []()            |
-| [Miguel Juncal](https://github.com/migueljuncalpz)  | [Christian González]() | [Manuel Manga]()  | [Lucas Abad]()        | []()            |
+| [Luis Miguel Alonso](https://github.com/lumialfe)   | [Juan Manuel Manga]()       | [Óscar López](https://github.com/xondemingo)       | [Manuela Cuadros]()   | [Elena López]() |
+| [Mario Rey](https://github.com/mariorey)            | [Marcos Arce]()        | [Ángel Iglesias](https://github.com/angelip2303)     | [María Suárez]()      | []()            |
+| [Miguel Juncal](https://github.com/migueljuncalpz)  | [Christian González]() | [Manuel Manga](https://github.com/manmanrod)  | [Lucas Abad]()        | []()            |
 | [Pablo Benítez](https://github.com/Bamtop)          | [Noelia Iglesias]()    | [Jesús Alonso](https://github.com/gsusag00) | [Alejandro Herrero]() | []()            |
 | [Raúl Arca](https://github.com/RaulArca)            | [Tania Bajo]()         | []()      | [Celia Sors]()        | []()            |
 | [Alberto Monedero](https://github.com/albertjcuac/) | [Guillermo de Leiva]() | []()                  | [Julia Fernández]()   | []()            |
@@ -78,7 +78,7 @@ You can check their progress [here](search.md)
 
 ### Data Path
 
-//TODO
+Hello there! We are the Data Path. Our main focus is to learn all about how to handle and manage data. Our work isn't really visible like other paths, but trust us, we are working even if it doesn't look like it.
 
 <div class="img_academy_2023">
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Oscar_Lopez.png" alt="Óscar López" width=""/>
