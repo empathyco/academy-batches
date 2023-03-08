@@ -80,6 +80,13 @@ You can check their progress [here](search.md)
 
 Hello there! We are the Data Path. Our main focus is to learn all about how to handle and manage data. Our work isn't really visible like other paths, but trust us, we are working even if it doesn't look like it.
 
+```
+
+    Roses are red, violets are blue,
+    My data’s a mess, what should I do?
+
+```
+
 <div class="img_academy_2023">
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Oscar_Lopez.png" alt="Óscar López" width=""/>
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Angel_Iglesias.png" alt="Ángel Iglesias" width=""/>
