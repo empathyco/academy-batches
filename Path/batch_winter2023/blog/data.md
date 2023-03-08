@@ -11,7 +11,7 @@ Our first week on the Data path of the Academy program at Empathy.co was focused
 
 | **Path Owner** | **Content Deliverers** | 
 |----------------|------------------------| 
-| Raquel Bernard | Daniel Hernández       |
+| Daniel Hernandez | Daniel Hernández       |
 |                | David Casado           |
 
 **Key learning points** <!-- (Do not change this line!!!)-->
