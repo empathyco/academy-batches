@@ -12,16 +12,16 @@ GitHub pages. Enjoy!
 
 | Frontend Path                                       | Search Path            | Data Path             | Business Path         | HR Path         |
 |-----------------------------------------------------|------------------------|-----------------------|-----------------------|-----------------|
-| [Luis Miguel Alonso](https://github.com/lumialfe)   | [Juan Manuel Manga]()       | [Óscar López](https://github.com/xondemingo)       | [Manuela Cuadros]()   | [Elena López]() |
+| [Luis Miguel Alonso](https://github.com/lumialfe)   | [Juan Manuel Manga](https://github.com/juanma6245)       | [Óscar López](https://github.com/xondemingo)       | [Manuela Cuadros]()   | [Elena López]() |
 | [Mario Rey](https://github.com/mariorey)            | [Marcos Arce]()        | [Ángel Iglesias](https://github.com/angelip2303)     | [María Suárez]()      | []()            |
-| [Miguel Juncal](https://github.com/migueljuncalpz)  | [Christian González]() | [Manuel Manga](https://github.com/manmanrod)  | [Lucas Abad]()        | []()            |
-| [Pablo Benítez](https://github.com/Bamtop)          | [Noelia Iglesias]()    | [Jesús Alonso](https://github.com/gsusag00) | [Alejandro Herrero]() | []()            |
-| [Raúl Arca](https://github.com/RaulArca)            | [Tania Bajo]()         | []()      | [Celia Sors]()        | []()            |
-| [Alberto Monedero](https://github.com/albertjcuac/) | [Guillermo de Leiva]() | []()                  | [Julia Fernández]()   | []()            |
-| [Andreu Montagut](https://github.com/andmonosu)     | [José Pérez]()         | []()                  | []()                  | []()            |
-| [Hugo García](https://github.com/xHugo21)           | [Laís García]()        | []()                  | []()                  | []()            |
-| [Jorge López](https://github.com/jorge16lp)         | [Laura Pernía]()       | []()                  | []()                  | []()            |
-| []()                                                | [Raúl Álvarez]()  | []()                  | []()                  | []()             |
+| [Miguel Juncal](https://github.com/migueljuncalpz)  | [Christian González](https://github.com/ChristianGm25) | [Manuel Manga](https://github.com/manmanrod)  | [Lucas Abad]()        | []()            |
+| [Pablo Benítez](https://github.com/Bamtop)          | [Noelia Iglesias](https://github.com/noeliaigc)    | [Jesús Alonso](https://github.com/gsusag00) | [Alejandro Herrero]() | []()            |
+| [Raúl Arca](https://github.com/RaulArca)            | [Tania Bajo](https://github.com/taniabg23)         | []()      | [Celia Sors]()        | []()            |
+| [Alberto Monedero](https://github.com/albertjcuac/) | [Guillermo de Leiva](https://github.com/gdeleiva) | []()                  | [Julia Fernández]()   | []()            |
+| [Andreu Montagut](https://github.com/andmonosu)     | [José Pérez](https://github.com/josperrod9)         | []()                  | []()                  | []()            |
+| [Hugo García](https://github.com/xHugo21)           | [Laís García](https://github.com/Laisgs)        | []()                  | []()                  | []()            |
+| [Jorge López](https://github.com/jorge16lp)         | [Laura Pernía](https://github.com/laura-pb)       | []()                  | []()                  | []()            |
+| []()                                                | [Raúl Álvarez](https://github.com/Raul-Alv)  | []()                  | []()                  | []()             |
 
 
 ## Meet the Fellows
