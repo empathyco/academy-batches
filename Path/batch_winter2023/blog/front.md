@@ -36,6 +36,9 @@ fashion.
 
 These are some examples made by the Academy Fellows:
 - #### [Rick & Morty Repository](https://github.com/lumialfe/Rick-Morty_EmpathyAcademy) by [LuisMi Alonso](https://github.com/lumialfe) - [Watch the Website Here](https://lumialfe.github.io/Rick-Morty_EmpathyAcademy/)
+- #### [Rick & Morty Repository](https://github.com/mariorey/RickAndMortyAPI) by [Mario Rey](https://github.com/mariorey) - [Watch the Website Here](https://lumialfe.github.io/Rick-Morty_EmpathyAcademy/)
+- #### [Rick & Morty Repository](https://github.com/RaulArca/rick-and-morty-browser) by [Raúl Arca](https://github.com/RaulArca) - [Watch the Website Here](https://raularca.github.io/rick-and-morty-browser/)
+
 ----------------------------------------------------------------
 ## Week 2
 In the second week the Frontend path of the Academy program at Empathy.co was learning how to use vue. 
@@ -50,7 +53,7 @@ The following were the people in charge of delivering said class.
 \
 **Key learning points** <!-- (Do not change this line!!!) -->
 1. Learn how to use vue components 
-2. Learn the use of vue instructions such as v-fot, v-bind
+2. Learn the use of vue instructions such as v-for, v-bind
 3. Learn the communication between components
 4. Become familiar with the use of slots 
 
@@ -66,7 +69,29 @@ These are some examples made by the Academy Fellows:
 - #### [Rick & Morty browser with vue](https://github.com/RaulArca/rick-morty-browser-with-vue) by [Raúl Arca](https://github.com/RaulArca) 
 - #### [Rick & Morty Repository](https://github.com/lumialfe/Rick-Morty_EmpathyAcademy) by [LuisMi Alonso](https://github.com/lumialfe) 
 - #### [API Rick and Morty Vue](https://github.com/migueljuncalpz/api-rickandmorty-vue) by [Miguel Juncal](https://github.com/migueljuncalpz)
-- #### [Rick and Morty Vue](https://github.com/mariorey/RickAndMortyVUE) by [Mario Rey](https://github.com/mariorey)
+- #### [Rick and Morty Vue](https://github.com/mariorey/RickAndMortyVUE) by [Mario Rey](https://github.com/mariorey) - [Watch the Website Here](https://mariorey.github.io/RickAndMortyVUE/)
 - #### [Vue challenge](https://github.com/jorge16lp/Vue_challenge) by [Jorge López](https://github.com/jorge16lp)
+- #### [Rick and Morty Exercise with Vue](https://github.com/andmonosu/Rick-and-Morty-Exercise-with-Vue/) by [Andreu Montagut](https://github.com/andmonosu) - [Watch the Website Here](https://andmonosu.github.io/Rick-and-Morty-Exercise-with-Vue/)
+- #### [First Project with Vue](https://github.com/bamtop/First-Project-Vue/) by [Pablo Benítez](https://github.com/bamtop) - [Watch the Website Here](https://bamtop.github.io/First-Project-Vue/)
+- #### [Rick and Morty Vue](https://github.com/albertjcuac/rickandmortyvue/) by [Alberto Monedero](https://github.com/albertjcuac) - [Watch the Website Here](https://albertjcuac.github.io/rickandmortyvue/)
 
 ----------------------------------------------------------------
+## Week 3
+In the third week we learned how to create a store using Vuex library to manage every state existing in the application.
+This includes changing our repository logic into a more compact one and adding getters, mutations and actions to complete the state's managing mentioned before.
+
+**Key learning points** <!-- (Do not change this line!!!) -->
+1. Learn how the Vuex framework works
+2. Define states for the application
+3. Implement getters and mutation in order to correctly apply good coding practices
+4. Change every module's logic to make them access to the states in the store
+
+You can see their work here:
+- #### [Rick & Morty browser with vue](https://github.com/RaulArca/rick-morty-browser-with-vue/tree/vuex-challenge) by [Raúl Arca](https://github.com/RaulArca)
+- #### [Rick & Morty Repository](https://github.com/lumialfe/Rick-Morty_Vue_EmpathyAcademy/tree/main) by [LuisMi Alonso](https://github.com/lumialfe)
+- #### [API Rick and Morty Vue](https://github.com/migueljuncalpz/api-rickandmorty-vue) by [Miguel Juncal](https://github.com/migueljuncalpz)
+- #### [Rick and Morty Vue](https://github.com/mariorey/RickAndMortyVUE/tree/vuex-challenge) by [Mario Rey](https://github.com/mariorey) - [Watch the Website Here](https://mariorey.github.io/RickAndMortyVUE/)
+- #### [Vue challenge](https://github.com/jorge16lp/Vue_challenge/tree/VueX_challenge) by [Jorge López](https://github.com/jorge16lp)
+- #### [Rick and Morty Exercise with Vue](https://github.com/andmonosu/Rick-and-Morty-Exercise-with-Vue/tree/VueX-Challenge) by [Andreu Montagut](https://github.com/andmonosu) - [Watch the Website Here](https://andmonosu.github.io/Rick-and-Morty-Exercise-with-Vue/)
+- #### [First Project with Vue](https://github.com/bamtop/First-Project-Vue/tree/vuex-challenge) by [Pablo Benítez](https://github.com/bamtop) - [Watch the Website Here](https://bamtop.github.io/First-Project-Vue/)
+- #### [Rick and Morty Vue](https://github.com/albertjcuac/rickandmortyvue/tree/vuex-challenge) by [Alberto Monedero](https://github.com/albertjcuac) - [Watch the Website Here](https://albertjcuac.github.io/rickandmortyvue/)
