@@ -6,6 +6,8 @@
   - [Exercise: Rick&Morty Search Page (JavaScript)](#rickmorty-javascript)
 - [Week 2](#week-2)
   - [Exercise: Rick&Morty Search Page (VUE)](#rickmorty-vue)
+- [Week 3](#week-3)
+  - [Exercise: Rick&Morty Search Page (VUE)](#rickmorty-vue)
 
 ----------------------------------------------------------------
 ## Week 1
@@ -80,11 +82,20 @@ These are some examples made by the Academy Fellows:
 In the third week we learned how to create a store using Vuex library to manage every state existing in the application.
 This includes changing our repository logic into a more compact one and adding getters, mutations and actions to complete the state's managing mentioned before.
 
+| **Path Owner** | **Content Deliverers** | 
+|----------------|------------------------| 
+| Beltrán García | Manuel Navarro         |
+
 **Key learning points** <!-- (Do not change this line!!!) -->
 1. Learn how the Vuex framework works
 2. Define states for the application
 3. Implement getters and mutation in order to correctly apply good coding practices
 4. Change every module's logic to make them access to the states in the store
+
+### Rick&Morty Vuex
+Continuing with the work done in week 2 we had to add the Vuex library to simplify our code.
+
+<img class="img_2023_example" src="./media/winter2023_frontend_week3.png" alt="Week 3 Screenshot"/>
 
 You can see their work here:
 - #### [Rick & Morty browser with vue](https://github.com/RaulArca/rick-morty-browser-with-vue/tree/vuex-challenge) by [Raúl Arca](https://github.com/RaulArca)
@@ -95,3 +106,5 @@ You can see their work here:
 - #### [Rick and Morty Exercise with Vue](https://github.com/andmonosu/Rick-and-Morty-Exercise-with-Vue/tree/VueX-Challenge) by [Andreu Montagut](https://github.com/andmonosu) - [Watch the Website Here](https://andmonosu.github.io/Rick-and-Morty-Exercise-with-Vue/)
 - #### [First Project with Vue](https://github.com/bamtop/First-Project-Vue/tree/vuex-challenge) by [Pablo Benítez](https://github.com/bamtop) - [Watch the Website Here](https://bamtop.github.io/First-Project-Vue/)
 - #### [Rick and Morty Vue](https://github.com/albertjcuac/rickandmortyvue/tree/vuex-challenge) by [Alberto Monedero](https://github.com/albertjcuac) - [Watch the Website Here](https://albertjcuac.github.io/rickandmortyvue/)
+
+----------------------------------------------------------------
