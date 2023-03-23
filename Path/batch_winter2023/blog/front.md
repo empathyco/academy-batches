@@ -7,7 +7,7 @@
 - [Week 2](#week-2)
   - [Exercise: Rick&Morty Search Page (VUE)](#rickmorty-vue)
 - [Week 3](#week-3)
-  - [Exercise: Rick&Morty Search Page (VUE)](#rickmorty-vue)
+  - [Exercise: Rick&Morty Search Page (VUE)](#rickmorty-vuex)
 
 ----------------------------------------------------------------
 ## Week 1
