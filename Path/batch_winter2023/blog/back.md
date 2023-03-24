@@ -114,13 +114,41 @@ In this third week we couldn't have the learning session but we were told to com
 
 ## Week 4
 
-### Imdb files
+### IMDbb files
 
 13/03/2023 - 17/03/2023
 | **Content Deliverer** |
 | ------------------ |
 | Roberto Auro |
 
-This week we had the fourth session and we continued with Web Apis. Roberto showed us a possible solution for the crud exercise and some of us shared our code so we review and comment it. In addition, he asked us to take a look to some imdb files and to start uploading them.
+**Key learning points**
+1. Index IMDb files
+
+This week we had the fourth session and we continued with Web Apis. Roberto showed us a possible solution for the crud exercise and some of us shared our code so we review and comment it. In addition, he asked us to take a look to some imdb files that we are going to use for our project with the Frontend members and to start uploading and indexing them. He also showed us the JobRunr, a library for background processing in Java.
+
+- #### [Exercise 3](https://github.com/juanma6245/search-academy-project/tree/Assignment_2_Web_Api_Upload_CSV) by [Juan Manuel Manga](https://github.com/juanma6245) 
+- #### [Exercise 3](https://github.com/Warkos99/EmpathyAcademy) by [Marcos Arce](https://github.com/Warkos99)  
+- #### [Exercise 3](https://github.com/ChristianGm25/academy_search) by [Christian González](https://github.com/ChristianGm25) 
+- #### [Exercise 3](https://github.com/noeliaigc/search-academy-project/tree/exercise3) by [Noelia Iglesias](https://github.com/noeliaigc) 
+- #### [Exercise 3](https://github.com/taniabg23/search-academy-project/tree/api-crud) by [Tania Bajo](https://github.com/taniabg23)
+- #### [Exercise 3](https://github.com/gdeleiva/search-academy-project/tree/exercise4) by [Guillermo de Leiva](https://github.com/gdeleiva) 
+- #### [Exercise 3](https://github.com/josperrod9/search-academy-project/tree/web-api) by [José Pérez](https://github.com/josperrod9) 
+- #### [Exercise 3](https://github.com/Laisgs/search-academy-project/tree/lais) by [Laís García](https://github.com/Laisgs) 
+- #### [Exercise 3](https://github.com/laura-pb/search-academy-project/tree/IMDBInitialSteps) by [Laura Pernía](https://github.com/laura-pb) 
+- #### [Exercise 3](https://github.com/Raul-Alv/search-academy-project) by [Raúl Álvarez](https://github.com/Raul-Alv) 
+
+----------------------------------------------------------------
+
+## Week 5
+
+### Elasticsearch
+
+20/03/2023 - 24/03/2023
+| **Content Deliverer** |
+| ------------------ |
+| Roberto Auro |
+
+**Key learning points**
+1. Introduction to Elasticsearch
 
 ----------------------------------------------------------------
