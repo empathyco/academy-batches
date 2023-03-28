@@ -108,3 +108,29 @@ We started taking some English lessons where we discussed about ChatGPT and othe
 ## Extra
 
 We attended _Sashimi-Tuesday: Alba and Natalia with an "Introduction to UX Methodology"_ where we learned the importance of UX/UI for improving the products we build. What we believe is the most relevant is thinking about what the user will interact with the product you build, even if you are not a front-end developer.
+
+## Week 4
+
+#### March 20 - 26
+
+This week lessons' main topic was Kafka, a distributed event store and stream-processing platform. We were guided through educational examples and instructed about how such technology was useful for the day-to-day business needs.
+
+Furthermore, we gathered ideas, set the domain and started to write the first exploratory lines of code for our first academy project. We are building a system that reads real-time stock prices, saves the data to a database and, maybe, offers some kind of visualization. Getting the data and processing it will be decoupled by using a queue system that involves publishing messages and reading them asynchronously. The current project is being developed in [this](https://github.com/xondemingo/stock-prices-empathy-academy) GitHub repository.
+
+| **Path Owner**   | **Content Deliverers** |
+| ---------------- | ---------------------- |
+| Daniel Hernandez | Jorge Redondo Palacios |
+
+**Key learning points** <!-- (Do not change this line!!!)-->
+
+1. Learned the basics of Kafka: from initial examples to a high-level overview of what it is about
+2. Exercised analysis and creativity inside a group to ideate a potential product that serves value to the user
+3. Self-organized to start working on the project
+
+## English lessons
+
+Continued taking english lessons, exposing us to arguing about complex topics such as morality and justice.
+
+## Extra
+
+We attended the _Product + Innovation_ session, where we could hear and participate in an engaging discussion that involved openness, creativity and innovation as must-have factors in today's business world.
