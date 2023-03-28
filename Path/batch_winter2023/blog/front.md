@@ -76,6 +76,7 @@ These are some examples made by the Academy Fellows:
 - #### [Rick and Morty Exercise with Vue](https://github.com/andmonosu/Rick-and-Morty-Exercise-with-Vue/) by [Andreu Montagut](https://github.com/andmonosu) - [Watch the Website Here](https://andmonosu.github.io/Rick-and-Morty-Exercise-with-Vue/)
 - #### [First Project with Vue](https://github.com/bamtop/First-Project-Vue/) by [Pablo Benítez](https://github.com/bamtop) - [Watch the Website Here](https://bamtop.github.io/First-Project-Vue/)
 - #### [Rick and Morty Vue](https://github.com/albertjcuac/rickandmortyvue/) by [Alberto Monedero](https://github.com/albertjcuac) - [Watch the Website Here](https://albertjcuac.github.io/rickandmortyvue/)
+- #### [Rick and Morty Vue](https://github.com/xHugo21/exercise2_academy) by [Hugo García](https://github.com/xHugo21) - [Watch the Website Here](https://xhugo21.github.io/exercise2_academy/)
 
 ----------------------------------------------------------------
 ## Week 3
@@ -106,5 +107,6 @@ You can see their work here:
 - #### [Rick and Morty Exercise with Vue](https://github.com/andmonosu/Rick-and-Morty-Exercise-with-Vue/tree/VueX-Challenge) by [Andreu Montagut](https://github.com/andmonosu) - [Watch the Website Here](https://andmonosu.github.io/Rick-and-Morty-Exercise-with-Vue/)
 - #### [First Project with Vue](https://github.com/bamtop/First-Project-Vue/tree/vuex-challenge) by [Pablo Benítez](https://github.com/bamtop) - [Watch the Website Here](https://bamtop.github.io/First-Project-Vue/)
 - #### [Rick and Morty Vue](https://github.com/albertjcuac/rickandmortyvue/tree/vuex-challenge) by [Alberto Monedero](https://github.com/albertjcuac) - [Watch the Website Here](https://albertjcuac.github.io/rickandmortyvue/)
+- #### [Rick and Morty VueX](https://github.com/xHugo21/exercise2_academy/tree/vuex-challenge) by [Hugo García](https://github.com/xHugo21) - [Watch the Website Here](https://xhugo21.github.io/exercise2_academy/)
 
 ----------------------------------------------------------------
