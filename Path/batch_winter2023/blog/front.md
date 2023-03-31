@@ -8,6 +8,8 @@
   - [Exercise: Rick&Morty Search Page (VUE)](#rickmorty-vue)
 - [Week 3](#week-3)
   - [Exercise: Rick&Morty Search Page (VUE)](#rickmorty-vuex)
+- [Week 4](#week-4)
+  - [Exercise: Rick&Morty Search Page (VUE)](#rickmorty-typescript)
 
 ----------------------------------------------------------------
 ## Week 1
@@ -40,6 +42,7 @@ These are some examples made by the Academy Fellows:
 - #### [Rick & Morty Repository](https://github.com/lumialfe/Rick-Morty_EmpathyAcademy) by [LuisMi Alonso](https://github.com/lumialfe) - [Watch the Website Here](https://lumialfe.github.io/Rick-Morty_EmpathyAcademy/)
 - #### [Rick & Morty Repository](https://github.com/mariorey/RickAndMortyAPI) by [Mario Rey](https://github.com/mariorey) - [Watch the Website Here](https://lumialfe.github.io/Rick-Morty_EmpathyAcademy/)
 - #### [Rick & Morty Repository](https://github.com/RaulArca/rick-and-morty-browser) by [Raúl Arca](https://github.com/RaulArca) - [Watch the Website Here](https://raularca.github.io/rick-and-morty-browser/)
+- #### [Rick & Morty Repository](https://github.com/Bamtop/Rick-Morty-Api-Exercise) by [Pablo Benítez](https://github.com/bamtop) - [Watch the Website Here](https://bamtop.github.io/Rick-Morty-Api-Exercise/src/)
 
 ----------------------------------------------------------------
 ## Week 2
@@ -110,3 +113,32 @@ You can see their work here:
 - #### [Rick and Morty VueX](https://github.com/xHugo21/exercise2_academy/tree/vuex-challenge) by [Hugo García](https://github.com/xHugo21) - [Watch the Website Here](https://xhugo21.github.io/exercise2_academy/)
 
 ----------------------------------------------------------------
+## Week 4
+In the fourth week we learned about TypeScrip to implement types to JavaScript.We received a class about basic and some stuff advantage TypeScript.After that we were given some exercises with the objetive of reinforcing the contents and The Path Owner recommended us to tried to apply TypeScript in our Vuex Project
+
+| **Path Owner** | **Content Deliverers** | 
+|----------------|------------------------| 
+| Beltrán García | Manuel Navarro         |
+
+**Key learning points** <!-- (Do not change this line!!!) -->
+1. What is TypeScript?
+2. How to adding ts into existing project
+2. Learn about basic types
+4. Learn about Interfaces
+5. Advance types (any, generic, union, intersection)
+
+### Rick&Morty TypeScript
+Continuing with the work done in week 3 we had to add TypeScript for add type in our code.
+
+<img class="img_2023_example" src="./media/winter2023_frontend_week4.png" alt="Week 4 Screenshot"/>
+
+Some examples from our Academy Fellows:
+- #### [First Project with Vue](https://github.com/Bamtop/First-Project-Vue/tree/vuex-typescript) by [Pablo Benítez](https://github.com/bamtop) - [Watch the Website Here](https://bamtop.github.io/First-Project-Vue/)
+- #### [Rick and Morty Vue](https://github.com/albertjcuac/rickandmortyvue/tree/typescript-challenge) by [Alberto Monedero](https://github.com/albertjcuac) - [Watch the Website Here](https://albertjcuac.github.io/rickandmortyvue/)
+- #### [Rick and Morty Exercise with Vue](https://github.com/andmonosu/Rick-and-Morty-Exercise-with-Vue/tree/Typescript) by [Andreu Montagut](https://github.com/andmonosu) - [Watch the Website Here](https://andmonosu.github.io/Rick-and-Morty-Exercise-with-Vue/)
+- #### [Rick and Morty VueX](https://github.com/xHugo21/exercise2_academy/tree/typescript-challenge) by [Hugo García](https://github.com/xHugo21) - [Watch the Website Here](https://xhugo21.github.io/exercise2_academy/)
+- #### [Vue challenge](https://github.com/jorge16lp/Vue_challenge/tree/TypeScript_challenge) by [Jorge López](https://github.com/jorge16lp) - [Watch the Website Here]
+- #### [Rick & Morty Repository](https://github.com/lumialfe/Rick-Morty_Vue_EmpathyAcademy/tree/ts_chanllenge) by [LuisMi Alonso](https://github.com/lumialfe) - [Watch the Website Here](https://lumialfe.github.io/Rick-Morty_Vue_EmpathyAcademy/)
+- #### [Rick and Morty Vue](https://github.com/mariorey/RickAndMortyVUE/tree/vuex-typescript2) by [Mario Rey](https://github.com/mariorey) - [Watch the Website Here](https://mariorey.github.io/RickAndMortyVUE/)
+- #### [Rick & Morty browser with vue](https://github.com/RaulArca/rick-morty-browser-with-vue/tree/TypeScript) by [Raúl Arca](https://github.com/RaulArca)
+- #### [API Rick and Morty Vue](https://github.com/migueljuncalpz/api-rickandmorty-vue) by [Miguel Juncal](https://github.com/migueljuncalpz)- [Watch the Website Here](https://migueljuncalpz.github.io/api-rickandmorty-vue/)
