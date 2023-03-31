@@ -137,7 +137,7 @@ Some examples from our Academy Fellows:
 - #### [Rick and Morty Vue](https://github.com/albertjcuac/rickandmortyvue/tree/typescript-challenge) by [Alberto Monedero](https://github.com/albertjcuac) - [Watch the Website Here](https://albertjcuac.github.io/rickandmortyvue/)
 - #### [Rick and Morty Exercise with Vue](https://github.com/andmonosu/Rick-and-Morty-Exercise-with-Vue/tree/Typescript) by [Andreu Montagut](https://github.com/andmonosu) - [Watch the Website Here](https://andmonosu.github.io/Rick-and-Morty-Exercise-with-Vue/)
 - #### [Rick and Morty VueX](https://github.com/xHugo21/exercise2_academy/tree/typescript-challenge) by [Hugo García](https://github.com/xHugo21) - [Watch the Website Here](https://xhugo21.github.io/exercise2_academy/)
-- #### [Vue challenge](https://github.com/jorge16lp/Vue_challenge/tree/TypeScript_challenge) by [Jorge López](https://github.com/jorge16lp) - [Watch the Website Here]
+- #### [Vue challenge](https://github.com/jorge16lp/Vue_challenge/tree/TypeScript_challenge) by [Jorge López](https://github.com/jorge16lp)
 - #### [Rick & Morty Repository](https://github.com/lumialfe/Rick-Morty_Vue_EmpathyAcademy/tree/ts_chanllenge) by [LuisMi Alonso](https://github.com/lumialfe) - [Watch the Website Here](https://lumialfe.github.io/Rick-Morty_Vue_EmpathyAcademy/)
 - #### [Rick and Morty Vue](https://github.com/mariorey/RickAndMortyVUE/tree/vuex-typescript2) by [Mario Rey](https://github.com/mariorey) - [Watch the Website Here](https://mariorey.github.io/RickAndMortyVUE/)
 - #### [Rick & Morty browser with vue](https://github.com/RaulArca/rick-morty-browser-with-vue/tree/TypeScript) by [Raúl Arca](https://github.com/RaulArca)
