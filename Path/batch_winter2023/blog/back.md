@@ -152,3 +152,44 @@ This week we had the fourth session and we continued with Web Apis. Roberto show
 1. Introduction to Elasticsearch
 
 ----------------------------------------------------------------
+
+## Week 6
+
+### Elasticsearch
+
+27/03/2023 - 31/03/2023
+| **Content Deliverer** |
+| ------------------ |
+| Roberto Auro |
+
+**Key learning points**
+1. Introduction to Elasticsearch
+
+----------------------------------------------------------------
+
+## Week 7
+
+### Elasticsearch
+
+03/04/2023 - 05/04/2023
+| **Content Deliverer** |
+| ------------------ |
+| Roberto Auro |
+
+**Key learning points**
+1. Finishing indexing and introducing mapping
+
+This week we have been working on the assignment from both week 5 and week 6, since this week ended early we didnt have another session.
+
+- #### [IMDB indexing](https://github.com/juanma6245/search-academy-project/tree/Assignment_2_Web_Api_Upload_CSV) by [Juan Manuel Manga](https://github.com/juanma6245) 
+- #### [IMDB indexing](https://github.com/Warkos99/EmpathyAcademy) by [Marcos Arce](https://github.com/Warkos99)  
+- #### [IMDB indexing](https://github.com/ChristianGm25/academy_search) by [Christian González](https://github.com/ChristianGm25) 
+- #### [IMDB indexing](https://github.com/noeliaigc/search-academy-project) by [Noelia Iglesias](https://github.com/noeliaigc) 
+- #### [IMDB indexing](https://github.com/taniabg23/search-academy-project) by [Tania Bajo](https://github.com/taniabg23)
+- #### [IMDB indexing](https://github.com/gdeleiva/search-academy-project) by [Guillermo de Leiva](https://github.com/gdeleiva) 
+- #### [IMDB indexing](https://github.com/josperrod9/search-academy-project) by [José Pérez](https://github.com/josperrod9) 
+- #### [IMDB indexing](https://github.com/Laisgs/search-academy-project) by [Laís García](https://github.com/Laisgs) 
+- #### [IMDB indexing](https://github.com/laura-pb/search-academy-project) by [Laura Pernía](https://github.com/laura-pb) 
+- #### [IMDB indexing](https://github.com/Raul-Alv/search-academy-project) by [Raúl Álvarez](https://github.com/Raul-Alv) 
+
+----------------------------------------------------------------
