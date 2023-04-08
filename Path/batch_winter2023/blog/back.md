@@ -181,15 +181,15 @@ This week we had the fourth session and we continued with Web Apis. Roberto show
 
 This week we have been working on the assignment from both week 5 and week 6, since this week ended early we didnt have another session.
 
-- #### [IMDB indexing](https://github.com/juanma6245/search-academy-project/tree/Assignment_2_Web_Api_Upload_CSV) by [Juan Manuel Manga](https://github.com/juanma6245) 
+- #### [IMDB indexing](https://github.com/juanma6245/search-academy-project) by [Juan Manuel Manga](https://github.com/juanma6245) 
 - #### [IMDB indexing](https://github.com/Warkos99/EmpathyAcademy) by [Marcos Arce](https://github.com/Warkos99)  
 - #### [IMDB indexing](https://github.com/ChristianGm25/academy_search) by [Christian González](https://github.com/ChristianGm25) 
 - #### [IMDB indexing](https://github.com/noeliaigc/search-academy-project) by [Noelia Iglesias](https://github.com/noeliaigc) 
-- #### [IMDB indexing](https://github.com/taniabg23/search-academy-project) by [Tania Bajo](https://github.com/taniabg23)
+- #### [IMDB indexing](https://github.com/taniabg23/search-academy-project/tree/imdb) by [Tania Bajo](https://github.com/taniabg23)
 - #### [IMDB indexing](https://github.com/gdeleiva/search-academy-project) by [Guillermo de Leiva](https://github.com/gdeleiva) 
-- #### [IMDB indexing](https://github.com/josperrod9/search-academy-project) by [José Pérez](https://github.com/josperrod9) 
-- #### [IMDB indexing](https://github.com/Laisgs/search-academy-project) by [Laís García](https://github.com/Laisgs) 
-- #### [IMDB indexing](https://github.com/laura-pb/search-academy-project) by [Laura Pernía](https://github.com/laura-pb) 
-- #### [IMDB indexing](https://github.com/Raul-Alv/search-academy-project) by [Raúl Álvarez](https://github.com/Raul-Alv) 
+- #### [IMDB indexing](https://github.com/josperrod9/IMDb-project) by [José Pérez](https://github.com/josperrod9) 
+- #### [IMDB indexing](https://github.com/Laisgs/search-academy-project/tree/actualMain) by [Laís García](https://github.com/Laisgs) 
+- #### [IMDB indexing](https://github.com/laura-pb/search-academy-project/tree/main) by [Laura Pernía](https://github.com/laura-pb) 
+- #### [IMDB indexing](https://github.com/Raul-Alv/search-academy-project/tree/imdb) by [Raúl Álvarez](https://github.com/Raul-Alv) 
 
 ----------------------------------------------------------------
