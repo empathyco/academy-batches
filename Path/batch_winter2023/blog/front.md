@@ -159,7 +159,7 @@ In the fifth week we already had practice with TypeScript and, waiting to have a
 Based on what we learned with the different Rick&Morty practice projects, we started our own project
 
 <img class="img_2023_example" src="./media/winter2023_frontend_week5.png" alt="Week 5 Screenshot"/>
-
+ 
 Some examples from our Academy Fellows:
 - #### [imdb-project](https://github.com/migueljuncalpz/imdb-project) by [Miguel Juncal](https://github.com/migueljuncalpz)
 - #### [IMDb_FINDR](https://github.com/lumialfe/IMDb_FINDR) by [LuisMi Alonso](https://github.com/lumialfe)
