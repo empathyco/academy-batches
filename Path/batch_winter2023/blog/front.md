@@ -10,6 +10,8 @@
   - [Exercise: Rick&Morty Search Page (VUE)](#rickmorty-vuex)
 - [Week 4](#week-4)
   - [Exercise: Rick&Morty Search Page (VUE)](#rickmorty-typescript)
+- [Week 5](#week-5)
+  - [Project: IMDb](#imdb-project)
 
 ----------------------------------------------------------------
 ## Week 1
