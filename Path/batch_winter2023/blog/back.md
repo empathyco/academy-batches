@@ -184,7 +184,7 @@ This week we have been working on the assignment from both week 5 and week 6, si
 - #### [IMDB indexing](https://github.com/juanma6245/search-academy-project) by [Juan Manuel Manga](https://github.com/juanma6245) 
 - #### [IMDB indexing](https://github.com/Warkos99/EmpathyAcademy) by [Marcos Arce](https://github.com/Warkos99)  
 - #### [IMDB indexing](https://github.com/ChristianGm25/academy_search) by [Christian González](https://github.com/ChristianGm25) 
-- #### [IMDB indexing](https://github.com/noeliaigc/search-academy-project) by [Noelia Iglesias](https://github.com/noeliaigc) 
+- #### [IMDB indexing](https://github.com/noeliaigc/IMDb-project) by [Noelia Iglesias](https://github.com/noeliaigc) 
 - #### [IMDB indexing](https://github.com/taniabg23/search-academy-project/tree/imdb) by [Tania Bajo](https://github.com/taniabg23)
 - #### [IMDB indexing](https://github.com/gdeleiva/search-academy-project) by [Guillermo de Leiva](https://github.com/gdeleiva) 
 - #### [IMDB indexing](https://github.com/josperrod9/IMDb-project) by [José Pérez](https://github.com/josperrod9) 
