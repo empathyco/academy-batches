@@ -141,4 +141,32 @@ Some examples from our Academy Fellows:
 - #### [Rick & Morty Repository](https://github.com/lumialfe/Rick-Morty_Vue_EmpathyAcademy/tree/ts_chanllenge) by [LuisMi Alonso](https://github.com/lumialfe) - [Watch the Website Here](https://lumialfe.github.io/Rick-Morty_Vue_EmpathyAcademy/)
 - #### [Rick and Morty Vue](https://github.com/mariorey/RickAndMortyVUE/tree/vuex-typescript2) by [Mario Rey](https://github.com/mariorey) - [Watch the Website Here](https://mariorey.github.io/RickAndMortyVUE/)
 - #### [Rick & Morty browser with vue](https://github.com/RaulArca/rick-morty-browser-with-vue/tree/TypeScript) by [Raúl Arca](https://github.com/RaulArca)
-- #### [API Rick and Morty Vue](https://github.com/migueljuncalpz/api-rickandmorty-vue) by [Miguel Juncal](https://github.com/migueljuncalpz)- [Watch the Website Here](https://migueljuncalpz.github.io/api-rickandmorty-vue/)
+- #### [API Rick and Morty Vue](https://github.com/migueljuncalpz/api-rickandmorty-vue) by [Miguel Juncal](https://github.com/migueljuncalpz) - [Watch the Website Here](https://migueljuncalpz.github.io/api-rickandmorty-vue/)
+
+----------------------------------------------------------------
+## Week 5
+In the fifth week we already had practice with TypeScript and, waiting to have another front session, we started our IMDb front-back project. In addition, we received information about how to apply TypeScript in our Rick&Morty project and, therefore, in the IMDb project as well
+
+| **Path Owner** | **Content Deliverers** | 
+|----------------|------------------------| 
+| Beltrán García | Manuel Navarro         |
+
+**Key learning points** <!-- (Do not change this line!!!) -->
+1. Applying TypeScript to a larger project
+2. Starting your own project from scratch
+
+### IMDb project
+Based on what we learned with the different Rick&Morty practice projects, we started our own project
+
+<img class="img_2023_example" src="./media/winter2023_frontend_week5.png" alt="Week 5 Screenshot"/>
+
+Some examples from our Academy Fellows:
+- #### [imdb-project](https://github.com/migueljuncalpz/imdb-project) by [Miguel Juncal](https://github.com/migueljuncalpz)
+- #### [IMDb_FINDR](https://github.com/lumialfe/IMDb_FINDR) by [LuisMi Alonso](https://github.com/lumialfe)
+- #### [iMDb-Project](https://github.com/andmonosu/iMDb-Project) by [Andreu Montagut](https://github.com/andmonosu)
+- #### [IMDB-academy-project](https://github.com/Bamtop/IMDB-academy-project) by [Pablo Benítez](https://github.com/bamtop)
+- #### [IMDb-front](https://github.com/albertjcuac/IMDb-front) by [Alberto Monedero](https://github.com/albertjcuac)
+- #### [imdb_academy](https://github.com/xHugo21/imdb_academy) by [Hugo García](https://github.com/xHugo21) - [Watch the Website Here](https://xhugo21.github.io/imdb_academy/)
+- #### [IMDB_Project](https://github.com/mariorey/IMDB_Project) by [Mario Rey](https://github.com/mariorey) - [Watch the Website Here](https://mariorey.github.io/IMDB_Project/)
+- #### [IMdbFont](https://github.com/RaulArca/IMdbFont) by [Raúl Arca](https://github.com/RaulArca)
+- #### [IMDb](https://github.com/jorge16lp/IMDb) by [Jorge López](https://github.com/jorge16lp)
