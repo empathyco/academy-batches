@@ -165,6 +165,22 @@ This week we had the fourth session and we continued with Web Apis. Roberto show
 **Key learning points**
 1. Introduction to Elasticsearch
 
+This week we haven been learning more about ElasticSearch and we started with indexing.
+
+
+- #### [IMDB indexing](https://github.com/juanma6245/search-academy-project) by [Juan Manuel Manga](https://github.com/juanma6245) 
+- #### [IMDB indexing](https://github.com/Warkos99/EmpathyAcademy) by [Marcos Arce](https://github.com/Warkos99)  
+- #### [IMDB indexing](https://github.com/ChristianGm25/academy_search) by [Christian González](https://github.com/ChristianGm25) 
+- #### [IMDB indexing](https://github.com/noeliaigc/IMDb-project) by [Noelia Iglesias](https://github.com/noeliaigc) 
+- #### [IMDB indexing](https://github.com/taniabg23/search-academy-project/tree/imdb) by [Tania Bajo](https://github.com/taniabg23)
+- #### [IMDB indexing](https://github.com/gdeleiva/search-academy-project) by [Guillermo de Leiva](https://github.com/gdeleiva) 
+- #### [IMDB indexing](https://github.com/josperrod9/IMDb-project) by [José Pérez](https://github.com/josperrod9) 
+- #### [IMDB indexing](https://github.com/Laisgs/search-academy-project/tree/actualMain) by [Laís García](https://github.com/Laisgs) 
+- #### [IMDB indexing](https://github.com/laura-pb/search-academy-project/tree/main) by [Laura Pernía](https://github.com/laura-pb) 
+- #### [IMDB indexing](https://github.com/Raul-Alv/search-academy-project/tree/imdb) by [Raúl Álvarez](https://github.com/Raul-Alv) 
+
+
+
 ----------------------------------------------------------------
 
 ## Week 7
