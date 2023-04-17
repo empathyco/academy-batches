@@ -191,7 +191,40 @@ In the sixth week, we keep developing our IMDb front-back project, which we star
 ### IMDb project
 Continuing with the work started in week 5, we keep improving our IMDB projects.
 
-<img class="img_2023_example" src="./media/winter2023_frontend_week6.png" alt="Week 5 Screenshot"/>
+<img class="img_2023_example" src="./media/winter2023_frontend_week6.png" alt="Week 6 Screenshot"/>
+ 
+Some examples from our Academy Fellows:
+- #### [imdb-project](https://github.com/migueljuncalpz/imdb-project) by [Miguel Juncal](https://github.com/migueljuncalpz)
+- #### [IMDb_FINDR](https://github.com/lumialfe/IMDb_FINDR) by [LuisMi Alonso](https://github.com/lumialfe)
+- #### [iMDb-Project](https://github.com/andmonosu/iMDb-Project) by [Andreu Montagut](https://github.com/andmonosu)
+- #### [IMDB-academy-project](https://github.com/Bamtop/IMDB-academy-project) by [Pablo Benítez](https://github.com/bamtop)
+- #### [IMDb-front](https://github.com/albertjcuac/IMDb-front) by [Alberto Monedero](https://github.com/albertjcuac)
+- #### [imdb_academy](https://github.com/xHugo21/imdb_academy) by [Hugo García](https://github.com/xHugo21) - [Watch the Website Here](https://xhugo21.github.io/imdb_academy/)
+- #### [IMDB_Project](https://github.com/mariorey/IMDB_Project) by [Mario Rey](https://github.com/mariorey) - [Watch the Website Here](https://mariorey.github.io/IMDB_Project/)
+- #### [IMdbFont](https://github.com/RaulArca/IMdbFont) by [Raúl Arca](https://github.com/RaulArca)
+- #### [IMDb](https://github.com/jorge16lp/IMDb) by [Jorge López](https://github.com/jorge16lp)
+
+----------------------------------------------------------------
+## Week 7
+During the seventh week of the Academy Program, the frontend fellows kept adding new features to the IMDb project. There wasn't any new lessons given this week so we were able to dedicate full time to the project. 
+
+Some of the fellows received the APIs from the backend path whilst the rest tried to integrate other APIs such as [TMDB](https://www.themoviedb.org/documentation/api) or previous patches ones into their projects.
+
+Those who had extra time made a first approach to try and implement testing into their projects.
+
+| **Path Owner** | **Content Deliverers** | 
+|----------------|------------------------| 
+| Beltrán García |                        |
+
+**Key learning points** <!-- (Do not change this line!!!) -->
+1. Code organization on larger projects
+2. Creation of new features
+3. Importance of user experience inside a webpage
+
+### IMDb project
+Most of the projects were now almost fully developed and ready to integrate the APIs
+
+<img class="img_2023_example" src="./media/winter2023_frontend_week7.png" alt="Week 7 Screenshot"/>
  
 Some examples from our Academy Fellows:
 - #### [imdb-project](https://github.com/migueljuncalpz/imdb-project) by [Miguel Juncal](https://github.com/migueljuncalpz)
