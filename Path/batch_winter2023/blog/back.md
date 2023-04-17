@@ -209,3 +209,29 @@ This week we have been working on the assignment from both week 5 and week 6, si
 - #### [IMDB indexing](https://github.com/Raul-Alv/search-academy-project/tree/imdb) by [Raúl Álvarez](https://github.com/Raul-Alv) 
 
 ----------------------------------------------------------------
+## Week 8
+
+### Elasticsearch
+
+10/04/2023 - 14/04/2023
+| **Content Deliverer** |
+| ------------------ |
+| Francisco García López |
+
+**Key learning points**
+1. Introduction to aggregations 
+
+This week we haven been learning more about aggregations in ElasticSearch and we continue doing the search endpoints.
+
+- #### [AGGREGATIONS](https://github.com/juanma6245/search-academy-project) by [Juan Manuel Manga](https://github.com/juanma6245) 
+- #### [AGGREGATIONS](https://github.com/Warkos99/EmpathyAcademy) by [Marcos Arce](https://github.com/Warkos99)  
+- #### [AGGREGATIONS](https://github.com/ChristianGm25/academy_search) by [Christian González](https://github.com/ChristianGm25) 
+- #### [AGGREGATIONS](https://github.com/noeliaigc/IMDb-project) by [Noelia Iglesias](https://github.com/noeliaigc) 
+- #### [AGGREGATIONS](https://github.com/taniabg23/search-academy-project/tree/imdb) by [Tania Bajo](https://github.com/taniabg23)
+- #### [AGGREGATIONS](https://github.com/gdeleiva/search-academy-project) by [Guillermo de Leiva](https://github.com/gdeleiva) 
+- #### [AGGREGATIONS](https://github.com/josperrod9/IMDb-project) by [José Pérez](https://github.com/josperrod9) 
+- #### [AGGREGATIONS](https://github.com/Laisgs/search-academy-project/tree/actualMain) by [Laís García](https://github.com/Laisgs) 
+- #### [AGGREGATIONS](https://github.com/laura-pb/search-academy-project/tree/main) by [Laura Pernía](https://github.com/laura-pb) 
+- #### [AGGREGATIONS](https://github.com/Raul-Alv/search-academy-project/tree/imdb) by [Raúl Álvarez](https://github.com/Raul-Alv) 
+
+----------------------------------------------------------------
