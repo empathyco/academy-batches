@@ -175,7 +175,7 @@ Some examples from our Academy Fellows:
 
 ----------------------------------------------------------------
 ## Week 6
-In the sixth week, we keep developing our IMDb front-back project, which we started to develop the week before. Also, we had a session where we learn how to implement unit tests in a Vue project using the test runner vitest, this tool will help us to test Vue components of our Vue projects.
+In the sixth week, we keep developing our IMDb front-back project, which we started to develop the week before. Also, we had a session where we learn how to implement unit tests in a Vue project using the test runner vitest, this tool will help us to test Vue components in our Vue projects.
 
 | **Path Owner** | **Content Deliverers** | 
 |----------------|------------------------| 
