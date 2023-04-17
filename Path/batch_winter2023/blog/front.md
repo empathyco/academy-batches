@@ -172,3 +172,34 @@ Some examples from our Academy Fellows:
 - #### [IMDB_Project](https://github.com/mariorey/IMDB_Project) by [Mario Rey](https://github.com/mariorey) - [Watch the Website Here](https://mariorey.github.io/IMDB_Project/)
 - #### [IMdbFont](https://github.com/RaulArca/IMdbFont) by [Raúl Arca](https://github.com/RaulArca)
 - #### [IMDb](https://github.com/jorge16lp/IMDb) by [Jorge López](https://github.com/jorge16lp)
+
+----------------------------------------------------------------
+## Week 6
+In the sixth week, we keep developing our IMDb front-back project, which we started to develop the week before. Also, we had a session where we learn how to implement unit tests in our Vue projects using the test runner vitest, this tool help us to test Vue components in a Vue project.
+
+| **Path Owner** | **Content Deliverers** | 
+|----------------|------------------------| 
+| Beltrán García | Manuel Navarro         |
+
+**Key learning points** <!-- (Do not change this line!!!) -->
+1. Applying TypeScript to a larger project
+2. How to test a Vue project
+3. Learn about unit testing
+4. How to test Vue components
+5. How to use vitest for testing Vue components
+
+### IMDb project
+Continuing with the work started in week 5, we keep improving our IMDB projects.
+
+<img class="img_2023_example" src="./media/winter2023_frontend_week6.png" alt="Week 5 Screenshot"/>
+ 
+Some examples from our Academy Fellows:
+- #### [imdb-project](https://github.com/migueljuncalpz/imdb-project) by [Miguel Juncal](https://github.com/migueljuncalpz)
+- #### [IMDb_FINDR](https://github.com/lumialfe/IMDb_FINDR) by [LuisMi Alonso](https://github.com/lumialfe)
+- #### [iMDb-Project](https://github.com/andmonosu/iMDb-Project) by [Andreu Montagut](https://github.com/andmonosu)
+- #### [IMDB-academy-project](https://github.com/Bamtop/IMDB-academy-project) by [Pablo Benítez](https://github.com/bamtop)
+- #### [IMDb-front](https://github.com/albertjcuac/IMDb-front) by [Alberto Monedero](https://github.com/albertjcuac)
+- #### [imdb_academy](https://github.com/xHugo21/imdb_academy) by [Hugo García](https://github.com/xHugo21) - [Watch the Website Here](https://xhugo21.github.io/imdb_academy/)
+- #### [IMDB_Project](https://github.com/mariorey/IMDB_Project) by [Mario Rey](https://github.com/mariorey) - [Watch the Website Here](https://mariorey.github.io/IMDB_Project/)
+- #### [IMdbFont](https://github.com/RaulArca/IMdbFont) by [Raúl Arca](https://github.com/RaulArca)
+- #### [IMDb](https://github.com/jorge16lp/IMDb) by [Jorge López](https://github.com/jorge16lp)
