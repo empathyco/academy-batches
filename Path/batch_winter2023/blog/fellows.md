@@ -40,7 +40,7 @@ around Spain to bring you the best user experience possible.
 This is us, and this is our work:
 
 <div class="img_academy_2023">
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Luis-Miguel_Alonso.png" alt="Luis Miguel Alonso" width="10%"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Luis-Miguel_Alonso.png" alt="Luis Miguel Alonso" width="20%"/>
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Mario_Rey.png" alt="Mario Rey" width=""/>
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Miguel_Juncal.png" alt="Miguel Juncal" width=""/>
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Pablo_Benitez.png" alt="Pablo Benítez" width=""/>
