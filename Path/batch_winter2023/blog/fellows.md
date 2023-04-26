@@ -57,19 +57,21 @@ This is us, and this is our work:
 
 ### Search/Back Path
 
-//TODO
+Greetings! We are the Backend Path, and our primary objective is to master SpringBoot and Elasticsearch technologies. Our primary focus is to build the logic and functionality that powers the application. We are responsible for developing and maintaining the server-side code that enables data processing, storage, and retrieval.
+
+This is us, and this is our work:
 
 <div class="img_academy_2023">
-  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Juan-Manuel_Manga.png" alt="Juan Manuel Manga" width=""/>
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Marcos_Arce.png" alt="Marcos Arce" width=""/>
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Christian_Gonzalez.png" alt="Christian González" width=""/>
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Noelia_Iglesias.png" alt="Noelia Iglesias" width=""/>
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Tania_Bajo.png" alt="Tania Bajo" width=""/>
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Guillermo_De-Leiva.png" alt="Guillermo De Leiva" width=""/>
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Jose_Perez.png" alt="José Pérez" width=""/>
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Lais_Garcia.png" alt="Laís García" width=""/>
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Laura_Pernia.png" alt="Laura Pernia" width=""/>
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Raul_Alvarez.png" alt="Raúl Álvarez" width=""/>
+  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Juan-Manuel_Manga.png" alt="Juan Manuel Manga" width="20%"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Marcos_Arce.png" alt="Marcos Arce" width="20%"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Christian_Gonzalez.png" alt="Christian González" width="20%"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Noelia_Iglesias.png" alt="Noelia Iglesias" width="20%"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Tania_Bajo.png" alt="Tania Bajo" width="20%"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Guillermo_De-Leiva.png" alt="Guillermo De Leiva" width="20%"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Jose_Perez.png" alt="José Pérez" width="20%"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Lais_Garcia.png" alt="Laís García" width="20%"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Laura_Pernia.png" alt="Laura Pernia" width="20%"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Raul_Alvarez.png" alt="Raúl Álvarez" width="20%"/>
 </div>
 
 You can check their progress [here](back.md)
@@ -88,10 +90,10 @@ Hello there! We are the Data Path. Our main focus is to learn all about how to h
 ```
 
 <div class="img_academy_2023">
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Oscar_Lopez.png" alt="Óscar López" width=""/>
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Angel_Iglesias.png" alt="Ángel Iglesias" width=""/>
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Jesus_Alonso.png" alt="Jesús Alonso" width=""/>
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Manuel_Manga.png" alt="Manuel Manga" width=""/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Oscar_Lopez.png" alt="Óscar López" width="20%"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Angel_Iglesias.png" alt="Ángel Iglesias" width="20%"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Jesus_Alonso.png" alt="Jesús Alonso" width="20%"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Manuel_Manga.png" alt="Manuel Manga" width="20%"/>
 </div>
 
 You can check their progress [here](data.md)
@@ -103,12 +105,12 @@ You can check their progress [here](data.md)
 //TODO
 
 <div class="img_academy_2023">
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Manuela_Cuadros.png" alt="Manuela Cuadros" width=""/>
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Maria_Suarez.png" alt="María Suárez" width=""/>
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Lucas_Abad.png" alt="Lucas Abad" width=""/>
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Alejandro_Herrero.png" alt="Alejandro Herrero" width=""/>
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Celia_Sors.png" alt="Celia Sors" width=""/>
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Julia_Fernandez.png" alt="Julia Fernández" width=""/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Manuela_Cuadros.png" alt="Manuela Cuadros" width="20%"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Maria_Suarez.png" alt="María Suárez" width="20%"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Lucas_Abad.png" alt="Lucas Abad" width="20%"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Alejandro_Herrero.png" alt="Alejandro Herrero" width="20%"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Celia_Sors.png" alt="Celia Sors" width="20%"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Julia_Fernandez.png" alt="Julia Fernández" width="20%"/>
 </div>
 
 You can check their progress [here](business.md)
