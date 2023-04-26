@@ -57,7 +57,7 @@ This is us, and this is our work:
 
 ### Search/Back Path
 
-Greetings! We are the Backend Path, and our primary objective is to master SpringBoot and Elasticsearch technologies. Our primary focus is to build the logic and functionality that powers the application. We are responsible for developing and maintaining the server-side code that enables data processing, storage, and retrieval.
+Greetings! We are the Backend&Search Path, and our primary objective is to master SpringBoot and Elasticsearch technologies. Our primary focus is to build the logic and functionality that powers the application. We are responsible for developing and maintaining the server-side code that enables data processing, storage, and retrieval.
 
 This is us, and this is our work:
 
@@ -122,7 +122,7 @@ You can check their progress [here](business.md)
 //TODO
 
 <div class="img_academy_2023">
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Elena_Lopez.png" alt="Elena López" width=""/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Elena_Lopez.png" alt="Elena López" width="20%"/>
 </div>
 
 You can check their progress [here](hr.md)
