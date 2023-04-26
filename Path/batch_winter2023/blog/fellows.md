@@ -40,15 +40,15 @@ around Spain to bring you the best user experience possible.
 This is us, and this is our work:
 
 <div class="img_academy_2023">
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Luis-Miguel_Alonso.png" alt="Luis Miguel Alonso" width="20%"/>
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Mario_Rey.png" alt="Mario Rey" width="20%"/>
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Miguel_Juncal.png" alt="Miguel Juncal" width="20%"/>
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Pablo_Benitez.png" alt="Pablo Benítez" width="20%"/>
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Raul_Arca.png" alt="Raúl Arca" width="20%"/>
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Alberto_Monedero.png" alt="Alberto Monedero" width="20%"/>
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Andreu_Montagut.png" alt="Andreu Montagut" width="20%"/>
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Hugo_Garcia.png" alt="Hugo García" width="20%"/>
- <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Jorge_Lopez.png" alt="Jorge López" width="20%"/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Luis-Miguel_Alonso.png" alt="Luis Miguel Alonso" width=""/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Mario_Rey.png" alt="Mario Rey" width=""/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Miguel_Juncal.png" alt="Miguel Juncal" width=""/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Pablo_Benitez.png" alt="Pablo Benítez" width=""/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Raul_Arca.png" alt="Raúl Arca" width=""/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Alberto_Monedero.png" alt="Alberto Monedero" width=""/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Andreu_Montagut.png" alt="Andreu Montagut" width=""/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Hugo_Garcia.png" alt="Hugo García" width=""/>
+ <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Jorge_Lopez.png" alt="Jorge López" width=""/>
 </div>
 
 #### Check our work [here](front.md)!
