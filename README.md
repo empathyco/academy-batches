@@ -45,6 +45,8 @@ Get to meet the [Academy Fellows](Path/batch_fall2022/blog/fellows.md)\.
 
 [<img class="batch" alt="image" src="https://github.com/empathyco/academy-batches/blob/main/assets/img/winter-batch.png?raw=true">](Path/batch_winter2023/blog/fellows.md)
 
+Get to meet the [Academy Fellows](Path/batch_winter2023/blog/fellows.md)\.
+
 [<img class="icons_path" src="https://github.com/empathyco/academy-batches/blob/main/assets/img/front.png?raw=true" alt="Frontend" width="150px"/>](Path/batch_winter2023/blog/front.md)
 [<img class="icons_path" src="https://github.com/empathyco/academy-batches/blob/main/assets/img/back.png?raw=true" alt="Backend" width="150px"/>](Path/batch_winter2023/blog/back.md)
 
