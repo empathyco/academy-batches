@@ -72,7 +72,7 @@ This is us, and this is our work:
  <img class="img_path_2023" src="../../../assets/img/2023_Winter_Batch/Raul_Alvarez.png" alt="Raúl Álvarez" width=""/>
 </div>
 
-You can check their progress [here](search.md)
+You can check their progress [here](back.md)
 
 ---
 
