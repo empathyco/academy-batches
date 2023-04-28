@@ -242,3 +242,6 @@ Some examples from our Academy Fellows:
 - #### [IMDB_Project](https://github.com/mariorey/IMDB_Project) by [Mario Rey](https://github.com/mariorey) - [Watch the Website Here](https://mariorey.github.io/IMDB_Project/)
 - #### [IMdbFont](https://github.com/RaulArca/IMdbFont) by [Raúl Arca](https://github.com/RaulArca)
 - #### [IMDb](https://github.com/jorge16lp/IMDb) by [Jorge López](https://github.com/jorge16lp)
+
+----------------------------------------------------------------
+## Week 8
