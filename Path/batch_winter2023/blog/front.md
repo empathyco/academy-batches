@@ -245,3 +245,32 @@ Some examples from our Academy Fellows:
 
 ----------------------------------------------------------------
 ## Week 8
+
+During the eighth week of the Academy Program, the frontend fellows successfully completed all tasks related to the IMDb project and began consuming their backend partners' API. On Thursday, all academies presented their applications to the rest of the program, showcasing the progress they had made on their respective projects. This was a valuable opportunity for everyone to learn from each other's experiences and gather feedback to improve their work further.
+
+
+| **Path Owner** | **Content Deliverers** | 
+|----------------|------------------------| 
+| Beltrán García |                        |
+
+**Key learning points** <!-- (Do not change this line!!!) -->
+1. Learn from other experiences
+2. Cooperation with backend
+3. In the real world, databases are not perfect, and one must know how to adapt
+
+### IMDb project
+Most of the projects were almost fully developed, and some of them had already integrated with the APIs, while others were still awaiting progress from the backend teams.
+
+<img class="img_2023_example" src="./media/winter2023_frontend_week8.png" alt="Week 8 Screenshot"/>
+ 
+Some examples from our Academy Fellows:
+- #### [imdb-project](https://github.com/migueljuncalpz/imdb-project) by [Miguel Juncal](https://github.com/migueljuncalpz)
+- #### [IMDb_FINDR](https://github.com/lumialfe/IMDb_FINDR) by [LuisMi Alonso](https://github.com/lumialfe)
+- #### [iMDb-Project](https://github.com/andmonosu/iMDb-Project) by [Andreu Montagut](https://github.com/andmonosu)
+- #### [IMDB-academy-project](https://github.com/Bamtop/IMDB-academy-project) by [Pablo Benítez](https://github.com/bamtop)
+- #### [IMDb-front](https://github.com/albertjcuac/IMDb-front) by [Alberto Monedero](https://github.com/albertjcuac)
+- #### [imdb_academy](https://github.com/xHugo21/imdb_academy) by [Hugo García](https://github.com/xHugo21) - [Watch the Website Here](https://xhugo21.github.io/imdb_academy/)
+- #### [IMDB_Project](https://github.com/mariorey/IMDB_Project) by [Mario Rey](https://github.com/mariorey) - [Watch the Website Here](https://mariorey.github.io/IMDB_Project/)
+- #### [IMdbFont](https://github.com/RaulArca/IMdbFont) by [Raúl Arca](https://github.com/RaulArca)
+- #### [IMDb](https://github.com/jorge16lp/IMDb) by [Jorge López](https://github.com/jorge16lp)
+
