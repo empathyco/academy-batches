@@ -16,6 +16,8 @@
   - [Project: IMDb](#imdb-project)
 - [Week 7](#week-7)
   - [Project: IMDb](#imdb-project)
+- [Week 8](#week-8)
+  - [Project: IMDb](#imdb-project)
 
 ----------------------------------------------------------------
 ## Week 1
