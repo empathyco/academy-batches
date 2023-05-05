@@ -11,6 +11,19 @@
   - [Exercise: MultipartFile and Async](#multipartfile-and-async)
 - [Week 4](#week-4)
   - [Exercise: Imbd files](#imdb-files)
+- [Week 5](#week-5)
+  - [Exercise: Elasticsearch I](#elasticsearch-i)
+- [Week 6](#week-6)
+  - [Exercise: Elasticsearch II](#elasticsearch-ii)
+- [Week 7](#week-7)
+  - [Exercise: Elasticsearch III](#elasticsearch-iii)
+- [Week 8](#week-8)
+  - [Exercise: Elasticsearch IV](#elasticsearch-iv)
+- [Week 9](#week-9)
+  - [Finishing IMDb Project](#finishing-imdb-project)
+- [Week 10](#week-10)
+  - [Retail Trust Index](#retail-trust-index)
+  - [My Motive Search](#my-motive-search)
 
 ----------------------------------------------------------------
 
@@ -19,6 +32,7 @@
 ### Essentials and Spring Boot
 
 13/02/2023 - 17/02/2023
+
 | **Content Deliverer** |
 | ------------------ |
 | Roberto Auro |
@@ -46,6 +60,7 @@ The first week we were installing and configuring the tools we are going to use 
 ### Introduction to Spring
 
 27/02/2023 - 03/03/2023
+
 | **Content Deliverer** |
 | ------------------ |
 | Roberto Auro |
@@ -71,6 +86,7 @@ Our first assignment consisted of making a component that could connect to Elast
 ### Web APIs
 
 27/02/2023 - 03/03/2023
+
 | **Content Deliverer** |
 | ------------------ |
 | Roberto Auro |
@@ -100,6 +116,7 @@ Here are the links for the GitHub repositories from the Backend&Search academies
 ### MultipartFile and Async
 
 06/03/2023 - 10/03/2023
+
 | **Content Deliverer** |
 | ------------------ |
 | Roberto Auro |
@@ -117,6 +134,7 @@ In this third week we couldn't have the learning session but we were told to com
 ### IMDb files
 
 13/03/2023 - 17/03/2023
+
 | **Content Deliverer** |
 | ------------------ |
 | Roberto Auro |
@@ -141,9 +159,10 @@ This week we had the fourth session and we continued with Web Apis. Roberto show
 
 ## Week 5
 
-### Elasticsearch
+### Elasticsearch I
 
 20/03/2023 - 24/03/2023
+
 | **Content Deliverer** |
 | ------------------ |
 | Roberto Auro |
@@ -155,9 +174,10 @@ This week we had the fourth session and we continued with Web Apis. Roberto show
 
 ## Week 6
 
-### Elasticsearch
+### Elasticsearch II
 
 27/03/2023 - 31/03/2023
+
 | **Content Deliverer** |
 | ------------------ |
 | Roberto Auro |
@@ -165,7 +185,7 @@ This week we had the fourth session and we continued with Web Apis. Roberto show
 **Key learning points**
 1. Introduction to Elasticsearch
 
-This week we haven been learning more about ElasticSearch and we started with indexing.
+This week we have been learning more about ElasticSearch and we started with indexing.
 
 
 - #### [IMDB indexing](https://github.com/juanma6245/search-academy-project) by [Juan Manuel Manga](https://github.com/juanma6245) 
@@ -185,9 +205,10 @@ This week we haven been learning more about ElasticSearch and we started with in
 
 ## Week 7
 
-### Elasticsearch
+### Elasticsearch III
 
 03/04/2023 - 05/04/2023
+
 | **Content Deliverer** |
 | ------------------ |
 | Roberto Auro |
@@ -211,9 +232,10 @@ This week we have been working on the assignment from both week 5 and week 6, si
 ----------------------------------------------------------------
 ## Week 8
 
-### Elasticsearch
+### Elasticsearch IV
 
 10/04/2023 - 14/04/2023
+
 | **Content Deliverer** |
 | ------------------ |
 | Francisco García López |
@@ -221,7 +243,7 @@ This week we have been working on the assignment from both week 5 and week 6, si
 **Key learning points**
 1. Introduction to aggregations 
 
-This week we haven been learning more about aggregations in ElasticSearch and we continue doing the search endpoints.
+This week we have been learning more about aggregations in ElasticSearch and we continue doing the search endpoints.
 
 - #### [AGGREGATIONS](https://github.com/juanma6245/search-academy-project) by [Juan Manuel Manga](https://github.com/juanma6245) 
 - #### [AGGREGATIONS](https://github.com/Warkos99/EmpathyAcademy) by [Marcos Arce](https://github.com/Warkos99)  
@@ -235,6 +257,28 @@ This week we haven been learning more about aggregations in ElasticSearch and we
 - #### [AGGREGATIONS](https://github.com/Raul-Alv/search-academy-project/tree/imdb) by [Raúl Álvarez](https://github.com/Raul-Alv) 
 
 ----------------------------------------------------------------
+## Week 9
+
+### Finishing IMDb project
+
+17/04/2023 - 21/04/2023
+
+This week we didn't have any learning session, as it was devoted to finishing the IMDb project. We spent our time adding last minute functionalities, solving integration problems with our front-end fellow and fixing any bug we could find.
+Here is the result of our hard work:
+
+- #### [IMDb Project](https://github.com/juanma6245/search-academy-project) by [Juan Manuel Manga](https://github.com/juanma6245) 
+- #### [IMDb Project](https://github.com/Warkos99/EmpathyAcademy) by [Marcos Arce](https://github.com/Warkos99)  
+- #### [IMDb Project](https://github.com/ChristianGm25/academy_search) by [Christian González](https://github.com/ChristianGm25) 
+- #### [IMDb Project](https://github.com/noeliaigc/IMDb-project) by [Noelia Iglesias](https://github.com/noeliaigc) 
+- #### [IMDb Project](https://github.com/taniabg23/search-academy-project/tree/imdb) by [Tania Bajo](https://github.com/taniabg23)
+- #### [IMDb Project](https://github.com/gdeleiva/search-academy-project) by [Guillermo de Leiva](https://github.com/gdeleiva) 
+- #### [IMDb Project](https://github.com/josperrod9/IMDb-project) by [José Pérez](https://github.com/josperrod9) 
+- #### [IMDb Project](https://github.com/Laisgs/search-academy-project/tree/actualMain) by [Laís García](https://github.com/Laisgs) 
+- #### [IMDb Project](https://github.com/laura-pb/search-academy-project/tree/main) by [Laura Pernía](https://github.com/laura-pb) 
+- #### [IMDb Project](https://github.com/Raul-Alv/search-academy-project/tree/imdb) by [Raúl Álvarez](https://github.com/Raul-Alv) 
+
+
+----------------------------------------------------------------
 ## Week 10
 
 ### Academy projects start
@@ -245,7 +289,8 @@ This week we haven been learning more about aggregations in ElasticSearch and we
 During this week the Academy fellows are organizing all the issues anda structure of the project to start developing the prototypes of each project.
 
 
-**Retail Trust Index**
+#### Retail Trust Index
+
 | **Backends fellows** |
 | ------------------ |
 | [Laura Pernía](https://github.com/laura-pb)  |
@@ -253,10 +298,11 @@ During this week the Academy fellows are organizing all the issues anda structur
 | [Laís García](https://github.com/Laisgs)  |
 | [Christian González](https://github.com/ChristianGm25)  |
 
-#### Goal
+**Goal**
 This project is a Trust score for UK brands and has the goal is to design and implement a Trust Score that fulfil [Amplify’s requirements](https://empathy.co/announcement/empathy-co-launches-new-retail-trust-index/).
 
-**My Motive Search**
+#### My Motive Search
+
 | **Backends fellows** |
 | ------------------ |
 | [Juan Manuel Manga](https://github.com/juanma6245)  |
@@ -265,7 +311,7 @@ This project is a Trust score for UK brands and has the goal is to design and im
 | [Raúl Álvarez](https://github.com/Raul-Alv)  |
 | [Tania Bajo](https://github.com/taniabg23)  |
 
-#### Goal
+**Goal**
 This project is Web app that allows the user to explore the whole Motive catalogue and has the goal is to explore a search experience that allows the user to navigate through the whole catalogue of Motive’s clients.
 <br>
 <br>
