@@ -235,3 +235,40 @@ This week we haven been learning more about aggregations in ElasticSearch and we
 - #### [AGGREGATIONS](https://github.com/Raul-Alv/search-academy-project/tree/imdb) by [Raúl Álvarez](https://github.com/Raul-Alv) 
 
 ----------------------------------------------------------------
+## Week 10
+
+### Academy projects start
+
+24/04/2023 - 28/04/2023
+
+
+During this week the Academy fellows are organizing all the issues anda structure of the project to start developing the prototypes of each project.
+
+
+**Retail Trust Index**
+| **Backends fellows** |
+| ------------------ |
+| [Laura Pernía](https://github.com/laura-pb)  |
+| [Guillermo de Leiva](https://github.com/gdeleiva)  |
+| [Laís García](https://github.com/Laisgs)  |
+| [Christian González](https://github.com/ChristianGm25)  |
+
+#### Goal
+This project is a Trust score for UK brands and has the goal is to design and implement a Trust Score that fulfil [Amplify’s requirements](https://empathy.co/announcement/empathy-co-launches-new-retail-trust-index/).
+
+**My Motive Search**
+| **Backends fellows** |
+| ------------------ |
+| [Juan Manuel Manga](https://github.com/juanma6245)  |
+| [José Pérez](https://github.com/josperrod9)  |
+| [Noelia Iglesias](https://github.com/noeliaigc)  |
+| [Raúl Álvarez](https://github.com/Raul-Alv)  |
+| [Tania Bajo](https://github.com/taniabg23)  |
+
+#### Goal
+This project is Web app that allows the user to explore the whole Motive catalogue and has the goal is to explore a search experience that allows the user to navigate through the whole catalogue of Motive’s clients.
+<br>
+<br>
+<img align="center" alt="Motive Video" src="./media/my-motive-search.png" width="150"/>
+<img align="center" alt="Motive Video" src="./media/my-motive-search-1.png" width="530"/>
+<img align="center" alt="Motive Video" src="./media/my-motive-search-2.png" width="150"/>
