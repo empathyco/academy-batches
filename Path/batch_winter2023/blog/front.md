@@ -280,6 +280,9 @@ Some examples from our Academy Fellows:
 - #### [IMdbFont](https://github.com/RaulArca/IMdbFont) by [Raúl Arca](https://github.com/RaulArca)
 - #### [IMDb](https://github.com/jorge16lp/IMDb) by [Jorge López](https://github.com/jorge16lp)
 
+----------------------------------------------------------------
+
+
 ## Week 9
 By week 9 of our Academy path, each member of the group is assigned one project from the four existing ones in the second phase. The four porjects to achieve are known as play-experience, retail-trust-index, My-Motive-Search and Playboard-Restyling
 
@@ -296,8 +299,10 @@ It is a web application called My Motive Search where you can search through all
   <img class="img_2023_example" src="./media/my-motive-search.gif" alt="My motive search prototype"/>
 </p>
 
+
 ### Playboard-Restyling 
 It a part of the main proyect of Playboard-Restyling where here we will adapt the playboard page to make it modern and adapted to the new times of UI.
+
 
 
 | **Path Owner** | **Content Deliverers** | 
