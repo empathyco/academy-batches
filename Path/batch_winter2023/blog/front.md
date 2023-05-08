@@ -274,3 +274,19 @@ Some examples from our Academy Fellows:
 - #### [IMdbFont](https://github.com/RaulArca/IMdbFont) by [Raúl Arca](https://github.com/RaulArca)
 - #### [IMDb](https://github.com/jorge16lp/IMDb) by [Jorge López](https://github.com/jorge16lp)
 
+## Week 9
+By week 9 of our Academy path, each member of the group is assigned one project from the four existing ones in the second phase. The four porjects to achieve are known as play-experience, retail-trust-index, My-Motive-Search and Playboard-Restyling
+
+### Play-Experience
+It consists of creating a new feature within the playboard that allows modifying the styles of the page of the customer who uses it without having to contact Empathy support. Within the feature, the client has access to four separate panels depending on the aspect they want to modify (general: logo, colors, font, searcher, product card and layout).
+
+### Retail-Trust-Index
+An application whose main objective is to create a ranking that gives a score of a page's "trustworthiness", which is a project within the sector of another large project called Open Innovation.
+
+### My-Motive-Search
+It is a web application called My Motive Search where you can search through all the client stores of Motive.
+<<img class="img_2023_example" src="./media/my-motive-search.gif" alt="My motive search prototype"/>
+
+### Playboard-Restyling 
+It a part of the main proyect of Playboard-Restyling where here we will adapt the playboard page to make it modern and adapted to the new times of UI
+
