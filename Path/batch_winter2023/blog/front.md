@@ -303,6 +303,13 @@ It is a web application called My Motive Search where you can search through all
 ### Playboard-Restyling 
 It a part of the main proyect of Playboard-Restyling where here we will adapt the playboard page to make it modern and adapted to the new times of UI.
 
+<table>
+  <tr>
+    <td><img src="./media/Old-Playboard-Interface.png" alt="Old playboard interface"></td>
+    <td><img src="./media/New-Playboard-Interface.png" alt="New playboard prototype with all the changes"></td>
+  </tr>
+</table>
+
 
 
 | **Path Owner** | **Content Deliverers** | 
