@@ -18,6 +18,12 @@
   - [Project: IMDb](#imdb-project)
 - [Week 8](#week-8)
   - [Project: IMDb](#imdb-project)
+- [Week 9](#week-8)
+  - [project: Play-Experience](#Play-Experience)
+  - [project: Retail-Trust-Index](#Retail-Trust-Index)
+  - [project: My-Motive-Search](#My-Motive-Search)
+  - [project: Playboard-Restyling](#Playboard-Restyling)
+
 
 ----------------------------------------------------------------
 ## Week 1
@@ -285,8 +291,33 @@ An application whose main objective is to create a ranking that gives a score of
 
 ### My-Motive-Search
 It is a web application called My Motive Search where you can search through all the client stores of Motive.
-<<img class="img_2023_example" src="./media/my-motive-search.gif" alt="My motive search prototype"/>
+
+<p align="center">
+  <img class="img_2023_example" src="./media/my-motive-search.gif" alt="My motive search prototype"/>
+</p>
 
 ### Playboard-Restyling 
-It a part of the main proyect of Playboard-Restyling where here we will adapt the playboard page to make it modern and adapted to the new times of UI
+It a part of the main proyect of Playboard-Restyling where here we will adapt the playboard page to make it modern and adapted to the new times of UI.
+
+
+| **Path Owner** | **Content Deliverers** | 
+|----------------|------------------------| 
+| Beltrán García |                        |
+
+**Key learning points** <!-- (Do not change this line!!!) -->
+1. Learn to work on bigger teams
+2. Get prototypes quick
+3. How to adapt to huge product and how to work on it.
+
+
+The projects fellows are working on :
+- #### [Miguel Juncal](https://github.com/migueljuncalpz) -> Playboard-restyling
+- #### [LuisMi Alonso](https://github.com/lumialfe) -> Playboard-restyling
+- #### [Andreu Montagut](https://github.com/andmonosu) -> Play-Experiences
+- #### [Pablo Benítez](https://github.com/bamtop) -> Retail-Trust-Index
+- #### [Alberto Monedero](https://github.com/albertjcuac) -> Retail-Trust-Index
+- #### [Hugo García](https://github.com/xHugo21) -> Play-Experiences
+- #### [Mario Rey](https://github.com/mariorey) -> my-motive-search
+- #### [Raúl Arca](https://github.com/RaulArca) -> my-motive-search
+
 
