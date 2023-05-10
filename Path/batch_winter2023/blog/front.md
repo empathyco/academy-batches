@@ -18,12 +18,12 @@
   - [Project: IMDb](#imdb-project)
 - [Week 8](#week-8)
   - [Project: IMDb](#imdb-project)
-- [Week 9](#week-8)
+- [Week 9](#week-9)
   - [project: Play-Experience](#Play-Experience)
   - [project: Retail-Trust-Index](#Retail-Trust-Index)
   - [project: My-Motive-Search](#My-Motive-Search)
   - [project: Playboard-Restyling](#Playboard-Restyling)
-
+- [Week 10](#week-10)
 
 ----------------------------------------------------------------
 ## Week 1
@@ -331,5 +331,24 @@ The projects fellows are working on :
 - #### [Hugo García](https://github.com/xHugo21) -> Play-Experiences
 - #### [Mario Rey](https://github.com/mariorey) -> my-motive-search
 - #### [Raúl Arca](https://github.com/RaulArca) -> my-motive-search
+
+## Week 10
+Week 10 of the 2023 Winter Batch was the starting point of the new projects. This week was mainly focused on data and information gathering from different stakeholders in order to properly kick off the new tasks. Jira Boards were created for each team to create and refine the tasks to be performed.
+
+### Play-Experience
+The Play Experience team contacted both X and Play teams in order to learn about the design guides of each team. They also contacted Mario Ortas from Motive to learn about how they implemented this functionality in their project. Las but not least, they spent the remaining time analyzing repositories and learning the new technologies to use.
+### Retail-Trust-Index
+
+### My-Motive-Search
+
+### Playboard-Restyling 
+Two tasks were assigned to the playboard restyling fellows this week. [Miguel Juncal](https://github.com/migueljuncalpz) was tasked with updating the text styles found in the app, while [LuisMi Alonso](https://github.com/lumialfe) was focused on updating the buttons in the application in order to unify its style throughout the whole project. Both tasks were significantly delayed due to design concerns.
+
+
+#### The teams
+|Play Experience|Retail Trust Index|My Motive Search|Playboard Restyling|
+|---------------|------------------|----------------|-------------------|
+|[Andreu Montagut](https://github.com/andmonosu)|[Pablo Benítez](https://github.com/bamtop)|[Mario Rey](https://github.com/mariorey)|[Miguel Juncal](https://github.com/migueljuncalpz)|
+|[Hugo García](https://github.com/xHugo21)|[Alberto Monedero](https://github.com/albertjcuac)|[Raúl Arca](https://github.com/RaulArca)|[LuisMi Alonso](https://github.com/lumialfe)|
 
 
