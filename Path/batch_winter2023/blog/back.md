@@ -24,7 +24,9 @@
 - [Week 10](#week-10)
   - [Retail Trust Index](#retail-trust-index)
   - [My Motive Search](#my-motive-search)
-
+- [Week 11](#week-11)
+  - [Retail Trust Index](#retail-trust-index)
+  - [My Motive Search](#my-motive-search)
 ----------------------------------------------------------------
 
 ## Week 1
@@ -318,3 +320,23 @@ This project is Web app that allows the user to explore the whole Motive catalog
 <img align="center" alt="Motive Video" src="./media/my-motive-search.png" width="150"/>
 <img align="center" alt="Motive Video" src="./media/my-motive-search-1.png" width="530"/>
 <img align="center" alt="Motive Video" src="./media/my-motive-search-2.png" width="150"/>
+
+
+----------------------------------------------------------------
+## Week 11
+
+### Academy projects scrum first steps
+
+01/05/2023 - 05/05/2023
+
+The Academy Fellows are working in documentation about the proyects, setting up repos and having some meetings to make everything clear.
+
+#### Retail Trust Index
+
+Repo: https://github.com/empathyco/retail-trust-index-back
+Docs: https://searchbroker.atlassian.net/wiki/spaces/OI/pages/4159439689/Retail+Trust+Index
+
+#### My Motive Search
+
+Repo: https://github.com/empathyco/my-motive-search
+Docs: https://searchbroker.atlassian.net/wiki/spaces/AC/pages/4189978968/My+Motive+Search+Academy+Documentation
