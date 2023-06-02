@@ -340,3 +340,23 @@ Docs: https://searchbroker.atlassian.net/wiki/spaces/OI/pages/4159439689/Retail+
 
 Repo: https://github.com/empathyco/my-motive-search
 Docs: https://searchbroker.atlassian.net/wiki/spaces/AC/pages/4189978968/My+Motive+Search+Academy+Documentation
+
+
+----------------------------------------------------------------
+## Week 12
+
+### Academy projects scrum first steps
+
+08/05/2023 - 12/05/2023
+
+Academy fellows are progessing in their various second phase projects, refining the Jira Boards, the scopes and start developing some functionalities.
+
+#### Retail Trust Index
+
+Repo: https://github.com/empathyco/retail-trust-index-back
+Docs: https://searchbroker.atlassian.net/wiki/spaces/OI/pages/4159439689/Retail+Trust+Index
+
+#### My Motive Search
+
+Repo: https://github.com/empathyco/my-motive-search
+Docs: https://searchbroker.atlassian.net/wiki/spaces/AC/pages/4189978968/My+Motive+Search+Academy+Documentation
