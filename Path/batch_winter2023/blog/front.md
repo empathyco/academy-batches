@@ -25,6 +25,7 @@
   - [project: Playboard-Restyling](#Playboard-Restyling)
 - [Week 10](#week-10)
 - [Week 11](#week-11)
+- [Week 12](#week-12)
 
 ----------------------------------------------------------------
 ## Week 1
@@ -364,5 +365,26 @@ Two tasks were assigned to the playboard restyling fellows this week. [Miguel Ju
 |---------------|------------------|----------------|-------------------|
 |[Andreu Montagut](https://github.com/andmonosu)|[Pablo Benítez](https://github.com/bamtop)|[Mario Rey](https://github.com/mariorey)|[Miguel Juncal](https://github.com/migueljuncalpz)|
 |[Hugo García](https://github.com/xHugo21)|[Alberto Monedero](https://github.com/albertjcuac)|[Raúl Arca](https://github.com/RaulArca)|[LuisMi Alonso](https://github.com/lumialfe)|
+
+## Week 12
+
+[ToDo]
+
+### Play-Experience
+[ToDo]
+### Retail-Trust-Index
+  About the RTI Project, our goals and project have undergone significant changes. We are now focusing on the development of the Lookup table, which is a crucial component within RTI. The Lookup table will contain information about cookies that will be compared with the Cookie Analyzer from the OpenPrivacy Team. Our new goals include populating the Lookup Table and creating an intuitive interface that allows users to perform basic operations such as creating, modifying, or deleting entries .
+
+
+### My-Motive-Search
+[ToDo]
+### Playboard-Restyling
+[ToDo]
+### The teams
+|Play Experience|Retail Trust Index|My Motive Search|Playboard Restyling|
+|---------------|------------------|----------------|-------------------|
+|[Andreu Montagut](https://github.com/andmonosu)|[Pablo Benítez](https://github.com/bamtop)|[Mario Rey](https://github.com/mariorey)|[Miguel Juncal](https://github.com/migueljuncalpz)|
+|[Hugo García](https://github.com/xHugo21)|[Alberto Monedero](https://github.com/albertjcuac)|[Raúl Arca](https://github.com/RaulArca)|[LuisMi Alonso](https://github.com/lumialfe)|
+
 
 
