@@ -57,5 +57,11 @@ Get to meet the [Academy Fellows](Path/batch_winter2023/blog/fellows.md)\.
 
 [<img class="batch" src="https://github.com/empathyco/academy-batches/blob/main/assets/img/summer-batch.png?raw=true" alt="Summer Batch 23"/>](Path/batch_fall2022/blog/fellows.md)
 
+Get to meet the [Academy Fellows](Path/batch_summer2023/blog/fellows.md)\.
+
+[<img class="icons_path" src="https://github.com/empathyco/academy-batches/blob/main/assets/img/front.png?raw=true" alt="Frontend" width="150px"/>](Path/batch_summer2023/blog/software.md)
+
+[<img class="text_path" src="https://github.com/empathyco/academy-batches/blob/main/assets/img/FrontEnd.png?raw=true" alt="frontend" width="150px"/>](Path/batch_summer2023/blog/software.md)
+
 [<img class="batch" src="https://github.com/empathyco/academy-batches/blob/main/assets/img/fall-batch.png?raw=true" alt="Fall Batch 23"/>](Path/batch_fall2022/blog/fellows.md)
 
