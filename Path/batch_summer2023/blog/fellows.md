@@ -17,7 +17,7 @@ Get to know us in the following table! :smiley:
 | Carlos Fernández         | Sara Corte       |
 | David Gavira             |                  |
 | Gabriel Padilla          |                  |
-| Germán                   |                  |
+| Germán Tocón             |                  |
 | Guillermo de Andrés      |                  |
 | Jonathan Muñoz           |                  |
 | Jose Antonio Pérez       |                  |
