@@ -26,6 +26,7 @@
 - [Week 10](#week-10)
 - [Week 11](#week-11)
 - [Week 12](#week-12)
+- [Week 13](#week-13)
 
 ----------------------------------------------------------------
 ## Week 1
@@ -378,6 +379,25 @@ Two tasks were assigned to the playboard restyling fellows this week. [Miguel Ju
 
 ### My-Motive-Search
 [ToDo]
+### Playboard-Restyling
+[ToDo]
+### The teams
+|Play Experience|Retail Trust Index|My Motive Search|Playboard Restyling|
+|---------------|------------------|----------------|-------------------|
+|[Andreu Montagut](https://github.com/andmonosu)|[Pablo Benítez](https://github.com/bamtop)|[Mario Rey](https://github.com/mariorey)|[Miguel Juncal](https://github.com/migueljuncalpz)|
+|[Hugo García](https://github.com/xHugo21)|[Alberto Monedero](https://github.com/albertjcuac)|[Raúl Arca](https://github.com/RaulArca)|[LuisMi Alonso](https://github.com/lumialfe)|
+
+## Week 13
+
+Week 13 of the 2023 Winter Batch was the ending point of the second sprint of the project. This week was mainly focused on developing the different projects to present the outcomes of the sprint in the Sprint Review. This week also started the third sprint and each team have done a Sprint Retrospective of the second sprint and Sprint Planning of the third sprint.
+
+### Play-Experience
+This team was able to add a Live Preview in which the Shop Manager can see the visual customisation changes that are done in the Playboard, applied on their pages and shown on it at the moment.
+### Retail-Trust-Index
+This team have changed the scope of the project and the name of this, now the name of the project is Lookup Table. They defined how is going to be the UX of the Lookup Table design.
+
+### My-Motive-Search
+The frontend fellows of this team have finished a prototype following the designs made by Leticia Amores.
 ### Playboard-Restyling
 [ToDo]
 ### The teams
