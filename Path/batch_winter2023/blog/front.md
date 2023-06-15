@@ -393,13 +393,16 @@ Week 13 of the 2023 Winter Batch was the ending point of the second sprint of th
 
 ### Play-Experience
 This team was able to add a Live Preview in which the Shop Manager can see the visual customisation changes that are done in the Playboard, applied on their pages and shown on it at the moment.
+
 ### Retail-Trust-Index
 This team have changed the scope of the project and the name of this, now the name of the project is Lookup Table. They defined how is going to be the UX of the Lookup Table design.
 
 ### My-Motive-Search
 The frontend fellows of this team have finished a prototype following the designs made by Leticia Amores.
+
 ### Playboard-Restyling
 [ToDo]
+
 ### The teams
 |Play Experience|Retail Trust Index|My Motive Search|Playboard Restyling|
 |---------------|------------------|----------------|-------------------|
