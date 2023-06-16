@@ -289,7 +289,7 @@ Some examples from our Academy Fellows:
 ## Week 9
 By week 9 of our Academy path, each member of the group is assigned one project from the four existing ones in the second phase. The four porjects to achieve are known as play-experience, retail-trust-index, My-Motive-Search and Playboard-Restyling
 
-### Play-Experience
+### Play-Experiences
 It consists of creating a new feature within the playboard that allows modifying the styles of the page of the customer who uses it without having to contact Empathy support. Within the feature, the client has access to four separate panels depending on the aspect they want to modify (general: logo, colors, font, searcher, product card and layout).
 
 ### Retail-Trust-Index
@@ -339,7 +339,7 @@ The projects fellows are working on :
 Week 10 of the 2023 Winter Batch was the starting point of the new projects. This week was mainly focused on data and information gathering from different stakeholders in order to properly kick off the new tasks. Jira Boards were created for each team to create and refine the tasks to be performed.
 
 
-### Play-Experience
+### Play-Experiences
 The Play Experience team contacted both X and Play teams in order to learn about the design guides of each team. They also contacted Mario Ortas from Motive to learn about how they implemented this functionality in their project. Las but not least, they spent the remaining time analyzing repositories and learning the new technologies to use.
 ### Retail-Trust-Index
 
@@ -352,7 +352,7 @@ Two tasks were assigned to the playboard restyling fellows this week. [Miguel Ju
 Week 11 of the 2023 Winter Batch was the ending point of the first sprint of the project. This week was mainly focused on developing the different projects
 
 
-### Play-Experience
+### Play-Experiences
  The Play Experiences team created a new section in the playboard and was able to add all the panels and required functionalities for the style's modifications
 ### Retail-Trust-Index
 
@@ -371,7 +371,7 @@ Two tasks were assigned to the playboard restyling fellows this week. [Miguel Ju
 
 [ToDo]
 
-### Play-Experience
+### Play-Experiences
 [ToDo]
 ### Retail-Trust-Index
   About the RTI Project, our goals and project have undergone significant changes. We are now focusing on the development of the Lookup table, which is a crucial component within RTI. The Lookup table will contain information about cookies that will be compared with the Cookie Analyzer from the OpenPrivacy Team. Our new goals include populating the Lookup Table and creating an intuitive interface that allows users to perform basic operations such as creating, modifying, or deleting entries .
@@ -391,7 +391,7 @@ Two tasks were assigned to the playboard restyling fellows this week. [Miguel Ju
 
 Week 13 of the 2023 Winter Batch was the ending point of the second sprint of the project. This week was mainly focused on developing the different projects to present the outcomes of the sprint in the Sprint Review. This week also started the third sprint and each team have done a Sprint Retrospective of the second sprint and Sprint Planning of the third sprint.
 
-### Play-Experience
+### Play-Experiences
 This team was able to add a Live Preview in which the Shop Manager can see the visual customisation changes that are done in the Playboard, applied on their pages and shown on it at the moment.
 
 ### Retail-Trust-Index
@@ -409,5 +409,26 @@ The frontend fellows of this team have finished a prototype following the design
 |[Andreu Montagut](https://github.com/andmonosu)|[Pablo Benítez](https://github.com/bamtop)|[Mario Rey](https://github.com/mariorey)|[Miguel Juncal](https://github.com/migueljuncalpz)|
 |[Hugo García](https://github.com/xHugo21)|[Alberto Monedero](https://github.com/albertjcuac)|[Raúl Arca](https://github.com/RaulArca)|[LuisMi Alonso](https://github.com/lumialfe)|
 
+## Week 14
+
+During the fourteenth week of the Academy Program, the fellows continued working on their projects. The entire week was dedicated to progressing in the third sprint.
+
+### Play-Experiences
+Andreu and Hugo developed two different methods that allowed the shop manager to switch between the device type shown in the Live Preview. First method consisted in a button selector component that switched between views whilst the other was a sliding bar that allowed shop managers to change the width of the preview freely.
+
+### Retail-Trust-Index
+Lookup Table was renamed again to MarTech Atlas. The main goal for the frontend team was to add animations add the posibility to add new entries and create form validations.
+
+### My-Motive-Search
+The main focus for this third sprint was to create animations, refine the styles, and connect with backend to fetch categories and display results. It was also added a new column for product display.
+
+### Playboard-Restyling
+[ToDo]
+
+### The teams
+|Play Experience|Retail Trust Index|My Motive Search|Playboard Restyling|
+|---------------|------------------|----------------|-------------------|
+|[Andreu Montagut](https://github.com/andmonosu)|[Pablo Benítez](https://github.com/bamtop)|[Mario Rey](https://github.com/mariorey)|[Miguel Juncal](https://github.com/migueljuncalpz)|
+|[Hugo García](https://github.com/xHugo21)|[Alberto Monedero](https://github.com/albertjcuac)|[Raúl Arca](https://github.com/RaulArca)|[LuisMi Alonso](https://github.com/lumialfe)|
 
 
