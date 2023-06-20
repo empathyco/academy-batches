@@ -431,4 +431,26 @@ The main focus for this third sprint was to create animations, refine the styles
 |[Andreu Montagut](https://github.com/andmonosu)|[Pablo Benítez](https://github.com/bamtop)|[Mario Rey](https://github.com/mariorey)|[Miguel Juncal](https://github.com/migueljuncalpz)|
 |[Hugo García](https://github.com/xHugo21)|[Alberto Monedero](https://github.com/albertjcuac)|[Raúl Arca](https://github.com/RaulArca)|[LuisMi Alonso](https://github.com/lumialfe)|
 
+## Week 15
+
+During this week of the Academy Program, the fellows continued working on their projects, completing the third sprint and conducting the sprint review. In this review, the different teams presented their progress as follows:
+
+### Play-Experiences
+This team worked to allow shop managers to change the device shown in the live preview.
+
+### Retail-Trust-Index
+This team implemented the lookup table app including CRUD, filters, animations and validations. Also they developed a module to interact with OCD.
+
+### My-Motive-Search
+This team focused on improving search time, search by categories and improving categories interface.
+
+### Playboard-Restyling
+[ToDo]
+
+### The teams
+|Play Experience|Retail Trust Index|My Motive Search|Playboard Restyling|
+|---------------|------------------|----------------|-------------------|
+|[Andreu Montagut](https://github.com/andmonosu)|[Pablo Benítez](https://github.com/bamtop)|[Mario Rey](https://github.com/mariorey)|[Miguel Juncal](https://github.com/migueljuncalpz)|
+|[Hugo García](https://github.com/xHugo21)|[Alberto Monedero](https://github.com/albertjcuac)|[Raúl Arca](https://github.com/RaulArca)|[LuisMi Alonso](https://github.com/lumialfe)|
+
 
