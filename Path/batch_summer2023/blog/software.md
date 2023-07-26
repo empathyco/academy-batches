@@ -45,7 +45,7 @@ In small groups (2, 3 people) a CRUD application will have to be made. This appl
   - [Frontend](https://github.com/jonathanMM97/CarFinder_Frontend)
   - [Deployment](https://github.com/UO266575/CarFinder_Deployment)
 - [GameTracker](https://github.com/joscacgom/GameTracker) by [José Cáceres Gómez](https://github.com/joscacgom) and [Mayte Fernández Coro](https://github.com/teresafcoro)
-- SpotifyDiscover by [Guillermo de Andrés]() y [Germán Tocón](https://github.com/Ger-28)
+- SpotifyDiscover by [Guillermo de Andrés](https://github.com/Willygap1572) y [Germán Tocón](https://github.com/Ger-28)
   - [Backend](https://github.com/Willygap1572/Empathy-spotify-discover)
   - [Frontend](https://github.com/Willygap1572/Empathy-spotify-discover-front)﻿
 
