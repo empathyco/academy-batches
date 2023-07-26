@@ -32,6 +32,7 @@ Creating your own personal website, it can have multiple sections. Try using sem
 - [Ton Pérez](https://uo266575.github.io/joseantoniopm_portfolio/index.html)
 - [Jonathan Muñoz Morales](https://jonathanmm97.github.io/JonathanMM.github.io/#home)
 - [José Cáceres Gómez](https://joscacgom.github.io/portfolio/)
+- [Mayte Fernández Coro](https://teresafcoro.github.io/empathy_html_css/)
 
 ### First Project
 
