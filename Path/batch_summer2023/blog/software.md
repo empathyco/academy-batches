@@ -30,6 +30,7 @@ Creating your own personal website, it can have multiple sections. Try using sem
 - [Ana Fernández Ostio](https://anaostio.github.io/portofolio-exercise/)
 - [Miguel Ángel Contreras Córdoba](https://macontrerascordoba.github.io/)
 - [Ton Pérez](https://uo266575.github.io/joseantoniopm_portfolio/index.html)
+- [Jonathan Muñoz Morales](https://jonathanmm97.github.io/JonathanMM.github.io/#home)
 
 ### First Project
 
