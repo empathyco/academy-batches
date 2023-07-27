@@ -36,6 +36,7 @@ Creating your own personal website, it can have multiple sections. Try using sem
 - [Guillermo de Andrés](https://willygap1572.github.io/Empathy-portfolio/)
 - [Gabriel Padilla Rebollo](https://gabipr96.github.io/)
 - [Germán Jesús Tocón Ruiz](https://github.com/Ger-28/Portfolio)
+- [Alejandro Lorenzo Ocaña](https://github.com/loreenzo02/loreenzo02.github.io)
 ### First Project
 
 In small groups (2, 3 people) a CRUD application will have to be made. This application will have to be developed during 10 weeks. The knowledge obtained from the different learning sessions will have to be put into it.
@@ -49,7 +50,8 @@ In small groups (2, 3 people) a CRUD application will have to be made. This appl
 - [GameTracker](https://github.com/joscacgom/GameTracker) by [José Cáceres Gómez](https://github.com/joscacgom) and [Mayte Fernández Coro](https://github.com/teresafcoro)
 - SpotifyDiscover by [Guillermo de Andrés](https://github.com/Willygap1572) y [Germán Tocón](https://github.com/Ger-28)
   - [Backend](https://github.com/Willygap1572/Empathy-spotify-discover)
-  - [Frontend](https://github.com/Willygap1572/Empathy-spotify-discover-front)﻿
+  - [Frontend](https://github.com/Willygap1572/Empathy-spotify-discover-front)
+- [Gym tonic](https://github.com/Tiberiuss/GymTonic) by Tiberius, Gabriel and Alejandro
 
 
 ----------------------------------------------------------------
