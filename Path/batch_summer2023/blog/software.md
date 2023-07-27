@@ -51,7 +51,7 @@ In small groups (2, 3 people) a CRUD application will have to be made. This appl
 - SpotifyDiscover by [Guillermo de Andrés](https://github.com/Willygap1572) y [Germán Tocón](https://github.com/Ger-28)
   - [Backend](https://github.com/Willygap1572/Empathy-spotify-discover)
   - [Frontend](https://github.com/Willygap1572/Empathy-spotify-discover-front)
-- [Gym tonic](https://github.com/Tiberiuss/GymTonic) by Tiberius, Gabriel and Alejandro
+- [Gym tonic](https://github.com/Tiberiuss/GymTonic) by [Tiberius Roman](https://github.com/Tiberiuss), [Gabriel Padilla](https://github.com/gabipr96) and [Alejandro Lorenzo](https://github.com/loreenzo02)
 
 
 ----------------------------------------------------------------
