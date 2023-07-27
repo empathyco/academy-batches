@@ -34,6 +34,7 @@ Creating your own personal website, it can have multiple sections. Try using sem
 - [José Cáceres Gómez](https://joscacgom.github.io/portfolio/)
 - [Mayte Fernández Coro](https://teresafcoro.github.io/empathy_html_css/)
 - [Guillermo de Andrés](https://willygap1572.github.io/Empathy-portfolio/)
+- [Gabriel Padilla Rebollo](https://gabipr96.github.io/)
 ### First Project
 
 In small groups (2, 3 people) a CRUD application will have to be made. This application will have to be developed during 10 weeks. The knowledge obtained from the different learning sessions will have to be put into it.
